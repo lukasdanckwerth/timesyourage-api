@@ -1,0 +1,23 @@
+name: Deploy Heroku
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows to run workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Add remote origin
+        run: |
+          git filter-branch -- --all
+          git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@https://git.heroku.com/times-your-age.git
+      - name: Deploy to Heroku Main
+        run: |
+          git push heroku HEAD:main -f
