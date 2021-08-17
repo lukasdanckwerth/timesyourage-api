@@ -17,7 +17,7 @@ jobs:
       - name: Add remote origin
         run: |
           git filter-branch -- --all
-          git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@https://git.heroku.com/times-your-age.git
+          git remote add heroku https://heroku:${{ secrets.HEROKU_API_KEY }}@git.heroku.com/times-your-age.git
       - name: Deploy to Heroku Main
         run: |
           git push heroku HEAD:main -f

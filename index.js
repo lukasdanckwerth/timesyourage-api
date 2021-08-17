@@ -19,7 +19,7 @@ const environment = process.env.NODE_ENV || 'development';
 
 app.get("/", function (req, res) {
     res.json({
-        message: "Wordclouds (" + application_version + ")"
+        message: "TimesYourAge Server (" + application_version + ")"
     });
     res.end();
 });
