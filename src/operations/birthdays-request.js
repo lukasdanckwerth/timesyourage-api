@@ -9,12 +9,12 @@ function explode(date) {
   return { year: +parts[0], month: +parts[1], day: +parts[2] };
 }
 
-function birthdayRequest(req, res) {
+function birthdaysRequest(req, res) {
   const date = explode(req.params.date || isoDate());
   repository
-    .random(date.month, date.day)
-    .then((birthday) => {
-      res.json(birthday);
+    .find(date.month, date.day)
+    .then((birthdays) => {
+      res.json({ count: birthdays.length, birthdays });
       res.end();
     })
     .catch((error) => {
@@ -24,4 +24,4 @@ function birthdayRequest(req, res) {
     });
 }
 
-module.exports = birthdayRequest;
+module.exports = birthdaysRequest;

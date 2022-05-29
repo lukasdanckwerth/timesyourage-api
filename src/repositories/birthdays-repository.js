@@ -14,6 +14,10 @@ async function get(name, birthday) {
   return collection().then((c) => c.findOne({ name, birthday }));
 }
 
+async function find(month, day) {
+  return collection().then((c) => c.find({ month, day }).toArray());
+}
+
 async function findOne(month, day) {
   return collection().then((c) => c.findOne({ month, day }));
 }
@@ -39,6 +43,7 @@ async function random(month, day) {
 
 exports.all = all;
 exports.get = get;
+exports.find = find;
 exports.findOne = findOne;
 exports.random = random;
 exports.add = insertOne;

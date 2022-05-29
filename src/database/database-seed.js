@@ -1,5 +1,5 @@
 const fs = require("fs");
-const repository = require("../repositories/birthdays.repository.js");
+const repository = require("../repositories/birthdays-repository.js");
 
 async function seed() {
   console.log("[seed] start");
