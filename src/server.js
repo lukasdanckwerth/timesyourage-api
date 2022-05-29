@@ -9,7 +9,7 @@ const birthdayRequest = require("./operations/birthday-request.js");
 
 const app = express();
 const version = require("../package.json").version || "Unknown";
-const port = 3000;
+const port = process.env.PORT || 80;
 const environment = process.env.NODE_ENV || "development";
 const API_KEY = "TimesYourAge";
 
