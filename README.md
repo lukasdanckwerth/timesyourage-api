@@ -1,1 +1,4 @@
 # TimesYourAge Server
+
+### Installation
+

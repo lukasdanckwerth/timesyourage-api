@@ -1,0 +1,61 @@
+const BirthdaysController = require("../src/controller/birthdays.controller.js");
+const fs = require("fs");
+
+let bc = new BirthdaysController.BirthdaysController();
+
+function print(...args) {
+  console.log("[seed]", ...args);
+}
+
+async function addBirthdays(birthdays, month, day) {
+  for (birthday of birthdays) {
+    const date = `${birthday.year}-${month}-${day}`;
+    const page = birthday.pages[0];
+
+    if (!page) {
+      continue;
+    }
+
+    const name = page.normalizedtitle;
+
+    let candidate = await bc.get(name, date);
+    if (candidate) {
+      continue;
+    }
+
+    const obj = {
+      name: page.normalizedtitle,
+      birthday: date,
+      thumbnail: page.thumbnail,
+      extract: page.extract,
+      year: +birthday.year,
+      month: +month,
+      day: +day,
+    };
+
+    await bc.create(obj);
+  }
+}
+
+async function run() {
+  let filenames = fs.readdirSync("wikidata");
+
+  for (filename of filenames) {
+    let filepath = "./wikidata/" + filename;
+    let month = filename.split(".")[0].split("-")[0];
+    let day = filename.split(".")[0].split("-")[1];
+    let content = fs.readFileSync(filepath);
+    let obj = JSON.parse(content);
+
+    if (!obj.births) {
+      continue;
+    } else {
+      print("filepath", filepath, "month", month, "day", day);
+      await addBirthdays(obj.births, month, day);
+    }
+  }
+
+  process.exit(0);
+}
+
+run();

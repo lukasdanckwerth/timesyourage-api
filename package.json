@@ -2,10 +2,12 @@
   "name": "wordclouds",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "playground": "node playground.js",
+    "start": "node src/server.js",
+    "serve": "node src/server.js",
+    "serve:watch": "nodemon src/server.js",
+    "grab": "node scripts/grab-wikipedia.js",
+    "grab:watch": "nodemon scripts/grab-wikipedia.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,8 +21,16 @@
   },
   "homepage": "https://github.com/lukasdanckwerth/times-your-age-server#readme",
   "dependencies": {
-    "axios": "^0.21.1",
     "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongodb": "^4.2.0",
+    "mongodb-memory-server": "^8.6.0",
+    "nocache": "^3.0.4",
+    "node-fetch": "^2.6.1",
     "util": "^0.12.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16",
+    "wikipedia": "^1.1.8"
   }
 }

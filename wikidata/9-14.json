@@ -1,0 +1,2784 @@
+[
+  {
+    "name": "Tom Schaar",
+    "birthday": "1999-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tom_Schaar.png/202px-Tom_Schaar.png",
+      "width": 202,
+      "height": 320
+    },
+    "extract": "Tom Schaar ist ein US-amerikanischer Skateboardfahrer.",
+    "year": 1999,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sander Sagosen",
+    "birthday": "1995-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sander_Sagosen_20171202_%28cropped%29.jpg/298px-Sander_Sagosen_20171202_%28cropped%29.jpg",
+      "width": 298,
+      "height": 320
+    },
+    "extract": "Sander Sagosen ist ein norwegischer Handballspieler. Er wird meist auf Rückraum Mitte eingesetzt und gilt als „Superstar“ der norwegischen Handballnationalmannschaft.",
+    "year": 1995,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Douglas Costa",
+    "birthday": "1990-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Russia-Brazil_2018_%289%29.jpg/271px-Russia-Brazil_2018_%289%29.jpg",
+      "width": 271,
+      "height": 320
+    },
+    "extract": "Douglas Costa de Souza ist ein brasilianischer Fußballspieler. Der Flügelstürmer steht als Leihgabe von Juventus Turin bei Los Angeles Galaxy unter Vertrag.",
+    "year": 1990,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Petar Filipovic",
+    "birthday": "1990-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20160714_EL_Austria_vs_Kukesi_1603.jpg/213px-20160714_EL_Austria_vs_Kukesi_1603.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Petar Filipovic ist ein deutsch-kroatischer Fußballspieler.",
+    "year": 1990,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sam Lowes",
+    "birthday": "1990-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Sam_Lowes_cropped.jpg/292px-Sam_Lowes_cropped.jpg",
+      "width": 292,
+      "height": 320
+    },
+    "extract": "Samuel Deane „Sam“ Lowes ist ein britischer Motorradrennfahrer.",
+    "year": 1990,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Michael Pittnauer",
+    "birthday": "1990-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Michael_Pittnauer_-_Floridsdorfer_AC_%2801%29.jpg/213px-Michael_Pittnauer_-_Floridsdorfer_AC_%2801%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Michael Pittnauer ist ein österreichischer Fußballspieler auf der Position eines Mittelstürmers. Zurzeit spielt er beim Floridsdorfer AC in der drittklassigen österreichischen Regionalliga Ost.",
+    "year": 1990,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Luisa Schulze",
+    "birthday": "1990-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/2021-05-15_Handball_Frauen%2C_OLYMP_Final4_2021%2C_TuS_Metzingen_vs._SG_BBM_Bietigheim_1DX_3504_by_Stepro.jpg/320px-2021-05-15_Handball_Frauen%2C_OLYMP_Final4_2021%2C_TuS_Metzingen_vs._SG_BBM_Bietigheim_1DX_3504_by_Stepro.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Luisa Schulze ist eine deutsche Handballspielerin.",
+    "year": 1990,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jimmy Butler",
+    "birthday": "1989-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jimmy_Butler_%28cropped%29.jpg/220px-Jimmy_Butler_%28cropped%29.jpg",
+      "width": 220,
+      "height": 320
+    },
+    "extract": "Jimmy Butler III ist ein US-amerikanischer Basketballspieler, der zurzeit bei den Miami Heat in der NBA unter Vertrag steht.",
+    "year": 1989,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Logan Henderson",
+    "birthday": "1989-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Logan_Henderson_BTR_Paparazzo.jpg/234px-Logan_Henderson_BTR_Paparazzo.jpg",
+      "width": 234,
+      "height": 320
+    },
+    "extract": "Logan Philip Henderson ist ein US-amerikanischer Schauspieler, Sänger, Rapper und Tänzer.",
+    "year": 1989,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Lee Jong-suk",
+    "birthday": "1989-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg/232px-%28%EC%9D%B4%EC%A2%85%EC%84%9D_x_%EC%97%A0%EB%B9%84%EC%98%A4%29_%EC%9B%B9%EB%93%9C%EB%9D%BC%EB%A7%88_Long_Distance_Love_%EA%B3%A0%ED%99%94%EC%A7%88_%ED%98%84%EC%9E%A5%EC%82%AC%EC%A7%84_%281%29.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Lee Jong-suk ist ein südkoreanischer Schauspieler.",
+    "year": 1989,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hallbera Guðný Gísladóttir",
+    "birthday": "1986-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hallbera_Gisladottir.jpg/140px-Hallbera_Gisladottir.jpg",
+      "width": 140,
+      "height": 320
+    },
+    "extract": "Hallbera Guðný Gísladóttir ist eine isländische Fußballspielerin. Die Abwehr- und Mittelfeldspielerin spielt seit 2008 in der isländischen Nationalmannschaft und nahm mit ihr an den Europameisterschaften 2013 und 2017 teil. Auf Vereinsebene spielte sie lange Zeit und zuletzt wieder für Valur Reykjavík sowie von 2015 bis 2017 für Rekordmeister Breiðablik Kópavogur. Dazwischen gab es Abstecher nach Italien und Schweden, wo sie nun wieder spielen will.",
+    "year": 1986,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Steven Naismith",
+    "birthday": "1986-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Steven_Naismith.jpg/165px-Steven_Naismith.jpg",
+      "width": 165,
+      "height": 320
+    },
+    "extract": "Steven John Naismith ist ein ehemaliger schottischer Fußballspieler, auf der Position des Mittelstürmers.",
+    "year": 1986,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Aya Ueto",
+    "birthday": "1985-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Ueto_Aya.jpg/224px-Ueto_Aya.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Aya Ueto ist ein japanisches Idol. Sie arbeitet als Musikerin, Schauspielerin, Synchronsprecherin und Model.",
+    "year": 1985,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Maria Areosa",
+    "birthday": "1984-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Maria_Areosa_Quarteira2011.jpg/184px-Maria_Areosa_Quarteira2011.jpg",
+      "width": 184,
+      "height": 320
+    },
+    "extract": "Maria Areosa Barruncho ist eine ehemalige portugiesische Triathletin und portugiesische Duathlon-Meisterin des Jahres 2010.",
+    "year": 1984,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Tom Veelers",
+    "birthday": "1984-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lichtervelde_-_Omloop_van_het_Houtland%2C_24_september_2014_%28B179%29.JPG/258px-Lichtervelde_-_Omloop_van_het_Houtland%2C_24_september_2014_%28B179%29.JPG",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Tom Veelers ist ein ehemaliger niederländischer Radrennfahrer.",
+    "year": 1984,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Andres Ambühl",
+    "birthday": "1983-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Andres_Amb%C3%BChl_-_Switzerland_vs._Canada%2C_29th_April_2012.jpg/320px-Andres_Amb%C3%BChl_-_Switzerland_vs._Canada%2C_29th_April_2012.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Andres Ambühl ist ein Schweizer Eishockeyspieler, der seit 2013 beim HC Davos in der Schweizer National League unter Vertrag steht.",
+    "year": 1983,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Arash Borhani",
+    "birthday": "1983-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Arash_Borhani_in_press_conference.jpg/303px-Arash_Borhani_in_press_conference.jpg",
+      "width": 303,
+      "height": 320
+    },
+    "extract": "Arash Borhani ist ein iranischer Fußballspieler.",
+    "year": 1983,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Amy Winehouse",
+    "birthday": "1983-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Amy_Winehouse_f4962007_crop.jpg/224px-Amy_Winehouse_f4962007_crop.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Amy Jade Winehouse war eine britische Soul- und Jazz-Sängerin und Songschreiberin.",
+    "year": 1983,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jennifer Zietz",
+    "birthday": "1983-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/JenniferZietz2009.jpg/307px-JenniferZietz2009.jpg",
+      "width": 307,
+      "height": 320
+    },
+    "extract": "Jennifer „Jenny“ Zietz ist eine deutsche Fußballtrainerin, ehemalige Fußball- und Nationalspielerin. Die Mittelfeldspielerin spielte für den Bundesligisten 1. FFC Turbine Potsdam.",
+    "year": 1983,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sunrise Adams",
+    "birthday": "1982-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sunrise_Adams_iafd_adjusted_cropped.jpg/191px-Sunrise_Adams_iafd_adjusted_cropped.jpg",
+      "width": 191,
+      "height": 320
+    },
+    "extract": "Sunrise Adams ist eine ehemalige US-amerikanische Pornodarstellerin. Sie ist die Nichte der US-amerikanischen Pornodarstellerin Sunset Thomas.",
+    "year": 1982,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Aykut Erçetin",
+    "birthday": "1982-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aykut_Er%C3%A7etin_%2713.JPG/167px-Aykut_Er%C3%A7etin_%2713.JPG",
+      "width": 167,
+      "height": 320
+    },
+    "extract": "Aykut Erçetin ist ein ehemaliger türkischer Fußballtorhüter.",
+    "year": 1982,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Henning Kreitel",
+    "birthday": "1982-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Lesung_im_Literaturhaus_Berlin_%2830._Oktober_2020%29.jpg/320px-Lesung_im_Literaturhaus_Berlin_%2830._Oktober_2020%29.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Henning Kreitel ist ein deutscher Schriftsteller und Fotograf, der in Berlin lebt.",
+    "year": 1982,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Florian Mader",
+    "birthday": "1982-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/%C3%96FB-Cupfinale_2013_-_Florian_Mader_01.JPG/258px-%C3%96FB-Cupfinale_2013_-_Florian_Mader_01.JPG",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Florian Mader ist ein ehemaliger österreichischer Fußballspieler auf der Position eines Mittelfeldspielers.",
+    "year": 1982,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Miyavi",
+    "birthday": "1981-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Miyavi_at_Irving_Plaza_on_October_31%2C_2011.jpg/213px-Miyavi_at_Irving_Plaza_on_October_31%2C_2011.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Miyavi ist ein japanischer Musiker. Miyavi startete seine Karriere als Gitarrist und Background-Sänger bei der Visual-Kei-Band Due'le quartz und ist seit deren Auflösung im Jahr 2002 Solokünstler. 2007 beschloss er, sich Yoshiki Hayashis Projekt S.K.I.N. als Gitarrist anzuschließen.",
+    "year": 1981,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Stefan Reisinger",
+    "birthday": "1981-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stefan-Reisinger.jpg/213px-Stefan-Reisinger.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Stefan Reisinger ist ein ehemaliger deutscher Fußballspieler und jetziger Fußballtrainer. Er galt als guter Vorbereiter von Torchancen, verfügte als Angreifer neben seiner Schnelligkeit über eine robuste Spielweise und besaß mit dieser Stärke eine große Durchsetzungsfähigkeit vor dem gegnerischen Tor. Als einer von wenigen Fußballprofis ist Stefan Reisinger geprüfter Schiedsrichter. Momentan arbeitet er als Realschullehrer in seiner bayerischen Heimat.",
+    "year": 1981,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ashley Roberts",
+    "birthday": "1981-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Ashley_Roberts_2018.JPG/320px-Ashley_Roberts_2018.JPG",
+      "width": 320,
+      "height": 234
+    },
+    "extract": "Ashley Maria Roberts ist eine US-amerikanische Sängerin, Tänzerin, Schauspielerin und Designerin sowie ein Model. Große Bekanntheit erlangte sie als Mitglied der Pop-Gruppe The Pussycat Dolls.\nIm Februar 2010 verließ sie die Gruppe, um eine Solokarriere zu starten. Seit dem Comeback 2019 ist sie wieder ein Teil der Gruppe.",
+    "year": 1981,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ivan Radeljić",
+    "birthday": "1980-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ivan_Radeljic.jpg/159px-Ivan_Radeljic.jpg",
+      "width": 159,
+      "height": 320
+    },
+    "extract": "Ivan Radeljić ist ein ehemaliger bosnisch-herzegowinischer Fußballspieler (Innenverteidiger). Radeljić besitzt neben der bosnischen auch die kroatische Staatsbürgerschaft.",
+    "year": 1980,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ivica Olić",
+    "birthday": "1979-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ivica_Oli%C4%87_2021.jpg/216px-Ivica_Oli%C4%87_2021.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "Ivica Olić [ˈiʋitsa ˈɔːlitɕ] ist ein ehemaliger kroatischer Fußballspieler und heutiger -trainer, der insgesamt mehr als zehn Jahre seiner Laufbahn in Deutschland spielte. Seit 2017 ist er, mit Ausnahme von März bis Juni 2021, Teil des Trainerstabs der kroatischen Fußballnationalmannschaft, mit der er bei der Weltmeisterschaft 2018 Vizeweltmeister wurde.",
+    "year": 1979,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Carmen Kass",
+    "birthday": "1978-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Carmen_Kass.jpg/213px-Carmen_Kass.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Carmen Kass ist ein estnisches Topmodel und eine Schachfunktionärin.",
+    "year": 1978,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Mario Regueiro",
+    "birthday": "1978-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/MarioIgnacioRegueiro.jpg/268px-MarioIgnacioRegueiro.jpg",
+      "width": 268,
+      "height": 320
+    },
+    "extract": "Mario Regueiro, vollständiger Name Mario Ignacio Regueiro Pintos, ist ein ehemaliger uruguayischer Fußballspieler.",
+    "year": 1978,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Charlie Winston",
+    "birthday": "1978-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Charlie_Winston-01.jpg/213px-Charlie_Winston-01.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Charlie Winston ist ein britischer Singer-Songwriter.",
+    "year": 1978,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alexsandro de Souza",
+    "birthday": "1977-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Alexsandro_de_Souza.jpg/305px-Alexsandro_de_Souza.jpg",
+      "width": 305,
+      "height": 320
+    },
+    "extract": "Alexsandro de Souza, genannt Alex, ist ein ehemaliger brasilianischer Fußballspieler und heutiger Fußballtrainer. Er spielte als Aktiver unter anderem für Palmeiras São Paulo und Fenerbahçe Istanbul.In diesen Vereinen gehört er zu den legendären Fußballspielern der jeweiligen Vereinsgeschichten.",
+    "year": 1977,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Paul Traynor",
+    "birthday": "1977-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Paul_Traynor.JPG/185px-Paul_Traynor.JPG",
+      "width": 185,
+      "height": 320
+    },
+    "extract": "Paul Traynor ist ein kanadischer Eishockeyspieler, der zuletzt für die Nürnberg Ice Tigers in der Deutschen Eishockey Liga spielte.",
+    "year": 1977,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Agustín Calleri",
+    "birthday": "1976-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Agust%C3%ADn_Calleri_2018_%28cropped%29.jpg/203px-Agust%C3%ADn_Calleri_2018_%28cropped%29.jpg",
+      "width": 203,
+      "height": 320
+    },
+    "extract": "Agustín Calleri ist ein ehemaliger argentinischer Tennisspieler und mittlerweile Politiker und Funktionär.",
+    "year": 1976,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Raptile",
+    "birthday": "1976-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Addis_Mussa_aka_Raptile.jpg/320px-Addis_Mussa_aka_Raptile.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Raptile ist ein deutsch-äthiopischer Rapper und Mitglied der Gruppe Follow Your Instinct.",
+    "year": 1976,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Marian Petrow",
+    "birthday": "1975-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GM_Marijan_Petrov_4357.jpg/213px-GM_Marijan_Petrov_4357.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Marian Petrow ist ein bulgarischer Schach-Großmeister, Trainer, Theoretiker und Autor.",
+    "year": 1975,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hicham El Guerrouj",
+    "birthday": "1974-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hicham_El_Guerrouj_cropped.jpg/190px-Hicham_El_Guerrouj_cropped.jpg",
+      "width": 190,
+      "height": 320
+    },
+    "extract": "Hicham El Guerrouj ist ein ehemaliger marokkanischer Mittel- und Langstreckenläufer. 2004 wurde er mit den Siegen über 1500 und 5000 Meter Doppelolympiasieger.",
+    "year": 1974,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Cesla Amarelle",
+    "birthday": "1973-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Cesla_Amarelle.jpg/236px-Cesla_Amarelle.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "extract": "Cesla Virginia Amarelle ist eine Juristin und Schweizer Politikerin (SP).",
+    "year": 1973,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Andrew Lincoln",
+    "birthday": "1973-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Andrew_Lincoln_%2842749683025%29_%28cropped%29.jpg/229px-Andrew_Lincoln_%2842749683025%29_%28cropped%29.jpg",
+      "width": 229,
+      "height": 320
+    },
+    "extract": "Andrew Lincoln ist ein britischer Schauspieler und Regisseur.",
+    "year": 1973,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Nas (Rapper)",
+    "birthday": "1973-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Nas_July_2014_%28cropped%29.jpg/242px-Nas_July_2014_%28cropped%29.jpg",
+      "width": 242,
+      "height": 320
+    },
+    "extract": "Nas ist ein US-amerikanischer Rapper. Seine Karriere begann in Queensbridge, einem sozialen Brennpunkt in New York, der eine hohe Kriminalitätsrate aufweist. Illmatic, sein Debütalbum aus dem Jahr 1994, gilt heute als ein Meilenstein in der Hip-Hop-Szene.",
+    "year": 1973,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Peter Németh",
+    "birthday": "1972-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/N%C3%A9meth%2C_Peter_Co-Trainer_Dresden_17-18_WP.jpg/240px-N%C3%A9meth%2C_Peter_Co-Trainer_Dresden_17-18_WP.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Peter Németh ist ein slowakischer Fußballtrainer und ehemaliger Fußballspieler ungarischer Abstammung.",
+    "year": 1972,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Kimberly Williams-Paisley",
+    "birthday": "1971-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kimberly_Williams-Paisley_crop.jpg/215px-Kimberly_Williams-Paisley_crop.jpg",
+      "width": 215,
+      "height": 320
+    },
+    "extract": "Kimberly Payne Williams-Paisley ist eine US-amerikanische Schauspielerin, Regisseurin, Filmproduzentin und Drehbuchautorin.",
+    "year": 1971,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Francesco Casagrande",
+    "birthday": "1970-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Francesco_CASAGRANDE.jpg/320px-Francesco_CASAGRANDE.jpg",
+      "width": 320,
+      "height": 209
+    },
+    "extract": "Francesco Casagrande ist ein ehemaliger italienischer Radrennfahrer.",
+    "year": 1970,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Bong Joon-ho",
+    "birthday": "1969-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Okja_Japan_Premiere-_Bong_Joon-ho_%2838527206906%29.jpg/213px-Okja_Japan_Premiere-_Bong_Joon-ho_%2838527206906%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Bong Joon-ho ist ein südkoreanischer Regisseur, Drehbuchautor und Filmproduzent. Sein bisher größter Erfolg war der Spielfilm Parasite (2019), für den er im Rahmen der Oscarverleihung 2020 mit den Preisen für den Besten Film, die Beste Regie und das Beste Originaldrehbuch ausgezeichnet wurde. Darüber hinaus gewann Bongs Regiearbeit den Oscar als Bester internationaler Film.",
+    "year": 1969,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Josef Pröll",
+    "birthday": "1968-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Josef_Proell.jpg/299px-Josef_Proell.jpg",
+      "width": 299,
+      "height": 320
+    },
+    "extract": "Josef Pröll ist ein ehemaliger österreichischer Politiker (ÖVP). Er war von Dezember 2008 bis April 2011 Vizekanzler und Bundesminister für Finanzen der Republik Österreich. Von 2008 bis 2011 war er Bundesparteiobmann der ÖVP.",
+    "year": 1968,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Florian König",
+    "birthday": "1967-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2039_LR10_by_Stepro_%28cropped%29.jpg/240px-2019-06-11_Fu%C3%9Fball%2C_M%C3%A4nner%2C_L%C3%A4nderspiel%2C_Deutschland-Estland_StP_2039_LR10_by_Stepro_%28cropped%29.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Florian König ist ein deutscher Moderator und Sportreporter.",
+    "year": 1967,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Nikola Jurčević",
+    "birthday": "1966-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nikola_Jur%C4%8Devi%C4%87.JPG/228px-Nikola_Jur%C4%8Devi%C4%87.JPG",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Nikola „Jura“ Jurčević ist ein ehemaliger kroatischer Fußballspieler und aktueller -trainer.",
+    "year": 1966,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Dmitri Anatoljewitsch Medwedew",
+    "birthday": "1965-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%2808-04-2022%29.jpg/233px-%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2_%2808-04-2022%29.jpg",
+      "width": 233,
+      "height": 320
+    },
+    "extract": "Dmitri Anatoljewitsch Medwedew ist ein russischer Politiker. Er war von 2008 bis 2012 Präsident Russlands und vom 8. Mai 2012 bis 16. Januar 2020 Ministerpräsident der Russischen Föderation. Medwedew ist außerdem seit Mai 2012 Vorsitzender der Partei Einiges Russland und seit Januar 2020 stellvertretender Leiter des Sicherheitsrates der Russischen Föderation.",
+    "year": 1965,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Dorothée Menzner",
+    "birthday": "1965-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Dorotheemenzner0202.jpg",
+      "width": 200,
+      "height": 301
+    },
+    "extract": "Dorothée Luise Menzner geb. Katz ist eine deutsche Politikerin.",
+    "year": 1965,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Michelle Stafford",
+    "birthday": "1965-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Michelle_Stafford_photo1.jpg/255px-Michelle_Stafford_photo1.jpg",
+      "width": 255,
+      "height": 320
+    },
+    "extract": "Michelle Stafford ist eine US-amerikanische Schauspielerin, die zweimal den Emmy Award gewann. Bekanntheit erreichte sie durch ihre Rolle als Phyllis Summers in der Seifenoper Schatten der Leidenschaft.",
+    "year": 1965,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Martina Gedeck",
+    "birthday": "1961-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MJK30849_Martina_Gedeck_%28Berlinale_2017%29.jpg/213px-MJK30849_Martina_Gedeck_%28Berlinale_2017%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Martina Friederike Gedeck [ˈɡeːdɛk] ist eine deutsche Schauspielerin. Einem breiten Publikum wurde sie in der Rolle der Gourmetköchin Martha in dem Kinofilm Bella Martha bekannt. Sie hat zudem zahlreiche Hörbücher eingelesen.",
+    "year": 1961,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Christian Petzold (Regisseur)",
+    "birthday": "1960-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/MJK_09458_Christian_Petzold_%28Christian_Petzold%29_crop.jpg/213px-MJK_09458_Christian_Petzold_%28Christian_Petzold%29_crop.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Christian Petzold ist ein deutscher Filmregisseur und Drehbuchautor. Er wird der Berliner Schule zugerechnet und erhielt zahlreiche Preise und Auszeichnungen.",
+    "year": 1960,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Callum Keith Rennie",
+    "birthday": "1960-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Callum_Keith_Rennie.jpg/213px-Callum_Keith_Rennie.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Callum Keith Rennie ist ein kanadischer Schauspieler.",
+    "year": 1960,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ashlyn Gere",
+    "birthday": "1959-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ashlyn_gere_adjusted.jpg",
+      "width": 200,
+      "height": 308
+    },
+    "extract": "Ashlyn Gere ist eine US-amerikanische Schauspielerin, Pornodarstellerin und Stripperin.",
+    "year": 1959,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Morten Harket",
+    "birthday": "1959-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Morten_Harket_Kongsberg_Jazzfestival_2018_%28221359%29.jpg/320px-Morten_Harket_Kongsberg_Jazzfestival_2018_%28221359%29.jpg",
+      "width": 320,
+      "height": 273
+    },
+    "extract": "Morten Harket ist ein norwegischer Musiker, Sänger und Komponist. Er ist vor allem bekannt als Sänger und Frontmann der Popband a-ha, hat aber auch einige erfolgreiche Soloalben herausgebracht.",
+    "year": 1959,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Beth Nielsen Chapman",
+    "birthday": "1958-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Beth_Nielsen_Chapman.jpg/320px-Beth_Nielsen_Chapman.jpg",
+      "width": 320,
+      "height": 300
+    },
+    "extract": "Beth Nielsen Chapman ist eine US-amerikanische Sängerin und Komponistin.",
+    "year": 1958,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Robert McCall",
+    "birthday": "1958-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bundesarchiv_Bild_183-1985-0712-018%2C_Tracy_Wilson%2C_Robert_McCall.jpg/219px-Bundesarchiv_Bild_183-1985-0712-018%2C_Tracy_Wilson%2C_Robert_McCall.jpg",
+      "width": 219,
+      "height": 320
+    },
+    "extract": "Robert McCall, CM war ein kanadischer Eiskunstläufer, der im Eistanz startete.",
+    "year": 1958,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "François Asselineau",
+    "birthday": "1957-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Fran%C3%A7ois_ASSELINEAU.jpg/249px-Fran%C3%A7ois_ASSELINEAU.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "extract": "François Asselineau [fʁɑswa asəlino] ist ein französischer Politiker und ehemaliger Spitzenbeamter .\nEr ist Gründer und Präsident der souveränistischen Randpartei Union Populaire Républicaine (UPR), die mit konspirativen Theorien und starker Präsenz im Internet, insbesondere in sozialen Medien, den Austritt Frankreichs aus der Europäischen Union („Frexit“), der Eurozone sowie aus der NATO vertritt.",
+    "year": 1957,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Helmut Schulte",
+    "birthday": "1957-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Schulte2016.jpg/320px-Schulte2016.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Helmut Schulte ist ein deutscher Fußballtrainer und Sportmanager.",
+    "year": 1957,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Kostas Karamanlis",
+    "birthday": "1956-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kostas_Karamanlis_2007-10-18.jpg/252px-Kostas_Karamanlis_2007-10-18.jpg",
+      "width": 252,
+      "height": 320
+    },
+    "extract": "Konstantinos Karamanlis ist ein griechischer Politiker. Er war von März 2004 bis Oktober 2009 Ministerpräsident Griechenlands. Von 1997 bis Oktober 2009 war er Vorsitzender der Partei Nea Dimokratia.",
+    "year": 1956,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ray Wilkins",
+    "birthday": "1956-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ray_Wilkins_18-10-2008_1.jpg/236px-Ray_Wilkins_18-10-2008_1.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "extract": "Raymond Colin Wilkins MBE war ein englischer Fußballspieler und -trainer.",
+    "year": 1956,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Barry Cowsill",
+    "birthday": "1954-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/TheCowsillsBarry.jpg",
+      "width": 300,
+      "height": 250
+    },
+    "extract": "Barry Cowsill war ein US-amerikanischer Musiker.",
+    "year": 1954,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Christoph Haas (Musiker)",
+    "birthday": "1953-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CHschestag4.jpg/320px-CHschestag4.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Christoph Haas ist ein deutscher Musiker, Komponist und Rhythmuslehrer.",
+    "year": 1953,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Martyn Burke",
+    "birthday": "1952-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Martyn_Burke_at_Peabody_Awards_in_2013.jpg/264px-Martyn_Burke_at_Peabody_Awards_in_2013.jpg",
+      "width": 264,
+      "height": 320
+    },
+    "extract": "Martyn Burke ist ein kanadischer Journalist, Schriftsteller, Drehbuchautor und Regisseur.",
+    "year": 1952,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Margit Schumann",
+    "birthday": "1952-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bundesarchiv_Bild_183-1984-1019-031%2C_Kathrin_Risch%2C_Margit_Schumann.jpg/320px-Bundesarchiv_Bild_183-1984-1019-031%2C_Kathrin_Risch%2C_Margit_Schumann.jpg",
+      "width": 320,
+      "height": 216
+    },
+    "extract": "Margit Schumann war eine deutsche Rennrodlerin.",
+    "year": 1952,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wolodymyr Melnykow",
+    "birthday": "1951-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.jpg/239px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%9C%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.jpg",
+      "width": 239,
+      "height": 320
+    },
+    "extract": "Wolodymyr Mykolajowytsch Melnykow ist ein ukrainischer Schriftsteller, Dichter und Komponist.",
+    "year": 1951,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Lukas Beckmann",
+    "birthday": "1950-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Lukas_Beckmann_%28cropped%29.jpg/320px-Lukas_Beckmann_%28cropped%29.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Lukas Beckmann ist ein ehemaliger deutscher Politiker von Bündnis 90/Die Grünen und war von 1994 bis 2010 Fraktionsgeschäftsführer der grünen Bundestagsfraktion. Von 2011 bis 2017 war Lukas Beckmann Vorstandsmitglied der GLS Treuhand. Zu seinen Aufgaben gehörte u. a. die gesellschaftspolitische Weiterentwicklung des Schenkungs- und Stiftungswesens.",
+    "year": 1950,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Paul Kossoff",
+    "birthday": "1950-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Free1970.jpg/320px-Free1970.jpg",
+      "width": 320,
+      "height": 211
+    },
+    "extract": "Paul Francis Kossoff war ein englischer Rock- und Blues-Gitarrist. Er wurde als Gitarrist der englischen Rockgruppe Free bekannt, die mit „All Right Now“ 1970 ihren größten Single-Hit hatte. Er war der Sohn des britischen Charakterdarstellers David Kossoff.",
+    "year": 1950,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Michael Häupl",
+    "birthday": "1949-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/SP%C3%96_Wahlkampfauftakt_2013_%289621588941%29.jpg/211px-SP%C3%96_Wahlkampfauftakt_2013_%289621588941%29.jpg",
+      "width": 211,
+      "height": 320
+    },
+    "extract": "Michael Häupl ist ein österreichischer Politiker (SPÖ) und war von 7. November 1994 bis 24. Mai 2018 Bürgermeister und Landeshauptmann von Wien sowie von 1995 bis 2018 Präsident des Österreichischen Städtebundes. Von 1993 bis 2018 war er Landesparteiobmann der SPÖ Wien. Er ist stellvertretender Bundesvorsitzender der SPÖ.",
+    "year": 1949,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wulf Bernotat",
+    "birthday": "1948-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Wulf_Bernotat_%282009%29_10293_EC3C4808.jpg/320px-Wulf_Bernotat_%282009%29_10293_EC3C4808.jpg",
+      "width": 320,
+      "height": 214
+    },
+    "extract": "Wulf-Hinrich Bernotat war ein deutscher Manager, Vorstandsvorsitzender der E.ON AG und Aufsichtsratsvorsitzender der Vonovia SE.",
+    "year": 1948,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Walter Adler",
+    "birthday": "1947-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Walter_Adler.jpg/320px-Walter_Adler.jpg",
+      "width": 320,
+      "height": 221
+    },
+    "extract": "Walter Adler ist ein deutscher Regisseur mit Schwerpunkt auf Hörspielen für die ARD. Zuletzt waren es vor allem opulente Großproduktionen von Hörspielen mit vielen Stunden Spieldauer.",
+    "year": 1947,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Fredy Lienhard (Rennfahrer)",
+    "birthday": "1947-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/02-Ferrari-333SP.jpg/320px-02-Ferrari-333SP.jpg",
+      "width": 320,
+      "height": 238
+    },
+    "extract": "Alfred \"Fredy\" Lienhard ist ein Schweizer Unternehmer und Autorennfahrer.",
+    "year": 1947,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sam Neill",
+    "birthday": "1947-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sam_Neill_2010.jpg/232px-Sam_Neill_2010.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Nigel James Dermot Samuel „Sam“ Neill, KNZM, OBE, ist ein neuseeländischer Schauspieler, Regisseur, Drehbuchautor und Winzer.",
+    "year": 1947,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sebastian Pflugbeil",
+    "birthday": "1947-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bundesarchiv_Bild_183-1990-0205-019%2C_Berlin%2C_16._Volkskammer-Tagung.jpg/320px-Bundesarchiv_Bild_183-1990-0205-019%2C_Berlin%2C_16._Volkskammer-Tagung.jpg",
+      "width": 320,
+      "height": 206
+    },
+    "extract": "Sebastian Pflugbeil ist ein deutscher Physiker und Bürgerrechtler. Er war 1989 Mitbegründer des Neuen Forums und 1990 Minister ohne Geschäftsbereich in der letzten von der SED geführten DDR-Regierung.",
+    "year": 1947,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wolfgang Schwarz (Eiskunstläufer)",
+    "birthday": "1947-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bundesarchiv_Bild_183-E0314-0011-002%2C_Bruno_Marek%2C_Gabriele_Seyfert%2C_Wolfgang_Schwarz.jpg/320px-Bundesarchiv_Bild_183-E0314-0011-002%2C_Bruno_Marek%2C_Gabriele_Seyfert%2C_Wolfgang_Schwarz.jpg",
+      "width": 320,
+      "height": 189
+    },
+    "extract": "Wolfgang Schwarz ist ein ehemaliger österreichischer Eiskunstläufer, der im Einzellauf startete. Er ist der Olympiasieger von 1968.",
+    "year": 1947,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Kristian Pech",
+    "birthday": "1946-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kristian_Pech_Autor_2017.jpg/320px-Kristian_Pech_Autor_2017.jpg",
+      "width": 320,
+      "height": 265
+    },
+    "extract": "Kristian Pech ist ein deutscher Schriftsteller.",
+    "year": 1946,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Rainer Schlutter",
+    "birthday": "1946-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Rainer_Schlutter_1976.jpg",
+      "width": 187,
+      "height": 306
+    },
+    "extract": "Rainer Schlutter war Fußballspieler in der DDR-Oberliga, der obersten Spielklasse des ostdeutschen Fußballverbandes. Mit dem FC Carl Zeiss Jena wurde er zweimal DDR-Meister und Pokalsieger. Er ist fünffacher DDR-Nationalspieler. Später arbeitete Schlutter als Fußballtrainer.",
+    "year": 1946,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jürgen Koppelin",
+    "birthday": "1945-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/J%C3%BCrgen_Koppelin-01-2.jpg/265px-J%C3%BCrgen_Koppelin-01-2.jpg",
+      "width": 265,
+      "height": 320
+    },
+    "extract": "Jürgen Koppelin ist ein deutscher Politiker (FDP). Er war von 1990 bis 2013 Mitglied Deutschen Bundestages und dort von 1998 bis 2009 Parlamentarischer Geschäftsführer und haushaltspolitischer Sprecher seiner Partei.",
+    "year": 1945,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wolfgang Seguin",
+    "birthday": "1945-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Wolfgang_Seguin_WM_1974.jpg/231px-Wolfgang_Seguin_WM_1974.jpg",
+      "width": 231,
+      "height": 320
+    },
+    "extract": "Wolfgang „Paule“ Seguin ist ein ehemaliger deutscher Fußballspieler. In der höchsten Spielklasse des DDR-Fußballs, der Oberliga, spielte er für den SC (Aufbau) und den 1. FC Magdeburg. Er wurde dreimal DDR-Meister und gewann fünfmal den DDR-Fußballpokal. 1974 stand er in der FCM-Mannschaft, die den Europapokal der Pokalsieger gewann. In der A-Nationalmannschaft absolvierte er 21 Spiele. Mit der Olympiaauswahl gewann er 1972 die Bronzemedaille bei den Sommerspielen in München.",
+    "year": 1945,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Günter Netzer",
+    "birthday": "1944-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9b/G%C3%BCnter_Netzer.jpg",
+      "width": 171,
+      "height": 233
+    },
+    "extract": "Günter Theodor Netzer ist ein ehemaliger deutscher Fußballprofi, der zehn Jahre für Borussia Mönchengladbach und ab 1973 drei Jahre für Real Madrid spielte. Mit der deutschen Fußballnationalmannschaft wurde er 1972 Europameister und 1974 bei der Endrunde im eigenen Land Weltmeister.",
+    "year": 1944,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Pete Wyoming Bender",
+    "birthday": "1943-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Pete_Wyoming_Bender.jpg/320px-Pete_Wyoming_Bender.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Pete „Wyoming“ Bender war ein US-amerikanischer Sänger und Komponist indianischer Abstammung.",
+    "year": 1943,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Irwin Goodman",
+    "birthday": "1943-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Irwingoodman5.jpg/320px-Irwingoodman5.jpg",
+      "width": 320,
+      "height": 298
+    },
+    "extract": "Irwin Goodman, eigentlich Antti Yrjö Hammarberg war ein finnischer Folkmusiker.",
+    "year": 1943,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Manfred Butzmann",
+    "birthday": "1942-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Manfred_Butzmann_2009.jpg/265px-Manfred_Butzmann_2009.jpg",
+      "width": 265,
+      "height": 320
+    },
+    "extract": "Manfred Butzmann ist ein deutscher Grafiker.",
+    "year": 1942,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Oliver Lake",
+    "birthday": "1942-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Oliver_Lake.jpg/320px-Oliver_Lake.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Oliver Eugene Lake ist ein US-amerikanischer Jazz-Saxophonist und Komponist.",
+    "year": 1942,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "John Lehman",
+    "birthday": "1942-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/John_Lehman%2C_official_photo_as_Secretary_of_the_Navy%2C_1982.JPEG/256px-John_Lehman%2C_official_photo_as_Secretary_of_the_Navy%2C_1982.JPEG",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "John F. Lehman, Jr. ist ein US-amerikanischer Investmentbanker und Autor. Zwischen 1981 und 1987 war er US-Marineminister. Ab 2002 war er Mitglied der Untersuchungskommission zu den Anschlägen des 11. Septembers.",
+    "year": 1942,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Eckhard Henscheid",
+    "birthday": "1941-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Henschx.jpg/205px-Henschx.jpg",
+      "width": 205,
+      "height": 320
+    },
+    "extract": "Eckhard Henscheid ist ein deutscher Schriftsteller und Satiriker. Henscheid gehört zu den Mitgliedern der Neuen Frankfurter Schule um die Satiremagazine pardon und Titanic.",
+    "year": 1941,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alberto Naranjo",
+    "birthday": "1941-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Jorge_Alberto_Naranjo.jpg/320px-Jorge_Alberto_Naranjo.jpg",
+      "width": 320,
+      "height": 242
+    },
+    "extract": "Jorge Alberto Naranjo war ein venezolanischer Musiker und Komponist.",
+    "year": 1941,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Larry Brown (Basketballtrainer)",
+    "birthday": "1940-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Larry_Brown_2014.png/293px-Larry_Brown_2014.png",
+      "width": 293,
+      "height": 320
+    },
+    "extract": "Lawrence Harvey „Larry“ Brown ist ein ehemaliger US-amerikanischer Basketballtrainer und -spieler.",
+    "year": 1940,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wenzeslaw Konstantinow",
+    "birthday": "1940-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ventseslav_Konstantinov_2014.jpg/222px-Ventseslav_Konstantinov_2014.jpg",
+      "width": 222,
+      "height": 320
+    },
+    "extract": "Wenzeslaw Konstantinow war ein bulgarischer Schriftsteller, Aphoristiker und Übersetzer deutschsprachiger Literatur.",
+    "year": 1940,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jack Sarfatti",
+    "birthday": "1939-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Sarfatti2007.jpg/310px-Sarfatti2007.jpg",
+      "width": 310,
+      "height": 320
+    },
+    "extract": "Jack Sarfatti ist ein US-amerikanischer theoretischer Physiker und Autor von populären Werken über Quantenphysik und Bewusstsein. Er ist bekannt für seine ikonoklastischen Ideen und zeigt großes Interesse an dem, aus seiner Sicht, gegenwärtigen Zusammenbruch des Paradigmas, welches Naturwissenschaften und Geisteswissenschaften trennt. Eines seiner Argumente ist, dass Physik, welche er the Conceptual Art of the late 20th Century nennt, die Philosophie als vereinigendes Bindeglied zwischen Wissenschaft und Kunst ersetzt hat.",
+    "year": 1939,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Renzo Piano",
+    "birthday": "1937-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Renzo_Piano_%282015%29.jpg/320px-Renzo_Piano_%282015%29.jpg",
+      "width": 320,
+      "height": 296
+    },
+    "extract": "Renzo Piano ist ein italienischer Architekt und Senator auf Lebenszeit.",
+    "year": 1937,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Manfred Kock",
+    "birthday": "1936-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Manfred_Kock.jpg/240px-Manfred_Kock.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Manfred Kock ist ein deutscher evangelischer Theologe. Er war von 1997 bis 2003 Präses der Evangelischen Kirche im Rheinland und Vorsitzender des Rates der Evangelischen Kirche in Deutschland.",
+    "year": 1936,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Walter Koenig",
+    "birthday": "1936-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Walter_Koenig_by_Gage_Skidmore.jpg/265px-Walter_Koenig_by_Gage_Skidmore.jpg",
+      "width": 265,
+      "height": 320
+    },
+    "extract": "Walter Marvin Koenig ist ein US-amerikanischer Schauspieler, Regisseur und Drehbuchautor.",
+    "year": 1936,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ferid Murad",
+    "birthday": "1936-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ferid_Murad.jpg/258px-Ferid_Murad.jpg",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Ferid Murad ist ein US-amerikanischer Mediziner, Pharmakologe und Hochschullehrer, der für die Mitentdeckung des zellularen Botenstoffs Stickstoffmonoxid 1998 den Nobelpreis für Medizin erhielt.",
+    "year": 1936,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Sarah Kofman",
+    "birthday": "1934-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Sarah_Kofman.jpg",
+      "width": 200,
+      "height": 274
+    },
+    "extract": "Sarah Kofman war eine französische Philosophin und Essayistin. Sie gilt neben Jacques Derrida als die wichtigste Vertreterin der Philosophie der Dekonstruktion.",
+    "year": 1934,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Kate Millett",
+    "birthday": "1934-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kate_millet_1.jpg",
+      "width": 255,
+      "height": 253
+    },
+    "extract": "Katherine Murray „Kate“ Millett war eine amerikanische Literaturwissenschaftlerin, Schriftstellerin, Bildhauerin und Feministin. Ihr wissenschaftliches Werk Sexual Politics ist einer der Klassiker des Feminismus.",
+    "year": 1934,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Vinicio Franco",
+    "birthday": "1933-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Vinicio_franco.jpg/213px-Vinicio_franco.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Vinicio Franco war ein dominikanischer Sänger.",
+    "year": 1933,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Beppo Mauhart",
+    "birthday": "1933-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/AUT_vs._WAL_2016-10-06_%28186%29.jpg/213px-AUT_vs._WAL_2016-10-06_%28186%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Josef „Beppo“ Mauhart war ein österreichischer Manager und Fußballfunktionär.",
+    "year": 1933,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Gerd Fuchs",
+    "birthday": "1932-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gerdfuchs.jpg/245px-Gerdfuchs.jpg",
+      "width": 245,
+      "height": 320
+    },
+    "extract": "Gerd Fuchs war ein deutscher Schriftsteller.",
+    "year": 1932,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ivan Klíma",
+    "birthday": "1931-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Ivan_Kl%C3%ADma_2015.JPG/233px-Ivan_Kl%C3%ADma_2015.JPG",
+      "width": 233,
+      "height": 320
+    },
+    "extract": "Ivan Klíma ist ein tschechischer Schriftsteller.",
+    "year": 1931,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Rudi Strahl",
+    "birthday": "1931-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bundesarchiv_Bild_183-1987-0506-046%2C_Berlin%2C_Schriftstellergespr%C3%A4ch.jpg/320px-Bundesarchiv_Bild_183-1987-0506-046%2C_Berlin%2C_Schriftstellergespr%C3%A4ch.jpg",
+      "width": 320,
+      "height": 192
+    },
+    "extract": "Rudi Strahl war ein deutscher Dramatiker, Erzähler und Lyriker. Er gehörte zu den meistgespielten Theaterautoren der DDR.",
+    "year": 1931,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hans Clarin",
+    "birthday": "1929-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/GER_%E2%80%94_BY_%E2%80%93_Oberbayern_%E2%80%94_Lkr._Rosenheim_%E2%80%94_Gemeinde_Aschau_im_Chiemgau_%E2%80%94_Hans-Clarin-Platz_1_%28Bahnhof_Hinweistafel_Hans_Clarin%29_D-1-87-114-1_Mattes_Huawei_P30_Pro_2021.jpg/147px-thumbnail.jpg",
+      "width": 147,
+      "height": 320
+    },
+    "extract": "Hans Clarin [klaˈriːn], bis 1971 bürgerlich Hans Joachim Schmid, war ein deutscher Schauspieler und Synchronsprecher. Als Synchronsprecher ist er vor allem als Stimme von Pumuckl in der Fernsehserie Meister Eder und sein Pumuckl bekannt.",
+    "year": 1929,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alberto Korda",
+    "birthday": "1928-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Heroico1.jpg/320px-Heroico1.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Alberto Díaz Gutiérrez, bekannt geworden als Korda, war ein kubanischer Fotograf.",
+    "year": 1928,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Günther Landgraf",
+    "birthday": "1928-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Guenther_Landgraf.jpg/228px-Guenther_Landgraf.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Günther Landgraf war ein deutscher Professor für Technische Mechanik. Landgraf war der erste frei gewählte Rektor der Technischen Universität Dresden (1990–1994).",
+    "year": 1928,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Humberto R. Maturana",
+    "birthday": "1928-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Humberto_Maturana.jpg/320px-Humberto_Maturana.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Humberto Romesín Maturana war ein chilenischer Biologe und Philosoph mit dem Schwerpunkt Neurobiologie.",
+    "year": 1928,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Angus Ogilvy",
+    "birthday": "1928-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Angus_Ogilvy.jpg",
+      "width": 117,
+      "height": 171
+    },
+    "extract": "Sir Angus James Bruce Ogilvy, KCVO, PC war ein Mitglied der britischen Königsfamilie.",
+    "year": 1928,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Edmund Casimir Szoka",
+    "birthday": "1927-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Coat_of_arms_of_Edmund_Szoka.svg/langde-303px-Coat_of_arms_of_Edmund_Szoka.svg.png",
+      "width": 303,
+      "height": 320
+    },
+    "extract": "Edmund Casimir Kardinal Szoka war Erzbischof von Detroit sowie Kurienkardinal der römisch-katholischen Kirche. Als Präsident des Governatorats der Vatikanstadt war er bis 2006 Regierungschef der Vatikanstadt.",
+    "year": 1927,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Michel Butor",
+    "birthday": "1926-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Michel-Butor.jpg/254px-Michel-Butor.jpg",
+      "width": 254,
+      "height": 320
+    },
+    "extract": "Michel Marie François Butor war ein französischer Schriftsteller, Dichter, Kunstkritiker, Essayist und Übersetzer.",
+    "year": 1926,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wiktor Zin",
+    "birthday": "1925-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Wiktor_Zin_1966.jpg/320px-Wiktor_Zin_1966.jpg",
+      "width": 320,
+      "height": 304
+    },
+    "extract": "Wiktor Zin war ein polnischer Architekt und Zeichner. Zin war in den Jahren 1977 bis 1981 stellvertretender Minister für Kunst und Kultur von Polen, in dieser Funktion war er für den Denkmalschutz verantwortlich.",
+    "year": 1925,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Frances Bergen",
+    "birthday": "1922-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Frances_Bergen.jpg/236px-Frances_Bergen.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "extract": "Frances Bergen war eine US-amerikanische Schauspielerin und Fotomodell. Sie war die Ehefrau des Bauchredners Edgar Bergen und die Mutter der Schauspielerin Candice Bergen und deren Bruder Kris.",
+    "year": 1922,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Bally Prell",
+    "birthday": "1922-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bally-prell-leo-77-muc-2021.jpg/214px-Bally-prell-leo-77-muc-2021.jpg",
+      "width": 214,
+      "height": 320
+    },
+    "extract": "Bally Prell war eine deutsche Vortragskünstlerin und Volkssängerin.",
+    "year": 1922,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Cioma Schönhaus",
+    "birthday": "1922-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/thumb/5/51/WP_Cioma_Sch%C3%B6nhaus.jpg/232px-WP_Cioma_Sch%C3%B6nhaus.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Samson „Cioma“ Schönhaus war ein Grafiker, der während des Zweiten Weltkriegs von der Gestapo wegen seiner jüdischen Herkunft gesucht wurde und der sich unter anderem durch Passfälschung retten konnte.",
+    "year": 1922,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Zizinho",
+    "birthday": "1922-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Zizinho_1944_flamengo.jpg/197px-Zizinho_1944_flamengo.jpg",
+      "width": 197,
+      "height": 320
+    },
+    "extract": "Tomás Soares da Silva – kurz Zizinho genannt – war ein brasilianischer Fußballspieler.",
+    "year": 1922,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Paulo Evaristo Arns",
+    "birthday": "1921-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Paulo_Evaristo_Arns_%281982%29.jpg/240px-Paulo_Evaristo_Arns_%281982%29.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Paulo Evaristo Kardinal Arns OFM [ˈpawlu evaˈɾistu ˈaɾns] war Kardinalprotopriester und Erzbischof von São Paulo.",
+    "year": 1921,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Mario Benedetti",
+    "birthday": "1920-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Mario_Benedetti.jpg/273px-Mario_Benedetti.jpg",
+      "width": 273,
+      "height": 320
+    },
+    "extract": "Mario Benedetti war ein Journalist, Dichter und Schriftsteller aus Uruguay.",
+    "year": 1920,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Johannes Irmscher",
+    "birthday": "1920-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Grabstein_Familie_Irmscher.jpg/320px-Grabstein_Familie_Irmscher.jpg",
+      "width": 320,
+      "height": 224
+    },
+    "extract": "Johannes Irmscher war ein deutscher Altphilologe. Irmscher war einer der bedeutendsten Altertumswissenschaftler und vor allem Wissenschaftsorganisator für diesen Bereich in der DDR.",
+    "year": 1920,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Georges Berger (Rennfahrer)",
+    "birthday": "1918-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MDL_3610_%2836927726196%29.jpg/320px-MDL_3610_%2836927726196%29.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Georges Berger war ein belgischer Automobilrennfahrer.",
+    "year": 1918,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ettore Sottsass",
+    "birthday": "1917-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1960%29_-_BEIC_6365848.jpg/320px-Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1960%29_-_BEIC_6365848.jpg",
+      "width": 320,
+      "height": 256
+    },
+    "extract": "Ettore Sottsass jr. war ein italienischer Architekt und Designer von Einrichtungsgegenständen, die er vorwiegend in der von ihm stark geprägten Stilrichtung des „Anti-Designs“ gestaltete, das ihn international bekannt und erfolgreich machte.",
+    "year": 1917,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Luis Corvalán",
+    "birthday": "1916-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Luis_Corval%C3%A1n_Lepe.jpg",
+      "width": 208,
+      "height": 293
+    },
+    "extract": "Luis Corvalán Lépe war ein chilenischer Politiker und Generalsekretär der Kommunistischen Partei Chiles.",
+    "year": 1916,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "John Dobson (Astronom)",
+    "birthday": "1915-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JohnDobson2002.jpg",
+      "width": 238,
+      "height": 243
+    },
+    "extract": "John Lowry Dobson war ein US-amerikanischer Amateurastronom. Mit seinem Konzept des so genannten Dobson-Teleskops hatte er maßgeblichen Einfluss auf die Verbreitung preisgünstiger Amateurteleskope.",
+    "year": 1915,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Bernard Dorival",
+    "birthday": "1914-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bernard_Dorival_1995_-_copie_2.jpg/300px-Bernard_Dorival_1995_-_copie_2.jpg",
+      "width": 300,
+      "height": 320
+    },
+    "extract": "Bernard Dorival war ein französischer Kunsthistoriker und Kunstkritiker.",
+    "year": 1914,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jacobo Árbenz Guzmán",
+    "birthday": "1913-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jacobo_Arbenz_Guzman_%28oficial%29.jpg/231px-Jacobo_Arbenz_Guzman_%28oficial%29.jpg",
+      "width": 231,
+      "height": 320
+    },
+    "extract": "Jacobo Árbenz Guzmán war ein guatemaltekischer Offizier und Politiker, der von 1944 bis 1951 als Verteidigungsminister und von 1951 bis 1954 als zweiter demokratisch gewählter Präsident Guatemalas amtierte. Am 27. Juni 1954 wurde er durch einen vom US-amerikanischen Außenministerium und der CIA geplanten und organisierten Putsch gestürzt und durch den Diktator Carlos Castillo Armas ersetzt.",
+    "year": 1913,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Severino Varela",
+    "birthday": "1913-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Severino_Varela.png/284px-Severino_Varela.png",
+      "width": 284,
+      "height": 320
+    },
+    "extract": "Severino Varela Puente war einer der bekanntesten und torgefährlichsten uruguayischen Fußballspieler in der ersten Hälfte des 20. Jahrhunderts und spielte auch in der Nationalmannschaft seines Heimatlandes.",
+    "year": 1913,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Gaston Defferre",
+    "birthday": "1910-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gaston_Defferre_1964.jpg/235px-Gaston_Defferre_1964.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Gaston Paul Charles Defferre war ein französischer Politiker der Sozialistischen Partei.",
+    "year": 1910,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jack Hawkins",
+    "birthday": "1910-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jack_Hawkins_2_Allan_Warren.jpg/216px-Jack_Hawkins_2_Allan_Warren.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "John Edward Hawkins war ein britischer Schauspieler.",
+    "year": 1910,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Rolf Liebermann",
+    "birthday": "1910-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rolf_Liebermann_par_Claude_Truong-Ngoc_1980.jpeg/320px-Rolf_Liebermann_par_Claude_Truong-Ngoc_1980.jpeg",
+      "width": 320,
+      "height": 236
+    },
+    "extract": "Rolf Liebermann war ein Schweizer Komponist und Intendant.",
+    "year": 1910,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Peter Markham Scott",
+    "birthday": "1909-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Scott_WWT_London.jpg/240px-Scott_WWT_London.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Sir Peter Markham Scott CH, CBE, DSC, FRS, FZS war ein britischer Ornithologe, Naturschützer und Maler. Er war das einzige Kind des Antarktisforschers Robert Falcon Scott (1868–1912). Er war ein Halbbruder von Wayland Young, 2. Baron Kennet (1923–2009), und sein Patenonkel war der Dramatiker Sir James Matthew Barrie (1860–1937).",
+    "year": 1909,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Edel Mary Quinn",
+    "birthday": "1907-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Edel_Quinn.png",
+      "width": 200,
+      "height": 237
+    },
+    "extract": "Edel Mary Quinn war ein irisches Mitglied der Legion Mariens und Gründerin zahlreicher Präsidien der Legion in Afrika.",
+    "year": 1907,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Walter Kurt Wiemken",
+    "birthday": "1907-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Walter_Kurt_Wiemken_Selbstbildnis.jpg/260px-Walter_Kurt_Wiemken_Selbstbildnis.jpg",
+      "width": 260,
+      "height": 320
+    },
+    "extract": "Walter Kurt Wiemken war ein Schweizer Maler.",
+    "year": 1907,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Franz Rellich",
+    "birthday": "1906-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Franz_Rellich.jpeg/225px-Franz_Rellich.jpeg",
+      "width": 225,
+      "height": 320
+    },
+    "extract": "Franz Rellich war ein deutscher, aus Südtirol stammender Mathematiker. Er leistete wichtige Beiträge im Rahmen der Mathematischen Physik, insbesondere für die Grundlagen der Quantenmechanik und für die Theorie partieller Differentialgleichungen.",
+    "year": 1906,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Anton Zischka",
+    "birthday": "1904-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Anton_Zischka.jpg/223px-Anton_Zischka.jpg",
+      "width": 223,
+      "height": 320
+    },
+    "extract": "Anton Emmerich Zischka  war ein österreichischer Journalist und in der Weimarer Republik, im Dritten Reich wie auch der Bundesrepublik Deutschland einer der erfolgreichsten Sachbuchautoren. Er schrieb auch unter den Pseudonymen Rupert Donkan, Thomas Daring, Darius Plecha und Antal Sorba. Seine rund 40 Bücher, die zumeist Sachthemen und technisch-wirtschaftliche Zusammenhänge populärwissenschaftlich darstellen, wurden bis heute in 18 Sprachen übersetzt.",
+    "year": 1904,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Nikolai Iljitsch Kamow",
+    "birthday": "1902-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Niko%C5%82aj_Kamow_1973.png/226px-Niko%C5%82aj_Kamow_1973.png",
+      "width": 226,
+      "height": 320
+    },
+    "extract": "Nikolai Iljitsch Kamow war Chefkonstrukteur des nach ihm benannten sowjetisch/russischen Konstruktionsbüros Kamow, das auf die Entwicklung von Hubschraubern spezialisiert ist.",
+    "year": 1902,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Adolf Rieth",
+    "birthday": "1902-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Veringenstadt_Aufstellung_Neandertaler-Denkmal_1956.jpg/320px-Veringenstadt_Aufstellung_Neandertaler-Denkmal_1956.jpg",
+      "width": 320,
+      "height": 211
+    },
+    "extract": "Gustav Adolf Rieth war ein deutscher Prähistoriker. Er war als Landeskonservator und Leiter des Staatlichen Amtes für Denkmalpflege in Tübingen tätig.",
+    "year": 1902,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Andrei Andrejewitsch Wlassow",
+    "birthday": "1901-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bundesarchiv_Bild_146-1984-101-29%2C_Andrej_Wlassow.jpg/240px-Bundesarchiv_Bild_146-1984-101-29%2C_Andrej_Wlassow.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Andrei Andrejewitsch Wlassow war ein sowjetischer Generalleutnant. Im Deutsch-Sowjetischen Krieg 1942 in deutsche Gefangenschaft geraten, baute er aus antisowjetischen Motiven und im Auftrag von Heinrich Himmler die Russische Befreiungsarmee auf, die 1945 an der Seite des Deutschen Reiches gegen die Rote Armee und andere alliierte Streitkräfte zum Einsatz kam.",
+    "year": 1901,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Josef Meisinger",
+    "birthday": "1899-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Josef_Meisinger_%281899-1947%29.jpg",
+      "width": 151,
+      "height": 212
+    },
+    "extract": "Josef Albert Meisinger war ein deutscher Oberst der Polizei, SS-Standartenführer und Kriegsverbrecher.",
+    "year": 1899,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Robert A. Lovett",
+    "birthday": "1895-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Robert_Lovett%2C_photo_portrait%2C_1951.jpg/258px-Robert_Lovett%2C_photo_portrait%2C_1951.jpg",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Robert Abercrombie Lovett war ein US-amerikanischer Politiker. Er war vom 1. Juli 1947 bis zum 20. Januar 1949 stellvertretender Außenminister der Vereinigten Staaten. Danach war er von 1950 bis 1951 stellvertretender Verteidigungsminister sowie vom 17. September 1951 bis zum 20. Januar 1953 der vierte Verteidigungsminister unter Harry S. Truman. In seine Amtszeit fiel der Koreakrieg.",
+    "year": 1895,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Karl Taylor Compton",
+    "birthday": "1887-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Karl_Taylor_Compton.jpg",
+      "width": 142,
+      "height": 197
+    },
+    "extract": "Karl Taylor Compton war ein US-amerikanischer Physiker. Er war der älteste Bruder des Physikers Arthur Holly Compton. Von 1930 bis 1948 war er Präsident des Massachusetts Institute of Technology (MIT).",
+    "year": 1887,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Erich Hoepner",
+    "birthday": "1886-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bundesarchiv_Bild_146-1971-068-10%2C_Erich_Hoepner.jpg/195px-Bundesarchiv_Bild_146-1971-068-10%2C_Erich_Hoepner.jpg",
+      "width": 195,
+      "height": 320
+    },
+    "extract": "Erich Kurt Richard Hoepner war ein deutscher Heeresoffizier und früher Widerstandskämpfer, ab 1935 und bis einschließlich zum Umsturzversuch vom 20. Juli 1944.",
+    "year": 1886,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jan Masaryk",
+    "birthday": "1886-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Jan_Masaryk.jpg/244px-Jan_Masaryk.jpg",
+      "width": 244,
+      "height": 320
+    },
+    "extract": "Jan Masaryk war ein tschechoslowakischer Politiker. Von 1940 bis 1948 war er Außenminister, zunächst in der Exilregierung. Er starb unter nicht geklärten Umständen.",
+    "year": 1886,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Carl de Vogt",
+    "birthday": "1885-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Carl_de_Vogt_1920_by_Alex_Binder.jpg/233px-Carl_de_Vogt_1920_by_Alex_Binder.jpg",
+      "width": 233,
+      "height": 320
+    },
+    "extract": "Carl Bernhard de Vogt war ein deutscher Schauspieler.",
+    "year": 1885,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Martin Dibelius",
+    "birthday": "1883-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Martin_dibelius_grab.JPG/207px-Martin_dibelius_grab.JPG",
+      "width": 207,
+      "height": 320
+    },
+    "extract": "Martin Franz Dibelius war ein deutscher evangelischer Theologe und Professor für Neues Testament an der Ruprecht-Karls-Universität Heidelberg.",
+    "year": 1883,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Richard Gerstl",
+    "birthday": "1883-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Richard_Gerstl_-_Semi-Nude_Self-Portrait_-_Google_Art_Project.jpg/218px-Richard_Gerstl_-_Semi-Nude_Self-Portrait_-_Google_Art_Project.jpg",
+      "width": 218,
+      "height": 320
+    },
+    "extract": "Richard Gerstl war ein österreichischer Porträt- und Landschaftsmaler.",
+    "year": 1883,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alexander Meißner",
+    "birthday": "1883-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Alexander_Meissner_plaque.jpg/240px-Alexander_Meissner_plaque.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Alexander Meißner war ein österreichischer Physiker. Er wurde bekannt durch die Entwicklung der Rückkopplung zur Erzeugung ungedämpfter elektromagnetischer Schwingungen und gilt als Grundsteinleger der Rundfunktechnik. Er ist der Erfinder der berühmten Meißner-Schaltung.",
+    "year": 1883,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Harald Fryklöf",
+    "birthday": "1882-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Uppsala19.JPG/240px-Uppsala19.JPG",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Harald Leonard Fryklöf war ein schwedischer Komponist, Musikpädagoge und Organist.",
+    "year": 1882,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Marjorie Pickthall",
+    "birthday": "1882-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Marjorie_Pickthall.gif",
+      "width": 176,
+      "height": 209
+    },
+    "extract": "Marjorie Lowry Christie Pickthall war eine englisch-kanadische Schriftstellerin.",
+    "year": 1882,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Archie Hahn",
+    "birthday": "1880-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Archie_Hahn.jpg",
+      "width": 139,
+      "height": 192
+    },
+    "extract": "Charles Archibald „Archie“ Hahn, genannt der Meteor von Milwaukee war ein US-amerikanischer Leichtathlet.",
+    "year": 1880,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Paul Fechter",
+    "birthday": "1880-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Paul_Fechter.jpg/242px-Paul_Fechter.jpg",
+      "width": 242,
+      "height": 320
+    },
+    "extract": "Paul Fechter war ein deutscher Theater- und Kunstkritiker, Redakteur und Schriftsteller.",
+    "year": 1880,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Albert Amann",
+    "birthday": "1879-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Albert_Amann_MdL.jpg/235px-Albert_Amann_MdL.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Albert Amann war ein badischer Politiker der Zentrumspartei und nach 1945 der CDU.",
+    "year": 1879,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Karl Becker (General)",
+    "birthday": "1879-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bundesarchiv_Bild_183-H27401%2C_Karl_Becker.jpg/216px-Bundesarchiv_Bild_183-H27401%2C_Karl_Becker.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "Karl Becker war ein deutscher General der Artillerie im Zweiten Weltkrieg, Ballistiker und Wehrwissenschaftler sowie Wissenschaftspolitiker.",
+    "year": 1879,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Margaret Sanger",
+    "birthday": "1879-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MargaretSanger-Underwood.LOC.jpg/252px-MargaretSanger-Underwood.LOC.jpg",
+      "width": 252,
+      "height": 320
+    },
+    "extract": "Margaret Higgins Sanger war eine US-amerikanische Krankenschwester und Frauenrechtlerin. Sie war eine Aktivistin der Bewegung für Geburtenkontrolle und Zwangssterilisation und begründete 1921 die American Birth Control League, aus der 1942 die Organisation Planned Parenthood und später auch die deutsche Pro Familia hervorgingen, bei der sie Gründungsmitglied war.",
+    "year": 1879,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Leonhard Seppala",
+    "birthday": "1877-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Leonhard_Seppala_with_dogs.jpg/256px-Leonhard_Seppala_with_dogs.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Leonhard Seppala, geboren als Leonhard Seppälä war ein norwegisch-amerikanischer Musher, der 1910 in Alaska die Zucht des Siberian Husky mit Hunden begründete, die von William Goosak 1908 aus Sibirien importiert worden waren.",
+    "year": 1877,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Karl Joseph Schulte",
+    "birthday": "1871-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Karl_Joseph_Schulte.jpg/230px-Karl_Joseph_Schulte.jpg",
+      "width": 230,
+      "height": 320
+    },
+    "extract": "Karl Joseph Kardinal Schulte war von 1910 bis 1920 Bischof von Paderborn und von 1920 bis 1941 Erzbischof von Köln.",
+    "year": 1871,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Robert Cecil, 1. Viscount Cecil of Chelwood",
+    "birthday": "1864-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Robert_Cecil%2C_1st_Viscount_Cecil_of_Chelwood_-_Project_Gutenberg_eText_15306.jpg/216px-Robert_Cecil%2C_1st_Viscount_Cecil_of_Chelwood_-_Project_Gutenberg_eText_15306.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "Edgar Algernon Robert Gascoyne-Cecil, 1. Viscount Cecil of Chelwood, kurz Robert Cecil war ein britischer Politiker und Diplomat. Als Gründer und Präsident der Internationalen Friedenskampagne erhielt er 1937 den Friedensnobelpreis.",
+    "year": 1864,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Carl von Weinberg",
+    "birthday": "1861-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carl_von_Weinberg_ca1900.jpg/282px-Carl_von_Weinberg_ca1900.jpg",
+      "width": 282,
+      "height": 320
+    },
+    "extract": "Carl von Weinberg war ein deutscher Kaufmann, Unternehmer, Mäzen und sozial engagierter Bürger.",
+    "year": 1861,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Friedrich Hermann Löscher",
+    "birthday": "1860-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Friedrich_Hermann_L%C3%B6scher.jpg/248px-Friedrich_Hermann_L%C3%B6scher.jpg",
+      "width": 248,
+      "height": 320
+    },
+    "extract": "Friedrich Hermann Löscher war ein Pfarrer und Heimatforscher des Erzgebirges.",
+    "year": 1860,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hans von Arnim (Philologe)",
+    "birthday": "1859-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hans_von_Arnim_%281859%E2%80%931931%29_1927_%C2%A9_Georg_Fayer_%281892%E2%80%931950%29_OeNB_10450663.jpg/216px-Hans_von_Arnim_%281859%E2%80%931931%29_1927_%C2%A9_Georg_Fayer_%281892%E2%80%931950%29_OeNB_10450663.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "Hans von Arnim war ein deutscher Klassischer Philologe, der als Professor an den Universitäten in Rostock, Frankfurt am Main und Wien wirkte.",
+    "year": 1859,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jānis Čakste",
+    "birthday": "1859-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Janis_Cakste.jpg/235px-Janis_Cakste.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Jānis Čakste war ein lettischer Politiker und der erste Präsident der unabhängigen Republik Lettland.",
+    "year": 1859,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alice Stone Blackwell",
+    "birthday": "1857-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alice_Stone_Blackwell.jpg/249px-Alice_Stone_Blackwell.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "extract": "Alice Stone Blackwell war eine US-amerikanische Feministin, Suffragistin, Journalistin, radikale Sozialistin und Kämpferin für Menschenrechte.",
+    "year": 1857,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Marc Ruchet",
+    "birthday": "1853-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Marc_Ruchet.jpg/205px-Marc_Ruchet.jpg",
+      "width": 205,
+      "height": 320
+    },
+    "extract": "Marc-Émile Ruchet war ein Schweizer Politiker (FDP). Von 1882 bis 1893 gehörte er dem Grossen Rat des Kantons Waadt an, danach bis 1899 Waadtländer Staatsrat. Zweimal vertrat er diesen Kanton im Ständerat, von 1887 bis 1893 und wieder von 1896 bis 1899. Im Dezember 1899 wurde Ruchet in den Bundesrat gewählt, dem er bis kurz vor seinem Tod angehörte. In den Jahren 1905 und 1911 war er Bundespräsident.",
+    "year": 1853,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hermann Lattemann",
+    "birthday": "1852-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Salzgitter-Gebhardshagen_-_Skulptur_Hermann_Lattemann_2022-01.jpg/213px-Salzgitter-Gebhardshagen_-_Skulptur_Hermann_Lattemann_2022-01.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Hermann Lattemann war ein deutscher Berufsluftschiffer und Fallschirmspringer.",
+    "year": 1852,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Simo Matavulj",
+    "birthday": "1852-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Simo_Matavulj.jpg",
+      "width": 208,
+      "height": 279
+    },
+    "extract": "Simo Matavulj war ein serbischer Schriftsteller.",
+    "year": 1852,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Adolf Albin",
+    "birthday": "1848-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Adolf_Albin%2C_1895.jpg/243px-Adolf_Albin%2C_1895.jpg",
+      "width": 243,
+      "height": 320
+    },
+    "extract": "Adolf Albin war ein Schachmeister und -theoretiker aus Rumänien.\nIn dem stark besetzten Turnier 1893 in New York wurde er Zweiter hinter Emanuel Lasker. Auch an dem berühmten Turnier 1895 in Hastings nahm er teil. Albin spielte mehrere Wettkämpfe, darunter 1894 in New York gegen Jackson Whipps Showalter, 1900 in Wien gegen Simon Alapin, 1901 in Wien gegen Georg Marco und 1918 in Wien gegen Richard Réti (1:1). Seine höchste historische Elo-Zahl betrug 2643 im August 1895. Zu der Zeit lag er auf Platz 15 der Weltrangliste.",
+    "year": 1848,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Filippo Camassei",
+    "birthday": "1848-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Filippo_Camassei1.jpg/201px-Filippo_Camassei1.jpg",
+      "width": 201,
+      "height": 320
+    },
+    "extract": "Filippo Kardinal Camassei war ein italienischer Geistlicher und Erzbischof von Naxos und später Lateinischer Patriarch von Jerusalem.",
+    "year": 1848,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "William Edward Ayrton",
+    "birthday": "1847-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/William_Edward_Ayrton_%281847-1908%29.jpg/214px-William_Edward_Ayrton_%281847-1908%29.jpg",
+      "width": 214,
+      "height": 320
+    },
+    "extract": "William Edward Ayrton war ein britischer Physiker.",
+    "year": 1847,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Wilhelm Effmann",
+    "birthday": "1847-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Effmann%2C_Wilhelm.jpg/230px-Effmann%2C_Wilhelm.jpg",
+      "width": 230,
+      "height": 320
+    },
+    "extract": "Wilhelm Johann Hubert Effmann war ein deutscher Architekt und Bauhistoriker.",
+    "year": 1847,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Maria Anna von Anhalt-Dessau",
+    "birthday": "1837-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Maria_Anna_of_Anhalt-Dessau%2C_Princess_of_Prussia.jpg/243px-Maria_Anna_of_Anhalt-Dessau%2C_Princess_of_Prussia.jpg",
+      "width": 243,
+      "height": 320
+    },
+    "extract": "Maria Anna Prinzessin von Anhalt-Dessau aus dem Hause der Askanier war das dritte Kind von Herzog Leopold Friedrich von Anhalt-Dessau und Prinzessin Friederike von Preußen.",
+    "year": 1837,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alfred P. Swineford",
+    "birthday": "1836-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Alfred_P._Swineford.jpg/291px-Alfred_P._Swineford.jpg",
+      "width": 291,
+      "height": 320
+    },
+    "extract": "Alfred Peter Swineford war ein US-amerikanischer Politiker der Demokratischen Partei.",
+    "year": 1836,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Marie François Joseph de Miribel",
+    "birthday": "1831-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/83/LPDF_23_5_g%C3%A9n%C3%A9ral_de_Miribel.jpg",
+      "width": 233,
+      "height": 312
+    },
+    "extract": "Marie François Joseph de Miribel war ein französischer Général de division.",
+    "year": 1831,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Katharina Lanner",
+    "birthday": "1829-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Kathi_Lanner.jpg/256px-Kathi_Lanner.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Katharina Josepha Lanner, auch Kathi Lanner bzw. Katti Lanner war eine österreichische Tänzerin, Choreographin und Ballettmeisterin.",
+    "year": 1829,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hermann Krone",
+    "birthday": "1827-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hermann_Krone_-_Selbstportr%C3%A4t_in_seinem_Atelier_%28um_1858%29_klein.jpg/248px-Hermann_Krone_-_Selbstportr%C3%A4t_in_seinem_Atelier_%28um_1858%29_klein.jpg",
+      "width": 248,
+      "height": 320
+    },
+    "extract": "Hermann Krone war ein deutscher Fotograf, Wissenschaftler, Hochschullehrer und Publizist. Er gründete das Historische Lehrmuseum für Photographie in Dresden und gilt als einer der bekanntesten und besten Fotografen des 19. Jahrhunderts.",
+    "year": 1827,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Heinrich von Nathusius (Landwirt)",
+    "birthday": "1824-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Herinrich_von_Nathusius_alt.JPG/222px-Herinrich_von_Nathusius_alt.JPG",
+      "width": 222,
+      "height": 320
+    },
+    "extract": "Heinrich Engelhard Nathusius, ab 1861 von Nathusius, war Rittergutsbesitzer, Züchter und Politiker. Er wurde 1861 in den Adelsstand erhoben.",
+    "year": 1824,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Václav Levý",
+    "birthday": "1820-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jan_Vil%C3%ADmek_-_V%C3%A1clav_Lev%C3%BD.jpg/228px-Jan_Vil%C3%ADmek_-_V%C3%A1clav_Lev%C3%BD.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Václav Levý, auch Wenzel Lewy war ein tschechischer Bildhauer der Romantik.",
+    "year": 1820,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "José Güell y Renté",
+    "birthday": "1818-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b0/Jos%C3%A9_G%C3%BCell_y_Rent%C3%A9_-_Politiker_und_Schriftsteller.jpg/234px-Jos%C3%A9_G%C3%BCell_y_Rent%C3%A9_-_Politiker_und_Schriftsteller.jpg",
+      "width": 234,
+      "height": 320
+    },
+    "extract": "José Lorenzo Buenaventura Güell y Renté war ein kubanisch-spanischer Politiker und Schriftsteller.",
+    "year": 1818,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Stephan von Österreich",
+    "birthday": "1817-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Stephan_Erzherzog.jpg/213px-Stephan_Erzherzog.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Stephan Franz Viktor, Erzherzog von Österreich, war ein Sohn des Erzherzogs Joseph und dessen zweiter Gemahlin, der Prinzessin Hermine von Anhalt-Bernburg-Schaumburg-Hoym. Er war der Zwillingsbruder von Hermine Amelie Marie von Österreich. Stephan gehörte dem ungarischen Zweig des Hauses Habsburg-Lothringen an.",
+    "year": 1817,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Theodor Storm",
+    "birthday": "1817-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Theodor_Storm_%281817-1888%29.jpg/205px-Theodor_Storm_%281817-1888%29.jpg",
+      "width": 205,
+      "height": 320
+    },
+    "extract": "Hans Theodor Woldsen Storm war ein deutscher Schriftsteller. Mit seiner Lyrik und Prosa gehört er zu den bedeutendsten Vertretern des Poetischen Realismus. Storm ist vor allem für seine Novellen bekannt, empfand sich allerdings in erster Linie als Lyriker und sah die Gedichte als Ursprung seiner Erzählungen. Für ihn war das Erlebnis das Fundament seiner Gedichte, während er der Gedankenlyrik fernstand. Einige Verse und Novellen richten sich gegen den Adel und kritisieren die Beamtenhierarchie sowie die Verbindung weltlicher und geistlicher Kräfte.",
+    "year": 1817,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hermann Marggraff",
+    "birthday": "1809-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Die_Gartenlaube_%281864%29_b_213.jpg/269px-Die_Gartenlaube_%281864%29_b_213.jpg",
+      "width": 269,
+      "height": 320
+    },
+    "extract": "Hermann Marggraff  war ein deutscher Schriftsteller, Journalist und Literaturkritiker.",
+    "year": 1809,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Georg Friedrich Kolb",
+    "birthday": "1808-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kolb%2C_Georg_Friedrich_%281808-1884%29.jpg/185px-Kolb%2C_Georg_Friedrich_%281808-1884%29.jpg",
+      "width": 185,
+      "height": 320
+    },
+    "extract": "Georg Friedrich Kolb war ein deutscher Verleger, Publizist und Politiker.",
+    "year": 1808,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "John Gould",
+    "birthday": "1804-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/John_Gould.jpg/249px-John_Gould.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "extract": "John Gould war ein britischer Ornithologe und Tiermaler. Anfang 1837 erkannte Gould, dass die von Charles Darwin von seiner Reise mit der H.M.S Beagle mitgebrachten Galápagos-Finken eine eigenständige Gruppe bilden. Von 1838 bis 1840 unternahm er selbst eine 27 Monate dauernde zoologische Expedition nach Australien und sammelte dort gemeinsam mit John Gilbert (1812–1845) etwa 800 Vögel und ungefähr 70 Säugetiere. Nach seiner Rückkehr entstanden viele Werke zur Tierwelt Australiens, die mit zahlreichen farbigen Lithografien ausgestattet waren.",
+    "year": 1804,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Franz Bopp",
+    "birthday": "1791-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Franz_Bopp_-_Imagines_philologorum.jpg/264px-Franz_Bopp_-_Imagines_philologorum.jpg",
+      "width": 264,
+      "height": 320
+    },
+    "extract": "Franz Bopp war ein deutscher Sprachwissenschaftler und Sanskritforscher. Er gilt als Begründer der historisch-vergleichenden indogermanischen Sprachwissenschaft; Bopp bevorzugte den Terminus „indoeuropäisch“.",
+    "year": 1791,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Gaspard Gourgaud",
+    "birthday": "1783-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/thumb/1/10/WP_Gaspard_Gourgaud.jpg/227px-WP_Gaspard_Gourgaud.jpg",
+      "width": 227,
+      "height": 320
+    },
+    "extract": "Baron Gaspard Gourgaud war ein französischer Général de brigade.",
+    "year": 1783,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Henry Johnson",
+    "birthday": "1783-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/H.S.Johnson.jpg/240px-H.S.Johnson.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Henry Johnson war ein US-amerikanischer Politiker und von 1824 bis 1828 Gouverneur des Bundesstaates Louisiana. Außerdem vertrat er seinen Staat in beiden Kammern des Kongresses.",
+    "year": 1783,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Christian Magnus Falsen",
+    "birthday": "1782-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Christian_Magnus_Falsen_EM.01457_crop.jpg/268px-Christian_Magnus_Falsen_EM.01457_crop.jpg",
+      "width": 268,
+      "height": 320
+    },
+    "extract": "Christian Magnus Falsen, war ein Beamter und Politiker. Er gilt als die umstrittenste Persönlichkeit in der Phase der Entstehung der norwegischen Verfassung.",
+    "year": 1782,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Friedrich Gottlob Wetzel",
+    "birthday": "1779-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Wetzelbautzen.jpg/240px-Wetzelbautzen.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Karl Friedrich Gottlob Wetzel war ein deutscher Schriftsteller der Frühromantik.",
+    "year": 1779,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "William Cavendish-Bentinck",
+    "birthday": "1774-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bentinck_william.png/241px-Bentinck_william.png",
+      "width": 241,
+      "height": 320
+    },
+    "extract": "Lord William Henry Cavendish-Bentinck GCB, GCH, PC war ein britischer General und Staatsmann.",
+    "year": 1774,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Alexander von Humboldt",
+    "birthday": "1769-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/AvHumboldt.jpg/228px-AvHumboldt.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Friedrich Wilhelm Heinrich Alexander von Humboldt war ein deutscher Forschungsreisender mit einem weit über Europa hinausreichenden Wirkungsfeld. In seinem über einen Zeitraum von mehr als sieben Jahrzehnten entstandenen Gesamtwerk schuf er „einen neuen Wissens- und Reflexionsstand des Wissens von der Welt“ und wurde zum Mitbegründer der Geographie als empirische Wissenschaft. Er war der jüngere Bruder von Wilhelm von Humboldt.",
+    "year": 1769,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ludwig Ferdinand Huber",
+    "birthday": "1764-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ludwig_Ferdinand_Huber.png/256px-Ludwig_Ferdinand_Huber.png",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Ludwig Ferdinand Huber war ein deutscher Schriftsteller, Übersetzer und Journalist in der Zeit der Aufklärung und der Französischen Revolution.",
+    "year": 1764,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Luigi Cherubini",
+    "birthday": "1760-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Jean-Auguste-Dominique_Ingres_-_Luigi_Cherubini_-_Google_Art_Project.jpg/272px-Jean-Auguste-Dominique_Ingres_-_Luigi_Cherubini_-_Google_Art_Project.jpg",
+      "width": 272,
+      "height": 320
+    },
+    "extract": "Luigi Carlo Zenobio Salvatore Maria Cherubini war ein italienischer Komponist.",
+    "year": 1760,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jean-Jacques Lequeu",
+    "birthday": "1757-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Jean-JacquesLequeu.jpg/295px-Jean-JacquesLequeu.jpg",
+      "width": 295,
+      "height": 320
+    },
+    "extract": "Jean-Jacques Lequeu war ein französischer Architekt.\nEr gilt als bekannter Vertreter theoretischer Entwürfe der architecture parlante der Revolutionsarchitektur.",
+    "year": 1757,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "James Wilson",
+    "birthday": "1742-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/JusticeJamesWilson.jpg/268px-JusticeJamesWilson.jpg",
+      "width": 268,
+      "height": 320
+    },
+    "extract": "James Wilson war einer der Unterzeichner der Unabhängigkeitserklärung der Vereinigten Staaten, wurde zweimal in den Kontinentalkongress gewählt und hat wesentlich zur Erstellung eines Entwurfs für die Verfassung der Vereinigten Staaten beigetragen. Er war ein führender Rechtstheoretiker und einer der sechs ursprünglichen Richter des Obersten Gerichtshofes, die 1789 von George Washington ernannt wurden. Wilson galt als Koryphäe, was das Thema Regierung betraf, und allgemein als der gebildetste der Gründerväter der Vereinigten Staaten. Ein Delegiertenkollege der Philadelphia Convention von 1787, die die amerikanische Verfassung hervorbrachte, beschrieb James Wilson folgendermaßen: „Es scheint, die Regierung sei ganz besonders Thema seiner Untersuchung; er kennt alle politischen Institutionen der Welt bis ins Detail und kann schrittweise alle Ursachen und Wirkungen aller Revolutionen von den frühesten Stadien der altgriechischen Staatengemeinschaft bis in die heutige Zeit benennen.“ Zusammen mit James Madison war er wohl auch am besten bewandert auf dem Gebiet der Volkswirtschaft.",
+    "year": 1742,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Robert Eden, 1. Baronet (of Maryland)",
+    "birthday": "1741-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Robert_Eden.jpg/264px-Robert_Eden.jpg",
+      "width": 264,
+      "height": 320
+    },
+    "extract": "Sir Robert Eden, 1. Baronet war der letzte britische Kolonialgouverneur der Province of Maryland.",
+    "year": 1741,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Michael Haydn",
+    "birthday": "1737-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Michaelhaydn1.jpg/222px-Michaelhaydn1.jpg",
+      "width": 222,
+      "height": 320
+    },
+    "extract": "Johann Michael Haydn war Komponist und Bruder von Joseph Haydn und Johann Evangelist Haydn.",
+    "year": 1737,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Robert Raikes",
+    "birthday": "1735-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/thumb/5/53/WP_Robert_Raikes.jpg/289px-WP_Robert_Raikes.jpg",
+      "width": 289,
+      "height": 320
+    },
+    "extract": "Robert Raikes war ein englischer Zeitungsverleger und Sozialreformer. Er gilt als der Begründer der Sonntagsschule.",
+    "year": 1735,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Mercy Otis Warren",
+    "birthday": "1728-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mrs_James_Warren_%28Mercy_Otis%29%2C_by_John_Singleton_Copley.jpg/255px-Mrs_James_Warren_%28Mercy_Otis%29%2C_by_John_Singleton_Copley.jpg",
+      "width": 255,
+      "height": 320
+    },
+    "extract": "Mercy Otis Warren war eine US-amerikanische Schriftstellerin und Historikerin. Während der amerikanischen Revolution betätigte sie sich politisch auf Seiten der Revolutionäre. Otis Warren war eine der ersten amerikanischen Frauen, die Texte mit der Absicht zur Publikation verfassten.",
+    "year": 1728,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ignaz Vitzthumb",
+    "birthday": "1724-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ignace_Vitzthumb.jpg/225px-Ignace_Vitzthumb.jpg",
+      "width": 225,
+      "height": 320
+    },
+    "extract": "Ignaz Vitzthumb war ein österreichischer Komponist und Kapellmeister.",
+    "year": 1724,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Eliphalet Dyer",
+    "birthday": "1721-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Eliphalet_Dyer%2C_member_of_the_Continental_Congress_%28NYPL_NYPG94-F43-419855%29.jpg/241px-Eliphalet_Dyer%2C_member_of_the_Continental_Congress_%28NYPL_NYPG94-F43-419855%29.jpg",
+      "width": 241,
+      "height": 320
+    },
+    "extract": "Eliphalet Dyer war ein US-amerikanischer Politiker. Zwischen 1774 und 1779 sowie nochmals von 1782 bis 1783 war er Delegierter für Connecticut im Kontinentalkongress.",
+    "year": 1721,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Johann Caspar Heimburg",
+    "birthday": "1702-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Johann-Caspar-Heimburg.jpg/187px-Johann-Caspar-Heimburg.jpg",
+      "width": 187,
+      "height": 320
+    },
+    "extract": "Johann Caspar Heimburg war ein deutscher Rechtswissenschaftler.",
+    "year": 1702,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Maurus Xaverius Herbst",
+    "birthday": "1701-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gem%C3%A4lde_-_Abt_Maurus_Xaverius_Herbst.jpg/261px-Gem%C3%A4lde_-_Abt_Maurus_Xaverius_Herbst.jpg",
+      "width": 261,
+      "height": 320
+    },
+    "extract": "Maurus Xaverius Herbst war Benediktinermönch und Abt des Klosters Plankstetten.",
+    "year": 1701,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Charles du Fay",
+    "birthday": "1698-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Charles_Fran%C3%A7ois_de_Cisternay_du_Fay.jpg",
+      "width": 158,
+      "height": 200
+    },
+    "extract": "Charles François de Cisternay du Fay war ein französischer Naturforscher und Superintendent des Jardin du Roi in Paris. In Erinnerung geblieben ist er hauptsächlich durch seine Abhandlungen über Elektrizität.",
+    "year": 1698,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Salomon Deyling",
+    "birthday": "1677-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/SalomonDeyling.jpg/224px-SalomonDeyling.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Salomon Deyling war ein deutscher evangelisch-lutherischer Theologe.",
+    "year": 1677,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Jean-Baptiste Colbert, marquis de Torcy",
+    "birthday": "1665-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Torcy_m.jpg",
+      "width": 244,
+      "height": 275
+    },
+    "extract": "Jean-Baptiste Colbert de Torcy war ein französischer Diplomat und Außenminister unter König Ludwig XIV., sowie Neffe von Jean-Baptiste Colbert.",
+    "year": 1665,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Caspar Neumann (Theologe)",
+    "birthday": "1648-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kasper-Neumann.jpg/200px-Kasper-Neumann.jpg",
+      "width": 200,
+      "height": 320
+    },
+    "extract": "Caspar Neumann oder Kaspar Neumann war er ein evangelischer Pfarrer, Kircheninspektor und Kirchenlieddichter. Darüber hinaus gilt er als einer der ersten bedeutenden deutschen Vertreter der Politischen Arithmetik und Wegbereiter der Bevölkerungsstatistik.",
+    "year": 1648,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Franz Hyazinth (Savoyen)",
+    "birthday": "1632-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Francisko-Jacinto_de_Savojo.jpg/222px-Francisko-Jacinto_de_Savojo.jpg",
+      "width": 222,
+      "height": 320
+    },
+    "extract": "Franz Hyazinth war Herzog von Savoyen, Fürst von Piemont, Markgraf von Saluzzo, Graf von Aosta, Moriana, Asti und Nizza und Titularkönig von Zypern und Jerusalem (1637–1638).",
+    "year": 1632,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Peter Lely",
+    "birthday": "1618-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Franck_Deutsche_K%C3%BCnstler-Gallerie_1818_Bild_38.jpg/247px-Franck_Deutsche_K%C3%BCnstler-Gallerie_1818_Bild_38.jpg",
+      "width": 247,
+      "height": 320
+    },
+    "extract": "Sir Peter Lely war ein englischer Maler niederländischer Herkunft.",
+    "year": 1618,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Philips Angel (van Middelburg)",
+    "birthday": "1616-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Angel_Phillips_Stillleben_mit_Butterfass%40Nieders._Landesmuseum20170622.jpg/261px-Angel_Phillips_Stillleben_mit_Butterfass%40Nieders._Landesmuseum20170622.jpg",
+      "width": 261,
+      "height": 320
+    },
+    "extract": "Philips Angel  war ein niederländischer Stillleben-Maler.",
+    "year": 1616,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Josua Stegmann",
+    "birthday": "1588-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Josua_Stegmann.jpg/240px-Josua_Stegmann.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Josua Stegmann war ein deutscher evangelischer Theologe und Dichter von Kirchenliedern.",
+    "year": 1588,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Francisco de Quevedo",
+    "birthday": "1580-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Quevedo_%28copia_de_Vel%C3%A1zquez%29.jpg/253px-Quevedo_%28copia_de_Vel%C3%A1zquez%29.jpg",
+      "width": 253,
+      "height": 320
+    },
+    "extract": "Francisco Gómez de Quevedo y Santibáñez Villegas war ein spanischer Schriftsteller und Satiriker des Barocks. Er gehörte zu den Meistern des sogenannten Schelmenromans.",
+    "year": 1580,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Johan van Oldenbarnevelt",
+    "birthday": "1547-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michiel_Jansz_van_Mierevelt_-_Johan_van_Oldenbarnevelt.jpg/251px-Michiel_Jansz_van_Mierevelt_-_Johan_van_Oldenbarnevelt.jpg",
+      "width": 251,
+      "height": 320
+    },
+    "extract": "Johan van Oldenbarnevelt war ein niederländischer Staatsmann und gilt als Begründer der Republik der Vereinigten Niederlande.",
+    "year": 1547,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Claudio Acquaviva",
+    "birthday": "1543-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Portret_van_de_jezu%C3%AFet_Claudius_Aquaviva_Portretten_van_generaal_oversten_van_de_jezu%C3%AFeten_%28serietitel%29_Effigies_pr%C3%A6positorvm_generalivm_societatis_Iesv_%28serietitel%29%2C_RP-P-1909-1354.jpg/200px-thumbnail.jpg",
+      "width": 200,
+      "height": 320
+    },
+    "extract": "Claudio Acquaviva, lateinisch  Claudius Aquaviva, war der fünfte Generalsuperior der Societas Jesu.",
+    "year": 1543,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Philipp Apian",
+    "birthday": "1531-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/HU_Alt_-_Philipp_Apian_1590_mR.jpg/265px-HU_Alt_-_Philipp_Apian_1590_mR.jpg",
+      "width": 265,
+      "height": 320
+    },
+    "extract": "Philipp Apian war ein süddeutscher Mathematiker, Arzt, Kartograf und Heraldiker. Er war Universitätsprofessor in Ingolstadt und Tübingen und wurde auch durch die erste Landesvermessung Bayerns bekannt.",
+    "year": 1531,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Ludwig II. (Pfalz-Zweibrücken)",
+    "birthday": "1502-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ludwig_II.%2C_Pfalzgraf_von_Zweibr%C3%BCcken_%281502-1532%29.jpg/234px-Ludwig_II.%2C_Pfalzgraf_von_Zweibr%C3%BCcken_%281502-1532%29.jpg",
+      "width": 234,
+      "height": 320
+    },
+    "extract": "Ludwig II. von Pfalz-Zweibrücken genannt der Jüngere war ab 1514 Pfalzgraf und Herzog von Pfalz-Zweibrücken und Graf von Veldenz.",
+    "year": 1502,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Heinrich Cornelius Agrippa von Nettesheim",
+    "birthday": "1486-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cornelius_agrippa.png",
+      "width": 300,
+      "height": 298
+    },
+    "extract": "Heinrich Cornelius, genannt Agrippa von Nettesheim – latinisiert Henricus Cornelius Agrippa ab/de Nettesheym/Nettesheim – war ein deutscher Universalgelehrter, Theologe, Jurist, Arzt und Philosoph. Er zählt in seiner Auseinandersetzung mit Magie, Religion, Astrologie, Naturphilosophie und mit seinen Beiträgen zur Religionsphilosophie und zur enzyklopädischen Erfassung der Magie zu den bedeutenden Gelehrten seiner Zeit.",
+    "year": 1486,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Anna von Mecklenburg",
+    "birthday": "1485-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Marienstiftskirche_Lich_Epitaphe_13_%28cropped%29.JPG/154px-Marienstiftskirche_Lich_Epitaphe_13_%28cropped%29.JPG",
+      "width": 154,
+      "height": 320
+    },
+    "extract": "Anna, Herzogin zu Mecklenburg [-Schwerin], in der Literatur auch häufig als Anna von Mecklenburg war durch Heiraten Landgräfin von Hessen und danach Gräfin von Solms-Lich.",
+    "year": 1485,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Hamman von Holzhausen",
+    "birthday": "1467-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hamman_von_Holzhausen.jpg/212px-Hamman_von_Holzhausen.jpg",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Hamman von Holzhausen war ein deutscher Politiker, Frankfurter Patrizier und Ratsherr. Er hatte mehrfach das Amt des Älteren Bürgermeisters der Freien Reichsstadt Frankfurt inne und galt als Förderer der Reformation und des Humanismus.",
+    "year": 1467,
+    "month": 9,
+    "day": 14
+  },
+  {
+    "name": "Diadumenianus",
+    "birthday": "208-9-14",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Aureus_Diadumenianus.jpg/320px-Aureus_Diadumenianus.jpg",
+      "width": 320,
+      "height": 149
+    },
+    "extract": "Marcus Opellius Diadumenianus war der Sohn des römischen Kaisers Macrinus. Nach der Erhebung seines Vaters zum Kaiser im April 217 erhielt er den Titel Caesar und den Namen Marcus Opellius Antoninus Diadumenianus. Im folgenden Jahr wurde Diadumenianus nominell Mitregent, doch bald darauf kam er beim Sturz seines Vaters ums Leben.",
+    "year": 208,
+    "month": 9,
+    "day": 14
+  }
+]

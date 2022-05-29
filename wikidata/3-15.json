@@ -1,0 +1,2680 @@
+[
+  {
+    "name": "Andreas Warmbrunn",
+    "birthday": "1999-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Das_geteilte_Gl%C3%BCck%2C_Hauptdarsteller_IMGP4470.jpg/320px-Das_geteilte_Gl%C3%BCck%2C_Hauptdarsteller_IMGP4470.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Andreas Warmbrunn ist ein deutscher Filmschauspieler und ehemaliger Kinderdarsteller.",
+    "year": 1999,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jana Feldkamp",
+    "birthday": "1998-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2021-10-26_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Israel_1DX_1103_by_Stepro.jpg/320px-2021-10-26_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Israel_1DX_1103_by_Stepro.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Jana Feldkamp ist eine deutsche Fußballspielerin.",
+    "year": 1998,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Lukas Hasler",
+    "birthday": "1996-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lukas_Hasler_%282019%29.jpg/320px-Lukas_Hasler_%282019%29.jpg",
+      "width": 320,
+      "height": 256
+    },
+    "extract": "Lukas Hasler ist ein österreichischer Konzertorganist, Komponist und Chorleiter",
+    "year": 1996,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Levin Öztunali",
+    "birthday": "1996-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20161011_U21_AUT_GER_9309.jpg/320px-20161011_U21_AUT_GER_9309.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Levin Mete Öztunali ist ein deutscher Fußballspieler. Er steht seit der Saison 2021/22 beim Bundesligisten 1. FC Union Berlin unter Vertrag und ist 75-maliger deutscher Nachwuchsnationalspieler.",
+    "year": 1996,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Nijel Amos",
+    "birthday": "1994-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/800_m_men_final_London_2017.jpg/320px-800_m_men_final_London_2017.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Nijel Amos ist ein botswanischer Mittelstreckenläufer, der sich auf den 800-Meter-Lauf spezialisiert hat.",
+    "year": 1994,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Alia Bhatt",
+    "birthday": "1993-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Alia_Bhatt.jpg/244px-Alia_Bhatt.jpg",
+      "width": 244,
+      "height": 320
+    },
+    "extract": "Alia Bhatt ist eine indische Schauspielerin und Sängerin des kommerziellen Hindi-Films. Bhatt trat zum ersten Mal in einer kleinen Rolle in dem Film Sangharsh (1999) auf. Als Erwachsene gab sie 2012 ihr Filmdebüt in Karan Johars Liebesdrama Student of the Year.",
+    "year": 1993,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Paul Pogba",
+    "birthday": "1993-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/FRA-ARG_%2811%29_-_Paul_Pogba_%28cropped%29.jpg/280px-FRA-ARG_%2811%29_-_Paul_Pogba_%28cropped%29.jpg",
+      "width": 280,
+      "height": 320
+    },
+    "extract": "Paul Labile Pogba ist ein französischer Fußballspieler. Er steht seit August 2016 nach dem seinerzeit teuersten Transfer der Fußballgeschichte bei Manchester United unter Vertrag. 2018 wurde er mit der französischen Nationalmannschaft Weltmeister.",
+    "year": 1993,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Xavier Henry",
+    "birthday": "1991-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Xavier_Henry_Kansas_2010.jpg/189px-Xavier_Henry_Kansas_2010.jpg",
+      "width": 189,
+      "height": 320
+    },
+    "extract": "Xavier Henry ist ein US-amerikanischer Basketballspieler, der zuletzt bei den Los Angeles Lakers in der NBA unter Vertrag stand. Aktuell steht er bei den Santa Cruz Warriors in der NBA-Entwicklungsliga D-League unter Vertrag.",
+    "year": 1991,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kevin Müller",
+    "birthday": "1991-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/M%C3%BCller%2C_Kevin_Heidenheim_16-17_WP.jpg/240px-M%C3%BCller%2C_Kevin_Heidenheim_16-17_WP.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Kevin Müller ist ein deutscher Fußballspieler. Der Torhüter, der sieben Mal für die Jugendnationalmannschaften des DFB auflief, begann seine Laufbahn bei Hansa Rostock in der 3. Liga sowie der 2. Bundesliga.",
+    "year": 1991,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Tavon Austin",
+    "birthday": "1990-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Tavon_Austin_%28cropped%29.jpg/184px-Tavon_Austin_%28cropped%29.jpg",
+      "width": 184,
+      "height": 320
+    },
+    "extract": "Tavon Wesley Austin ist ein US-amerikanischer American-Football-Spieler auf der Position des Wide Receivers und wird auch als Returner in den Special Teams eingesetzt. Er spielte in der National Football League (NFL) für die St. Louis/Los Angeles Rams, die Dallas Cowboys und die Green Bay Packers. Zurzeit steht er bei den Jacksonville Jaguars unter Vertrag.",
+    "year": 1990,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Nicole Schmidhofer",
+    "birthday": "1989-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Nicole_Schmidhofer_-_by_2eight_-_8SC9968.jpg/320px-2017_Audi_FIS_Ski_Weltcup_Garmisch-Partenkirchen_Damen_-_Nicole_Schmidhofer_-_by_2eight_-_8SC9968.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Nicole „Nici“ Schmidhofer ist eine österreichische Skirennläuferin aus Schönberg-Lachtal in der Steiermark. Sie startet im Weltcup hauptsächlich in den Disziplinen Abfahrt und Super-G. Ihre bislang größten Erfolge sind der Super-G-Weltmeistertitel im Jahr 2017 und der Sieg im Abfahrtsweltcup der Saison 2018/19.",
+    "year": 1989,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Alexander Sims",
+    "birthday": "1988-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sims_Alexander.JPG/212px-Sims_Alexander.JPG",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Alexander George Oliver Sims ist ein britischer Automobilrennfahrer. Er gewann 2008 den McLaren Autosport BRDC Award. Seit 2018 geht er in der FIA-Formel-E-Meisterschaft an den Start.",
+    "year": 1988,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sameh Sidhom",
+    "birthday": "1987-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/2017_Verhoeven_Open-Sameh_Sidhom_%28cropped-Portrait%29.jpg/254px-2017_Verhoeven_Open-Sameh_Sidhom_%28cropped-Portrait%29.jpg",
+      "width": 254,
+      "height": 320
+    },
+    "extract": "Sameh Kamel Sidhom ist ein ägyptischer Dreibandspieler und Bronzemedaillengewinner der Dreiband-Weltmeisterschaft 2019 und der Junioren-Weltmeisterschaft 2005.",
+    "year": 1987,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jai Courtney",
+    "birthday": "1986-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jai_Courtney_by_Gage_Skidmore.jpg/203px-Jai_Courtney_by_Gage_Skidmore.jpg",
+      "width": 203,
+      "height": 320
+    },
+    "extract": "Jai Courtney ist ein australischer Schauspieler.",
+    "year": 1986,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Eva Amurri",
+    "birthday": "1985-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Eva_Amurri_at_Mercedes-Benz_Fashion_Week.jpg/235px-Eva_Amurri_at_Mercedes-Benz_Fashion_Week.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Eva Maria Livia Amurri ist eine US-amerikanische Schauspielerin.",
+    "year": 1985,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Antti Autti",
+    "birthday": "1985-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/LG_Snowboard_FIS_World_Cup_%285435935832%29.jpg/208px-LG_Snowboard_FIS_World_Cup_%285435935832%29.jpg",
+      "width": 208,
+      "height": 320
+    },
+    "extract": "Antti-Matias Antero Autti ist ein finnischer Snowboarder. Sein Onkel ist Arto Autti, ein ehemaliger finnischer Fußballspieler.",
+    "year": 1985,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Tom Chilton",
+    "birthday": "1985-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tom_chilton_oultonpark2011.JPG/320px-Tom_chilton_oultonpark2011.JPG",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Thomas James „Tom“ Chilton ist ein britischer Automobilrennfahrer. Er startete von 2002 bis 2011 in der British Touring Car Championship (BTCC). Von 2012 bis 2015 trat er in der Tourenwagen-Weltmeisterschaft (WTCC) an. Er ist der ältere Bruder des Rennfahrers Max Chilton.",
+    "year": 1985,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kellan Lutz",
+    "birthday": "1985-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kellan-Lutz-2014-2.jpg/213px-Kellan-Lutz-2014-2.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Kellan Christopher Lutz ist ein US-amerikanischer Schauspieler. Bekannt wurde er durch die Rolle des Emmett Cullen im Film Twilight – Biss zum Morgengrauen.",
+    "year": 1985,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Yves Grafenhorst",
+    "birthday": "1984-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Yves_Grafenhorst_02.jpg/320px-Yves_Grafenhorst_02.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Yves Grafenhorst ist ein ehemaliger deutscher Handballspieler.",
+    "year": 1984,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Medhi Lacen",
+    "birthday": "1984-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Mehdi_Lacen.jpg/212px-Alg%C3%A9rie_-_Arm%C3%A9nie_-_20140531_-_Mehdi_Lacen.jpg",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Medhi Gregory Giuseppe Lacen ist ein in Frankreich geborener algerischer Fußballspieler.",
+    "year": 1984,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Djelaludin Sharityar",
+    "birthday": "1983-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Djelaludin_sharityar.jpg",
+      "width": 127,
+      "height": 180
+    },
+    "extract": "Djelaludin „Djelal“ Sharityar ist ein afghanischer Fußballspieler, der auch die deutsche Staatsbürgerschaft besitzt. Der gelernte Immobilienkaufmann trägt, wegen seines für Europäer schwer auszusprechenden Vornamens, in Anlehnung an den italienischen Stürmer Salvatore „Totò“ Schillaci den Spitznamen Toto. Der Defensiv-Allrounder gilt als zweikampfstarker Spieler.",
+    "year": 1983,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Georg Huber (Autor)",
+    "birthday": "1982-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Autor_Georg_Huber.jpg/320px-Autor_Georg_Huber.jpg",
+      "width": 320,
+      "height": 320
+    },
+    "extract": "Georg Huber ist ein deutscher Autor und Verleger.",
+    "year": 1982,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Young Buck",
+    "birthday": "1981-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Young_Buck_Departs_From_LAX_-_cropped.jpg",
+      "width": 221,
+      "height": 294
+    },
+    "extract": "Young Buck ist ein US-amerikanischer Gangsta-Rapper. Sein Künstlername ist ein amerikanischer Slang-Ausdruck für einen schwarzen jungen Mann.",
+    "year": 1981,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Mikael Forssell",
+    "birthday": "1981-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Forssell_signs_autographs_Weiden.jpg/320px-Forssell_signs_autographs_Weiden.jpg",
+      "width": 320,
+      "height": 301
+    },
+    "extract": "Mikael Kaj Forssell ist ein ehemaliger finnischer Fußballspieler.",
+    "year": 1981,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Brice Guyart",
+    "birthday": "1981-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Conf_presse_FFE_2012-06-12_n15.jpg/212px-Conf_presse_FFE_2012-06-12_n15.jpg",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Brice Guyart ist ein französischer Florettfechter, zweifacher Olympiasieger und Weltmeister.",
+    "year": 1981,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Tamás Hajnal",
+    "birthday": "1981-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hajnal.jpg/220px-Hajnal.jpg",
+      "width": 220,
+      "height": 320
+    },
+    "extract": "Tamás Hajnal [ˈtɒmaːʃ ˈhɒjnɒl] ist ein ehemaliger ungarischer Fußballspieler.",
+    "year": 1981,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Judith Hoersch",
+    "birthday": "1981-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Judith_Hoersch_%28cropped%29.jpg/229px-Judith_Hoersch_%28cropped%29.jpg",
+      "width": 229,
+      "height": 320
+    },
+    "extract": "Judith Hoersch ist eine deutsche Schauspielerin, Sängerin und Synchronsprecherin.",
+    "year": 1981,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ola Afolabi",
+    "birthday": "1980-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ola_Afolabi_2015.png/186px-Ola_Afolabi_2015.png",
+      "width": 186,
+      "height": 320
+    },
+    "extract": "Ola Afolabi ist ein britischer Boxer nigerianischer Herkunft und ehemaliger Weltmeister der IBO im Cruisergewicht.",
+    "year": 1980,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Shelley-Ann Brown",
+    "birthday": "1980-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Shelly-Ann_Brown.jpg/255px-Shelly-Ann_Brown.jpg",
+      "width": 255,
+      "height": 320
+    },
+    "extract": "Shelley-Ann Marie Brown, CM ist eine ehemalige kanadische Bobfahrerin.",
+    "year": 1980,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kang Ye-won",
+    "birthday": "1980-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kang_Ye-won_%28%EA%B0%95%EC%98%88%EC%9B%90%29_in_Jan_2015.jpg/197px-Kang_Ye-won_%28%EA%B0%95%EC%98%88%EC%9B%90%29_in_Jan_2015.jpg",
+      "width": 197,
+      "height": 320
+    },
+    "extract": "Kang Ye-won ist eine südkoreanische Schauspielerin.",
+    "year": 1980,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Camilla Renschke",
+    "birthday": "1980-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Camilla_Renschke_%282%29.jpg/213px-Camilla_Renschke_%282%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Camilla Renschke ist eine deutsche Schauspielerin.",
+    "year": 1980,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Céline Amaudruz",
+    "birthday": "1979-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Celine_Aumadruz_%282015%29.jpg/213px-Celine_Aumadruz_%282015%29.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Céline Amaudruz ist eine Schweizer Politikerin (SVP).",
+    "year": 1979,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Anna von Bayern",
+    "birthday": "1978-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/2019-11-20-Anna_von_Bayern-Maischberger-7728.jpg/213px-2019-11-20-Anna_von_Bayern-Maischberger-7728.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Anna von Bayern ist eine deutsche Journalistin, Autorin und im Vorstand von Coty Inc.",
+    "year": 1978,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Brahim Hemdani",
+    "birthday": "1978-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Brahim_Hemdani%2C_Nou_Camp.JPG/211px-Brahim_Hemdani%2C_Nou_Camp.JPG",
+      "width": 211,
+      "height": 320
+    },
+    "extract": "Brahim Hemdani ist ein ehemaliger algerischer Fußball­spieler. Meistens wird er im Mittelfeld eingesetzt. Seine Familie kommt ursprünglich aus Larbaâ Nath Irathen in Algerien.",
+    "year": 1978,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Eva Longoria",
+    "birthday": "1975-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eva_Longoria_Cannes_2019_2.jpg/192px-Eva_Longoria_Cannes_2019_2.jpg",
+      "width": 192,
+      "height": 320
+    },
+    "extract": "Eva Jacqueline Longoria Baston ist eine US-amerikanische Schauspielerin, Model, Filmregisseurin sowie Film- und Fernsehproduzentin. Sie ist vor allem für ihre Rolle der Gabrielle Solis in der Fernsehserie Desperate Housewives bekannt. Neben der Schauspielerei hatte Longoria Auftritte als Model und war in großen Werbekampagnen sowie in Männermagazinen zu sehen.",
+    "year": 1975,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wesselin Topalow",
+    "birthday": "1975-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/VeselinTopalov12a.jpg/228px-VeselinTopalov12a.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Wesselin Topalow ist ein bulgarischer Großmeister im Schach.",
+    "year": 1975,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Darcy Tucker",
+    "birthday": "1975-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Darcy_Tucker.jpg/206px-Darcy_Tucker.jpg",
+      "width": 206,
+      "height": 320
+    },
+    "extract": "Darcy Tucker ist ein ehemaliger kanadischer Eishockeyspieler, der im Verlauf seiner aktiven Karriere zwischen 1995 und 2010 unter anderem 947 Spiele für die Canadiens de Montréal, Tampa Bay Lightning, Toronto Maple Leafs und Colorado Avalanche in der National Hockey League auf der Position des rechten Flügelstürmers bestritten hat. Tuckers Schwager ist der ehemalige kanadische Eishockeyspieler Shayne Corson, der ebenfalls in der NHL aktiv war.",
+    "year": 1975,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Will.i.am",
+    "birthday": "1975-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Will.i.am_in_2018.jpg/236px-Will.i.am_in_2018.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "extract": "William James Adams Jr., besser bekannt unter seinem Künstlernamen will.i.am, ist ein US-amerikanischer Rapper, Sänger, Songwriter, Musikproduzent und gelegentlicher Schauspieler und Synchronsprecher. International bekannt wurde er als Mitglied der Hip-Hop-Band The Black Eyed Peas. Er produzierte Songs für Michael Jackson und U2. Außerdem ist er seit der ersten Staffel im Jahr 2012 Jurymitglied und Coach in der britischen Gesangs-Castingshow The Voice UK, die auf BBC One ausgestrahlt wird.",
+    "year": 1975,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Robert Fick",
+    "birthday": "1974-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Fick.jpg/320px-Robert_Fick.jpg",
+      "width": 320,
+      "height": 256
+    },
+    "extract": "Robert Charles Fick ist ein professioneller Baseballspieler in der Major League Baseball. Der First Baseman ist momentan ein Free Agent. Im Jahr 2002 wurde er für das MLB All-Star Game nominiert.",
+    "year": 1974,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Lee Jung-jae",
+    "birthday": "1973-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Lee_Jeong-jae.jpg/320px-Lee_Jeong-jae.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Lee Jung-jae ist ein südkoreanischer Schauspieler. Für seine Rolle als Prinz Suyang in dem Film The Face Reader (2013) erhielt er den Blue Dragon Award als bester Nebendarsteller.",
+    "year": 1973,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Elio Aggiano",
+    "birthday": "1972-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Elia_Aggiano_EB05.jpg",
+      "width": 179,
+      "height": 250
+    },
+    "extract": "Elio Aggiano ist ein ehemaliger italienischer Radrennfahrer.",
+    "year": 1972,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Mark Hoppus",
+    "birthday": "1972-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/MarkHoppusliveInMontreal2011.jpg/203px-MarkHoppusliveInMontreal2011.jpg",
+      "width": 203,
+      "height": 320
+    },
+    "extract": "Mark Allan Hoppus ist Bassist, Sänger und Songschreiber der US-amerikanischen Pop-Punk-Band blink-182, die 1999 mit dem Album Enema of the State und der Single All the Small Things den internationalen Durchbruch schaffte.",
+    "year": 1972,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Holger Stromberg",
+    "birthday": "1972-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Holger_Stromberg_Koch_der_fussballnatinalmannschaft.JPG/243px-Holger_Stromberg_Koch_der_fussballnatinalmannschaft.JPG",
+      "width": 243,
+      "height": 320
+    },
+    "extract": "Holger Stromberg ist ein deutscher Küchenmeister, Fernsehkoch und Autor.",
+    "year": 1972,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jochen Drees",
+    "birthday": "1970-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jochen_Drees_img_0725a.jpg/320px-Jochen_Drees_img_0725a.jpg",
+      "width": 320,
+      "height": 237
+    },
+    "extract": "Jochen Drees ist ein deutscher Arzt und Fußballschiedsrichter.",
+    "year": 1970,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Elvir Laković Laka",
+    "birthday": "1969-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ESC_2008_-_Bosnia_%26_Herzegovina_-_Laka%2C_1st_semifinal.jpg/320px-ESC_2008_-_Bosnia_%26_Herzegovina_-_Laka%2C_1st_semifinal.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Elvir Laković Laka, auch unter seinem Künstlernamen Laka bekannt, ist ein bosnischer Sänger. Er vertrat sein Heimatland beim Eurovision Song Contest 2008 in Belgrad.",
+    "year": 1969,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sabrina Salerno",
+    "birthday": "1968-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Sabrina_Salerno_30_October_2010.jpg",
+      "width": 250,
+      "height": 300
+    },
+    "extract": "Norma Sabrina Salerno, Künstlername Sabrina, ist eine italienische Eurodisco-Sängerin.",
+    "year": 1968,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jon Schaffer",
+    "birthday": "1968-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/20161202_Oberhausen_Ruhrpott_Metall_Meeting_Iced_Earth_0136_Iced_Earth_%28Cropped%29.jpg/240px-20161202_Oberhausen_Ruhrpott_Metall_Meeting_Iced_Earth_0136_Iced_Earth_%28Cropped%29.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Jon Ryan Schaffer ist ein US-amerikanischer Gitarrist und Gründer der Heavy-Metal-Band Iced Earth. Schaffer wurde zudem als politischer Aktivist und Unterstützer von Donald Trump während dessen Amtszeit als Präsident der Vereinigten Staaten bekannt. Er beteiligte sich an dem Sturm auf das Kapitol im Januar 2021 und äußerte sich kritisch bezüglich der COVID-19-Pandemie.",
+    "year": 1968,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Claudine Wilde",
+    "birthday": "1967-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Claudine-Wilde.jpg/213px-Claudine-Wilde.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Claudine Wilde ist eine deutsche Schauspielerin.",
+    "year": 1967,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Bret Michaels",
+    "birthday": "1963-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bret_Michaels_2019_%28cropped%29.jpg/260px-Bret_Michaels_2019_%28cropped%29.jpg",
+      "width": 260,
+      "height": 320
+    },
+    "extract": "Bret Michaels alias Bret Michael Sychak ist ein US-amerikanischer Sänger, Schauspieler, Regisseur, Drehbuchautor und Produzent. Er wurde als Sänger der Glam-Metal-Band Poison bekannt. Daneben ist er auch als Solokünstler erfolgreich.",
+    "year": 1963,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sergio Vargas (Sänger)",
+    "birthday": "1963-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/SergioVargas_by_FelixdelaConcha.jpg/259px-SergioVargas_by_FelixdelaConcha.jpg",
+      "width": 259,
+      "height": 320
+    },
+    "extract": "Sergio Pascual Vargas Parra ist ein dominikanischer Merengue­sänger.",
+    "year": 1963,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Markus Merk",
+    "birthday": "1962-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Markus_merk061115.jpg/240px-Markus_merk061115.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Markus Merk ist ein ehemaliger deutscher Fußballschiedsrichter. Von 1988 bis 2008 leitete er Spiele in der Fußball-Bundesliga, zwischen 1992 und 2007 war er auch als FIFA-Schiedsrichter im Einsatz. Dreimal wurde er zum „Weltschiedsrichter des Jahres“ gewählt.",
+    "year": 1962,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sabine Baeß",
+    "birthday": "1961-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bundesarchiv_Bild_183-1983-1217-017%2C_Eiskunstl%C3%A4ufer%2C_DDR_%28cropped%29_-_Baess.jpg",
+      "width": 186,
+      "height": 195
+    },
+    "extract": "Sabine Baeß, verh. Marbach, ist eine ehemalige deutsche Eiskunstläuferin. Ihr Eiskunstlaufpartner war Tassilo Thierbach. Das Paar trainierte beim SC Karl-Marx-Stadt bei Irene Salzmann.",
+    "year": 1961,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Max Julen",
+    "birthday": "1961-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Max_Julen.jpg/209px-Max_Julen.jpg",
+      "width": 209,
+      "height": 320
+    },
+    "extract": "Max Julen ist ein ehemaliger Schweizer Skirennfahrer.",
+    "year": 1961,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ioan Andone",
+    "birthday": "1960-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ioan_Andone.jpg/264px-Ioan_Andone.jpg",
+      "width": 264,
+      "height": 320
+    },
+    "extract": "Ioan Andone, eigentlich Ioan Andonie, ist ein ehemaliger rumänischer Fußballspieler und derzeitiger -trainer. Andone nahm als Spieler an der Fußball-Europameisterschaft 1984 und der Fußball-Weltmeisterschaft 1990 teil.",
+    "year": 1960,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Renny Harlin",
+    "birthday": "1959-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Renny_Harlin_%28cropped%29.jpg/197px-Renny_Harlin_%28cropped%29.jpg",
+      "width": 197,
+      "height": 320
+    },
+    "extract": "Renny Harlin; gebürtig Renny Lauri Mauritz Harjola ist ein finnischer Filmregisseur und Filmproduzent.",
+    "year": 1959,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ben Okri",
+    "birthday": "1959-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ben_Okri_in_Tallinn.jpg/300px-Ben_Okri_in_Tallinn.jpg",
+      "width": 300,
+      "height": 320
+    },
+    "extract": "Ben Okri, OBE, ist ein nigerianischer Schriftsteller.",
+    "year": 1959,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wolfgang Schuster (Politiker, 1958)",
+    "birthday": "1958-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Schuster_Wolfgang_20110324_Biskirchen.JPG/320px-Schuster_Wolfgang_20110324_Biskirchen.JPG",
+      "width": 320,
+      "height": 312
+    },
+    "extract": "Wolfgang Schuster ist ein deutscher Politiker (SPD) und Landrat des Lahn-Dill-Kreises.",
+    "year": 1958,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Joaquim de Almeida",
+    "birthday": "1957-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Joaquim_de_Almeida.jpg/203px-Joaquim_de_Almeida.jpg",
+      "width": 203,
+      "height": 320
+    },
+    "extract": "Joaquim de Almeida, eigentlich Joaquim António Portugal Baptista de Almeida, ist ein portugiesisch-US-amerikanischer Schauspieler.",
+    "year": 1957,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Juan José Ibarretxe",
+    "birthday": "1957-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ibarretxe.jpg/214px-Ibarretxe.jpg",
+      "width": 214,
+      "height": 320
+    },
+    "extract": "Juan José Ibarretxe Markuartu ist ein spanischer Politiker.",
+    "year": 1957,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kurt Drawert",
+    "birthday": "1956-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Drawert_Kurt.jpg/320px-Drawert_Kurt.jpg",
+      "width": 320,
+      "height": 214
+    },
+    "extract": "Kurt Drawert ist ein deutscher Schriftsteller.",
+    "year": 1956,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Marcus Kuhl",
+    "birthday": "1956-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Marcus_Kuhl_Panini_1979.jpg/224px-Marcus_Kuhl_Panini_1979.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Marcus Kuhl ist ein ehemaliger Eishockey-Spieler der in seiner aktiven Zeit von 1973 bis 1993 für den Mannheimer ERC und den Kölner EC spielte und 156 Länderspiele für die Deutsche Eishockeynationalmannschaft bestritt. Später war er viele Jahre Manager des DEL-Clubs Adler Mannheim.",
+    "year": 1956,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Waltraud Wolff",
+    "birthday": "1956-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Waltraud_Wolff%2C_Magdeburg_2009.jpg",
+      "width": 111,
+      "height": 130
+    },
+    "extract": "Waltraud Katharina Wolff ist eine deutsche Politikerin (SPD) und von 1998 bis 2017 Mitglied des Deutschen Bundestages.",
+    "year": 1956,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Paramanga Ernest Yonli",
+    "birthday": "1956-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Paramanga_Ernest_Yonli_with_Bush.jpg/320px-Paramanga_Ernest_Yonli_with_Bush.jpg",
+      "width": 320,
+      "height": 302
+    },
+    "extract": "Paramanga Ernest Yonli war von November 2000 bis Juni 2007 Premierminister von Burkina Faso.",
+    "year": 1956,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Dee Snider",
+    "birthday": "1955-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Twisted_Sister_-_Wacken_Open_Air_2016_25.jpg/238px-Twisted_Sister_-_Wacken_Open_Air_2016_25.jpg",
+      "width": 238,
+      "height": 320
+    },
+    "extract": "Dee Snider ist ein US-amerikanischer Musiker und war Frontsänger der Heavy-Metal-Band Twisted Sister.",
+    "year": 1955,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Massimo Bubola",
+    "birthday": "1954-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Massimo_Bubola_al_Folkclub_di_Torino_%2811_ottobre_2008%292.jpg/238px-Massimo_Bubola_al_Folkclub_di_Torino_%2811_ottobre_2008%292.jpg",
+      "width": 238,
+      "height": 320
+    },
+    "extract": "Massimo Bubola ist ein italienischer Cantautore, Komponist und Plattenproduzent.",
+    "year": 1954,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Walter Döring",
+    "birthday": "1954-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dr._Walter_D%C3%B6ring_2019.jpg/210px-Dr._Walter_D%C3%B6ring_2019.jpg",
+      "width": 210,
+      "height": 320
+    },
+    "extract": "Walter Döring ist ein deutscher Politiker (FDP). Er war stellvertretender Bundesvorsitzender der FDP und von 1996 bis zum 14. Juli 2004 Wirtschaftsminister des Landes Baden-Württemberg.",
+    "year": 1954,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kumba Ialá",
+    "birthday": "1953-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Koumbayala.jpg/224px-Koumbayala.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Kumba Ialá, auch Kumba Yalá oder Koumba Yalá geschrieben, war ein guinea-bissauischer Politiker und von 2000 bis 2003 Präsident seines Heimatlandes.",
+    "year": 1953,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Willy Puchner",
+    "birthday": "1952-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Willy_Puchner.jpg/320px-Willy_Puchner.jpg",
+      "width": 320,
+      "height": 255
+    },
+    "extract": "Willy Puchner ist ein österreichischer Fotograf, Künstler, Zeichner und Autor.",
+    "year": 1952,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kurt Koch (Kardinal)",
+    "birthday": "1950-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg/213px-Kurt_Koch_par_Claude_Truong-Ngoc_d%C3%A9cembre_2016.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Kurt Kardinal Koch ist ein Schweizer Theologe, Kurienkardinal der römisch-katholischen Kirche und ehemaliger Bischof von Basel.",
+    "year": 1950,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Gholam Reza Aghazadeh",
+    "birthday": "1949-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gholamreza_Aghazadeh_2018-08-04.jpg/255px-Gholamreza_Aghazadeh_2018-08-04.jpg",
+      "width": 255,
+      "height": 320
+    },
+    "extract": "Gholam Reza Aghazadeh ist ein iranischer Politiker, Vizepräsident des Iran und war von 1997 bis zum 16. Juli 2009 Leiter der iranischen Atomenergieorganisation (AEOI). Zuvor war er von 1985 bis 1997 für das Erdöl-Ministerium zuständig.",
+    "year": 1949,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Bernd Nickel",
+    "birthday": "1949-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bernd_Nickel-Autogramm.jpg/320px-Bernd_Nickel-Autogramm.jpg",
+      "width": 320,
+      "height": 165
+    },
+    "extract": "Bernd Nickel war ein deutscher Fußballspieler, der für Eintracht Frankfurt von 1968 bis 1983 in der Bundesliga 426 Spiele absolvierte und dabei 141 Tore erzielte. Kein anderer Mittelfeldspieler erzielte mehr Tore in der Bundesliga. Der einmalige A-Nationalspieler gewann mit der Eintracht in den Jahren 1974, 1975 und 1981 den DFB-Pokal und 1980 den UEFA-Pokal. Er trug den bis heute gängigen Spitznamen „Dr. Hammer“, den ihm sein fulminanter Schuss einbrachte.",
+    "year": 1949,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "David Albahari",
+    "birthday": "1948-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/David_Albahari_auf_dem_Blauen_Sofa_2.jpg/213px-David_Albahari_auf_dem_Blauen_Sofa_2.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "David Albahari ist ein nach Kanada emigrierter serbischer Schriftsteller.",
+    "year": 1948,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sérgio Vieira de Mello",
+    "birthday": "1948-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/S%C3%A9rgio_Vieira_de_Mello.jpg/217px-S%C3%A9rgio_Vieira_de_Mello.jpg",
+      "width": 217,
+      "height": 320
+    },
+    "extract": "Sérgio Vieira de Mello war ein hochrangiger brasilianischer Mitarbeiter der Vereinten Nationen und arbeitete unter anderem als Untergeneralsekretär für humanitäre Angelegenheiten und von 2002 bis zu seinem Tod als Hoher Kommissar der UN für Menschenrechte. Er wurde zusammen mit 21 weiteren Personen bei dem Bombenanschlag auf das Hauptquartier der UN-Mission im Canal Hotel im irakischen Bagdad getötet.",
+    "year": 1948,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Gerhard Seyfried",
+    "birthday": "1948-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gerhard_Seyfried_2004.jpg/320px-Gerhard_Seyfried_2004.jpg",
+      "width": 320,
+      "height": 208
+    },
+    "extract": "Gerhard Seyfried ist ein deutscher Comiczeichner, Karikaturist und Schriftsteller. Seyfried machte sich international einen Namen als grafischer Chronist der links-alternativen Szene, die er auf humorvolle, liebenswürdige Weise und mit viel Wortwitz karikierte. Besonders beliebt wurden seine großformatigen Wimmelbilder als Plakate. Seit den 2000er Jahren veröffentlicht er akribisch recherchierte historische Romane, die meist in der Zeit vor dem Ersten Weltkrieg spielen.",
+    "year": 1948,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ry Cooder",
+    "birthday": "1947-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ry_Cooder_playing.jpg/216px-Ry_Cooder_playing.jpg",
+      "width": 216,
+      "height": 320
+    },
+    "extract": "Ryland Peter „Ry“ Cooder ist ein US-amerikanischer Gitarrist, Sänger, Komponist und Produzent. Seine weltweite Bekanntheit verdankt er unter anderem seinem außergewöhnlichen Spiel als Slide-Gitarrist.",
+    "year": 1947,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Federico Peña",
+    "birthday": "1947-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Federico_pena.jpg",
+      "width": 211,
+      "height": 280
+    },
+    "extract": "Federico Fabian Peña ist ein US-amerikanischer Politiker. Unter Präsident Bill Clinton war er von 1993 bis 1997 Verkehrsminister der Vereinigten Staaten.",
+    "year": 1947,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Franz Schuh (Autor)",
+    "birthday": "1947-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Franz_Schuh_O-T%C3%B6ne2008a.jpg/283px-Franz_Schuh_O-T%C3%B6ne2008a.jpg",
+      "width": 283,
+      "height": 320
+    },
+    "extract": "Franz Schuh ist ein österreichischer Schriftsteller und Essayist.",
+    "year": 1947,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Volker Kröning",
+    "birthday": "1945-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Abgeordnete_Beckmeyer_und_Kroening.jpg/320px-Abgeordnete_Beckmeyer_und_Kroening.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Volker Kröning ist ein deutscher Politiker (SPD). Er war von 1983 bis 1987 Innensenator, von 1987 bis 1991 Justizsenator und von 1991 bis 1994 Finanzsenator der Freien Hansestadt Bremen. Von 1994 bis 2009 war er Mitglied des Deutschen Bundestags.",
+    "year": 1945,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Chi Cheng (Leichtathletin)",
+    "birthday": "1944-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/2007NewYearHopeWalking_ChiCheng-1.jpg/240px-2007NewYearHopeWalking_ChiCheng-1.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Chi Cheng ist eine ehemalige taiwanische Leichtathletin, die 1968 eine olympische Bronzemedaille gewann.",
+    "year": 1944,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Josef Joffe",
+    "birthday": "1944-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Josef_Joffe.jpg/320px-Josef_Joffe.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Josef Joffe ist ein deutscher Publizist, Verleger, Dozent und Übersetzer. Er ist seit April 2000 Herausgeber der deutschen Wochenzeitung Die Zeit. \nDer Spiegel machte Anfang Mai 2022 publik, dass Joffe im Januar 2017 Max M. Warburg Jr., Miteigentümer der Privatbank M.M.Warburg & CO, brieflich vorab vor kritischer Berichterstattung der Zeit über Cum-Ex-Geschäfte der Bank warnte. \nIn der Folge lässt Joffe im Einvernehmen mit den Gebrüdern Holtzbrinck seine Herausgeber-Tätigkeit bis zum Vertragsende ruhen.",
+    "year": 1944,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Joachim Kühn",
+    "birthday": "1944-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Joachim_K%C3%BChn_%282016%29.jpg/320px-Joachim_K%C3%BChn_%282016%29.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Joachim Kühn ist ein deutscher Jazz-Pianist; „er prägt heute wie kein Zweiter die deutsche Jazzwelt.“",
+    "year": 1944,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "David Cronenberg",
+    "birthday": "1943-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/David_Cronenberg_Cannes_2014.jpg/226px-David_Cronenberg_Cannes_2014.jpg",
+      "width": 226,
+      "height": 320
+    },
+    "extract": "David Paul Cronenberg ist ein vielfach preisgekrönter kanadischer Filmregisseur. Während sein Frühwerk vor allem dem Body Horror, Experimental-, Horror- und Science-Fiction-Film zuzuordnen ist, liegt das Augenmerk in seinen späteren Arbeiten vornehmlich auf dem Filmdrama und der Literaturverfilmung. Zu seinen bekanntesten Werken zählen Die Fliege, Naked Lunch und in jüngeren Jahren A History of Violence.",
+    "year": 1943,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Brenda Scott",
+    "birthday": "1943-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Brenda_Scott_1969.JPG/245px-Brenda_Scott_1969.JPG",
+      "width": 245,
+      "height": 320
+    },
+    "extract": "Brenda Scott ist eine US-amerikanische Schauspielerin.",
+    "year": 1943,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sly Stone",
+    "birthday": "1943-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Sylvester_Stone.jpg/214px-Sylvester_Stone.jpg",
+      "width": 214,
+      "height": 320
+    },
+    "extract": "Sylvester Stewart, genannt Sly Stone, ist ein US-amerikanischer Sänger, Songwriter und Musikproduzent aus den Genres Funk, Soul, Rock und Psychedelic Rock. Im Jahr 1967 gründete er die Band Sly & the Family Stone.",
+    "year": 1943,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Frank Wiegand",
+    "birthday": "1943-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Bundesarchiv_Bild_183-G0813-0028-001%2C_Frank_Wiegand.jpg/320px-Bundesarchiv_Bild_183-G0813-0028-001%2C_Frank_Wiegand.jpg",
+      "width": 320,
+      "height": 231
+    },
+    "extract": "Frank Wiegand ist ein ehemaliger DDR-Schwimmsportler des SC Einheit Dresden, der von 1960 bis 1968 zu den weltbesten Freistilschwimmern gehörte. Bei den Olympischen Spielen 1964 und 1968 gewann er vier Silbermedaillen.",
+    "year": 1943,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Klaus Buß",
+    "birthday": "1942-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Klaus_Buss_2019.jpg/269px-Klaus_Buss_2019.jpg",
+      "width": 269,
+      "height": 320
+    },
+    "extract": "Klaus Buß ist ein deutscher Politiker (SPD).",
+    "year": 1942,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jacques Henry",
+    "birthday": "1942-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2016-07_-_Roye_%28Haute-Sa%C3%B4ne%29.jpg/320px-2016-07_-_Roye_%28Haute-Sa%C3%B4ne%29.jpg",
+      "width": 320,
+      "height": 273
+    },
+    "extract": "Jacques Henry war ein französischer Rallye- und Rundstreckenrennfahrer.",
+    "year": 1942,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Emöke Pöstenyi",
+    "birthday": "1942-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Em%C3%B6keP%C3%B6stenyiOkt2008.jpg/186px-Em%C3%B6keP%C3%B6stenyiOkt2008.jpg",
+      "width": 186,
+      "height": 320
+    },
+    "extract": "Emöke Pöstenyi ist eine ungarische Tänzerin und Choreografin. Als Solotänzerin des Fernsehballetts war sie in Unterhaltungsshows des DDR-Fernsehens präsent, außerdem trat sie bei Tourneen und Galas auf.",
+    "year": 1942,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jean-Louis Lafosse",
+    "birthday": "1941-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/GTC_Mirage_10.jpg/320px-GTC_Mirage_10.jpg",
+      "width": 320,
+      "height": 184
+    },
+    "extract": "Jean-Louis Lafosse war ein französischer Autorennfahrer.",
+    "year": 1941,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Mike Love",
+    "birthday": "1941-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mike_Love.jpg/320px-Mike_Love.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Mike Love ist ein US-amerikanischer Musiker. Er ist Gründungsmitglied, ältestes Mitglied und Leadsänger der US-Band The Beach Boys.",
+    "year": 1941,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Phil Lesh",
+    "birthday": "1940-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Phil_Lesh_at_Yuri%27s_NIGHT_OUT_2008.jpg/240px-Phil_Lesh_at_Yuri%27s_NIGHT_OUT_2008.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Phillip Chapman Lesh ist ein US-amerikanischer Musiker, der vor allem als Bassist von Grateful Dead bekannt wurde.",
+    "year": 1940,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Charles Lloyd",
+    "birthday": "1938-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Charles_Lloyd.jpg/240px-Charles_Lloyd.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Charles Lloyd ist ein US-amerikanischer Tenorsaxophonist und Flötist des Modern Jazz. Schon Mitte der 1960er Jahre brachte er die Errungenschaften des modalen Jazz mit einer an der Rockmusik orientierten Rhythmik zusammen und eroberte mit seiner Mischung aus Jazz, Rock, Blues und Folk Music als erster Jazzmusiker in Amerika und Europa das junge Rock-Publikum.",
+    "year": 1938,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jürgen Schweinebraden",
+    "birthday": "1938-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Schweinebraden.jpg/320px-Schweinebraden.jpg",
+      "width": 320,
+      "height": 269
+    },
+    "extract": "Jürgen Walther Herrmann Schweinebraden Freiherr von Wichmann-Eichhorn ist ein Galerist und Publizist.",
+    "year": 1938,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Niele Toroni",
+    "birthday": "1937-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Niele_Toroni_%281995%29.png/320px-Niele_Toroni_%281995%29.png",
+      "width": 320,
+      "height": 237
+    },
+    "extract": "Niele Toroni ist ein Schweizer Konzeptkünstler des Minimalismus und der analytischen Malerei.",
+    "year": 1937,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Francisco Ibáñez",
+    "birthday": "1936-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Francisco_Ib%C3%A1%C3%B1ez.jpg/212px-Francisco_Ib%C3%A1%C3%B1ez.jpg",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Francisco Ibáñez Talavera ist der Zeichner der Comics Clever & Smart, Tom Tiger & Co sowie vieler anderer Werke.",
+    "year": 1936,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "David Andrews (Politiker)",
+    "birthday": "1935-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/David_Andrews_%28politician%29.jpg/252px-David_Andrews_%28politician%29.jpg",
+      "width": 252,
+      "height": 320
+    },
+    "extract": "David Andrews ist ein irischer Politiker der Fianna Fáil, der von 1965 bis 2002 Mitglied des Unterhauses und mehrmals Minister war.",
+    "year": 1935,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Doris Abeßer",
+    "birthday": "1935-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bundesarchiv_Bild_183-91841-0003%2C_Doris_Abesser_%28cropped%29.jpg/280px-Bundesarchiv_Bild_183-91841-0003%2C_Doris_Abesser_%28cropped%29.jpg",
+      "width": 280,
+      "height": 320
+    },
+    "extract": "Doris Abeßer war eine deutsche Schauspielerin, Hörspiel- und Synchronsprecherin, die seit 1952 in Filmen – anfangs bei der DEFA – und im Fernsehen zu sehen war, z. B. in den Fernsehserien Polizeiruf 110, Geschichten übern Gartenzaun, SOKO Leipzig und Tatort.",
+    "year": 1935,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Philippe de Broca",
+    "birthday": "1933-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cartouche_1962_Z%C3%BCrich_%2811%29_%28cropped%29.jpg/180px-Cartouche_1962_Z%C3%BCrich_%2811%29_%28cropped%29.jpg",
+      "width": 180,
+      "height": 320
+    },
+    "extract": "Philippe de Broca  war ein französischer Filmregisseur.",
+    "year": 1933,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ruth Bader Ginsburg",
+    "birthday": "1933-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ruth_Bader_Ginsburg_2016_portrait.jpg/256px-Ruth_Bader_Ginsburg_2016_portrait.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Joan Ruth Bader Ginsburg war eine US-amerikanische Juristin und seit 1993 Beisitzende Richterin (Associate Justice) am Supreme Court der Vereinigten Staaten. Dort wurde sie dem „linken“ (liberalen) Flügel zugerechnet.",
+    "year": 1933,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Hossein Mollaghasemi",
+    "birthday": "1933-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Hossein_Ebrahimian.jpg/245px-Hossein_Ebrahimian.jpg",
+      "width": 245,
+      "height": 320
+    },
+    "extract": "Seyed Hossein Ebrahimian Mollaghasemi war ein iranischer Ringer.",
+    "year": 1933,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Alan Bean",
+    "birthday": "1932-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Alan_Bean_NASA_portrait_%28S69-38859%29.jpg/256px-Alan_Bean_NASA_portrait_%28S69-38859%29.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Alan LaVern Bean war ein US-amerikanischer Astronaut. Er war der vierte Mensch auf dem Mond.",
+    "year": 1932,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jerzy Hoffman",
+    "birthday": "1932-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jerzy_Hoffman_2010.jpg/256px-Jerzy_Hoffman_2010.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Jerzy Julian Hoffman ist ein polnischer Filmregisseur.",
+    "year": 1932,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "D. J. Fontana",
+    "birthday": "1931-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/DJ_Fontana_performing_%28cropped%29.jpg/232px-DJ_Fontana_performing_%28cropped%29.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Dominic Joseph Fontana war ein US-amerikanischer Musiker, der als Schlagzeuger von Elvis Presley bekannt wurde. Fontanas Leistungen wurden durch die Rockabilly Hall of Fame gewürdigt.",
+    "year": 1931,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Schores Iwanowitsch Alfjorow",
+    "birthday": "1930-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Zhores_Alfyorov_2012.jpg/267px-Zhores_Alfyorov_2012.jpg",
+      "width": 267,
+      "height": 320
+    },
+    "extract": "Schores Iwanowitsch Alfjorow war ein sowjetischer bzw. russischer Physiker. Er war Direktor des Joffe-Instituts in Sankt Petersburg und wurde 2000 mit dem Nobelpreis für Physik ausgezeichnet.",
+    "year": 1930,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Rüdiger Klessmann",
+    "birthday": "1927-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/R%C3%BCdiger_Klessmann_2015.jpg/213px-R%C3%BCdiger_Klessmann_2015.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Rüdiger Wilhelm Ernst Klessmann war ein deutscher Kunsthistoriker und von 1970 bis 1990 Direktor des Herzog Anton Ulrich-Museums in Braunschweig.",
+    "year": 1927,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Aaron Rosand",
+    "birthday": "1927-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aaron_Rosand%2C_Scarsdale%2C_NY%2C_2016.jpg/320px-Aaron_Rosand%2C_Scarsdale%2C_NY%2C_2016.jpg",
+      "width": 320,
+      "height": 213
+    },
+    "extract": "Aaron Rosand war ein US-amerikanischer Geiger und Musikpädagoge.",
+    "year": 1927,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Henry Adefope",
+    "birthday": "1926-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Henry_Adefope.jpg/195px-Henry_Adefope.jpg",
+      "width": 195,
+      "height": 320
+    },
+    "extract": "Henry Edmund Olufemi Adefope war ein nigerianischer Politiker und IOC-Mitglied.",
+    "year": 1926,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wilhelm Noll (Rennfahrer)",
+    "birthday": "1926-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Zijspannen._Wilhelm_Noll_Fritz_Crohn_%28Duitsland%2C_2e%29%2C_Bestanddeelnr_907-2364_%28Ausschnitt%29.jpg/320px-Zijspannen._Wilhelm_Noll_Fritz_Crohn_%28Duitsland%2C_2e%29%2C_Bestanddeelnr_907-2364_%28Ausschnitt%29.jpg",
+      "width": 320,
+      "height": 242
+    },
+    "extract": "Wilhelm Noll war ein deutscher Motorradrennfahrer.",
+    "year": 1926,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Aldo Andreotti",
+    "birthday": "1924-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Aldo_Andreotti_%281970%29.jpg",
+      "width": 142,
+      "height": 200
+    },
+    "extract": "Aldo Andreotti war ein italienischer Mathematiker, der sich mit algebraischer Geometrie, komplexer Analysis und partiellen Differentialgleichungen beschäftigte.",
+    "year": 1924,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Karl-Otto Apel",
+    "birthday": "1922-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Koapel.jpg",
+      "width": 296,
+      "height": 292
+    },
+    "extract": "Karl-Otto Apel war ein deutscher Philosoph. Er war ein Vertreter der Diskursethik sowie einer sprachpragmatischen, intersubjektiven Transzendentalphilosophie oder Transzendentalpragmatik. Apel strebte eine „Transformation der Philosophie“ an.\nDer Ausgang vom Subjekt müsse zugunsten einer intersubjektiven Perspektive überwunden werden, ohne dass die von Immanuel Kant gewonnenen Einsichten in die unhintergehbaren Konstitutionsbedingungen der Objektivität verloren gehen.",
+    "year": 1922,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Horst Wendlandt",
+    "birthday": "1922-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Horst_Wendlandt_%E2%80%A0_%26_Otto_Waalkes.jpg/320px-Horst_Wendlandt_%E2%80%A0_%26_Otto_Waalkes.jpg",
+      "width": 320,
+      "height": 212
+    },
+    "extract": "Horst Wendlandt war ein deutscher Filmproduzent.",
+    "year": 1922,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Nikolaus Joachim Lehmann",
+    "birthday": "1921-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/N_J_Lehmann.jpg/245px-N_J_Lehmann.jpg",
+      "width": 245,
+      "height": 320
+    },
+    "extract": "Nikolaus Joachim Lehmann, meist nur kurz N. J. Lehmann genannt, war einer der bedeutendsten Informatiker der DDR. Außerdem ist er für Leistungen in der Numerischen Mathematik bekannt.",
+    "year": 1921,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Edward Donnall Thomas",
+    "birthday": "1920-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Edward_Donnall_%22Don%22_Thomas.jpg/311px-Edward_Donnall_%22Don%22_Thomas.jpg",
+      "width": 311,
+      "height": 320
+    },
+    "extract": "Edward Donnall „Don“ Thomas war ein US-amerikanischer Mediziner und einer der bedeutendsten amerikanischen Transplantationsmediziner und Hämatologen. Der Nobelpreisträger für Medizin des Jahres 1990 war emeritierter Professor der University of Washington.",
+    "year": 1920,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "George Avakian",
+    "birthday": "1919-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/George_Avakian_%28Gottlieb_00371%29.jpg/243px-George_Avakian_%28Gottlieb_00371%29.jpg",
+      "width": 243,
+      "height": 320
+    },
+    "extract": "George Mesrop Avakian, ausgesprochen Awokean, war ein US-amerikanischer Musikproduzent des Jazz und der populären Musik. Er war armenischer Herkunft. Er war vor allem für seine Arbeit für Columbia Records bekannt, wo er viele Alben von Miles Davis produzierte.",
+    "year": 1919,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Harry James",
+    "birthday": "1916-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Harry_James_%28Gottlieb_04521%29.jpg/244px-Harry_James_%28Gottlieb_04521%29.jpg",
+      "width": 244,
+      "height": 320
+    },
+    "extract": "Harry Haag James war ein amerikanischer Jazztrompeter und Bandleader der Swing-Ära. Er gilt als Entdecker von Frank Sinatra.",
+    "year": 1916,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Khadr El-Touni",
+    "birthday": "1915-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Khedr_el-Touni_-_Berlin_Olympics_1936.jpg",
+      "width": 250,
+      "height": 146
+    },
+    "extract": "Khadr Sayed El-Touni war ein ägyptischer Gewichtheber.",
+    "year": 1915,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Walter Peitgen",
+    "birthday": "1915-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/W.peitgen2.jpg",
+      "width": 210,
+      "height": 221
+    },
+    "extract": "Walter Peitgen war ein deutscher Lokalpolitiker.",
+    "year": 1915,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Gil Elvgren",
+    "birthday": "1914-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Gil_Elvgren_-_The_Verdict_Was%2C_Wow%21_-_1947.jpg/256px-Gil_Elvgren_-_The_Verdict_Was%2C_Wow%21_-_1947.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Gillette (Gil) Elvgren war ein US-amerikanischer Pin-Up-Maler und Werbezeichner.",
+    "year": 1914,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jack Fairman",
+    "birthday": "1913-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kristianstad_GP15_-_Jaguar_D-type.jpg/320px-Kristianstad_GP15_-_Jaguar_D-type.jpg",
+      "width": 320,
+      "height": 229
+    },
+    "extract": "John Eric George „Jack“ Fairman war ein britischer Rennfahrer.",
+    "year": 1913,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Louis Paul Boon",
+    "birthday": "1912-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Burgemeester_Kolfschoten%2C_Louis_Paul_Boon%2C_Hanny_Michaelis_en_Jacques_Presser_%281967%29.jpg/320px-Burgemeester_Kolfschoten%2C_Louis_Paul_Boon%2C_Hanny_Michaelis_en_Jacques_Presser_%281967%29.jpg",
+      "width": 320,
+      "height": 240
+    },
+    "extract": "Louis Paul Boon war ein flämischer Schriftsteller und Journalist. Er gilt in den Niederlanden als einer der wichtigsten niederländischsprachigen Autoren.",
+    "year": 1912,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Lightnin’ Hopkins",
+    "birthday": "1912-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lightnin%27_Hopkins.jpg/213px-Lightnin%27_Hopkins.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Sam Hopkins, bekannt unter dem Künstlernamen Lightnin’ Hopkins war ein US-amerikanischer Blues-Sänger und -Gitarrist. Er gilt als einflussreicher Vertreter des Texas Blues.",
+    "year": 1912,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "An Rutgers",
+    "birthday": "1910-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/An_Rutgers_van_der_Loeff_%281982%29.jpg/240px-An_Rutgers_van_der_Loeff_%281982%29.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "An Rutgers van der Loeff-Basenau war eine niederländische Schriftstellerin.",
+    "year": 1910,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Thure von Uexküll",
+    "birthday": "1908-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Uex_jakob-thure.jpg/198px-Uex_jakob-thure.jpg",
+      "width": 198,
+      "height": 320
+    },
+    "extract": "Karl Kuno Thure von Uexküll war ein deutscher Mediziner und Begründer der psychosomatischen Medizin sowie Mitbegründer der Biosemiotik.",
+    "year": 1908,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Zarah Leander",
+    "birthday": "1907-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Zarah_Leander.jpg/263px-Zarah_Leander.jpg",
+      "width": 263,
+      "height": 320
+    },
+    "extract": "Zarah Leander ​/⁠ˌt͡sɑːra leˈandəɹ⁠/​ oder ​/⁠ˌsɑːra leˈandəɹ⁠/​, verheiratete Sara Stina Hülphers, war eine schwedische Schauspielerin und Sängerin. Sie wirkte als Filmschauspielerin überwiegend im nationalsozialistischen Deutschland. Nach dem Zweiten Weltkrieg arbeitete sie verstärkt als Bühnensängerin und gab Konzerte in Schweden, Deutschland und Österreich.",
+    "year": 1907,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Alexander Schenk Graf von Stauffenberg",
+    "birthday": "1905-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bundesarchiv_Bild_183-53829-0001%2C_Alexander_Schenk_v._Stauffenberg.jpg/235px-Bundesarchiv_Bild_183-53829-0001%2C_Alexander_Schenk_v._Stauffenberg.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Alexander Schenk Graf von Stauffenberg war ein deutscher Althistoriker. Als junger Mann war er Mitglied des Kreises um den Dichter Stefan George.",
+    "year": 1905,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Berthold Schenk Graf von Stauffenberg",
+    "birthday": "1905-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bundesarchiv_Bild_146-2008-0184%2C_Berlin%2C_Berthold_Schenk_Graf_v._Stauffenberg.jpg/185px-Bundesarchiv_Bild_146-2008-0184%2C_Berlin%2C_Berthold_Schenk_Graf_v._Stauffenberg.jpg",
+      "width": 185,
+      "height": 320
+    },
+    "extract": "Berthold Schenk Graf von Stauffenberg war ein deutscher Jurist und Widerstandskämpfer gegen das NS-Regime.",
+    "year": 1905,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Brunolf Baade",
+    "birthday": "1904-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Bundesarchiv_Bild_183-57000-0495%2C_Berlin%2C_V._SED-Parteitag%2C_Delegation_Wissenschaftler.jpg/320px-Bundesarchiv_Bild_183-57000-0495%2C_Berlin%2C_V._SED-Parteitag%2C_Delegation_Wissenschaftler.jpg",
+      "width": 320,
+      "height": 225
+    },
+    "extract": "Karl Wilhelm Brunolf Baade war ein deutscher Ingenieur und Hochschullehrer. Er gilt als Vater der DDR-Luftfahrtindustrie und war der Generalkonstrukteur des ersten deutschen Strahlverkehrsflugzeuges „152“.",
+    "year": 1904,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "George Brent",
+    "birthday": "1904-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/George_Brent_1-M-2004.jpg/239px-George_Brent_1-M-2004.jpg",
+      "width": 239,
+      "height": 320
+    },
+    "extract": "George Brent war ein aus Irland stammender US-amerikanischer Filmschauspieler.",
+    "year": 1904,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Emmy Damerius-Koenen",
+    "birthday": "1903-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Fotothek_df_pk_0000280_002.jpg/206px-Fotothek_df_pk_0000280_002.jpg",
+      "width": 206,
+      "height": 320
+    },
+    "extract": "Emmy Damerius-Koenen war eine deutsche Politikerin und 1948/49 Vorsitzende des Demokratischen Frauenbund Deutschlands.",
+    "year": 1903,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Erich Fiedler",
+    "birthday": "1901-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kabarett_der_Komiker%3B_Erich_Fiedler_013591b.jpg/311px-Kabarett_der_Komiker%3B_Erich_Fiedler_013591b.jpg",
+      "width": 311,
+      "height": 320
+    },
+    "extract": "Erich Fiedler war ein deutscher Schauspieler und Synchronsprecher.",
+    "year": 1901,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Gilberto Freyre",
+    "birthday": "1900-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Gilberto_Freyre.JPG",
+      "width": 169,
+      "height": 252
+    },
+    "extract": "Gilberto de Mello Freyre war ein brasilianischer Soziologe und Anthropologe. Sein berühmtestes Werk ist Herrenhaus und Sklavenhütte.",
+    "year": 1900,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Colin McPhee",
+    "birthday": "1900-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Colin_McPhee.jpg/224px-Colin_McPhee.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Colin McPhee war ein kanadischer Komponist.",
+    "year": 1900,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ernst Neufert",
+    "birthday": "1900-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Abbeanum_Jena.jpg/320px-Abbeanum_Jena.jpg",
+      "width": 320,
+      "height": 230
+    },
+    "extract": "Ernst Neufert war ein deutscher Architekt, der neben seiner Lehrtätigkeit und Mitgliedschaft in verschiedenen Normungsgremien vor allem mit seinem Buch über Bauentwurfslehre bekanntgeworden ist.",
+    "year": 1900,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Fritz Walter (Fußballfunktionär)",
+    "birthday": "1900-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Fritz_Walter_%28football_executive%29.jpg/208px-Fritz_Walter_%28football_executive%29.jpg",
+      "width": 208,
+      "height": 320
+    },
+    "extract": "Fritz Walter, Epitheton: Der Doktor, war Studienrat und von 1944 bis 1968 Präsident des Sportvereins VfB Stuttgart.",
+    "year": 1900,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ernst Simon (Philosoph)",
+    "birthday": "1899-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ernst_Simon.jpg/234px-Ernst_Simon.jpg",
+      "width": 234,
+      "height": 320
+    },
+    "extract": "Ernst Akiba Simon war ein israelischer Religionsphilosoph, Pädagoge und Historiker deutscher Herkunft.",
+    "year": 1899,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jackson Scholz",
+    "birthday": "1897-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Jackson_Scholz_1928b.jpg/172px-Jackson_Scholz_1928b.jpg",
+      "width": 172,
+      "height": 320
+    },
+    "extract": "Jackson Volney Scholz war ein US-amerikanischer Leichtathlet und Olympiasieger.",
+    "year": 1897,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Vilmos Aba-Novák",
+    "birthday": "1894-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Aba-Nov%C3%A1k_Self-portrait_1920.jpg/223px-Aba-Nov%C3%A1k_Self-portrait_1920.jpg",
+      "width": 223,
+      "height": 320
+    },
+    "extract": "Vilmos Aba-Novák war ein ungarischer Maler und Grafiker. Er gilt als eines der originellsten und umstrittensten Talente in der modernen ungarischen Malerei.",
+    "year": 1894,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Charles Nungesser",
+    "birthday": "1892-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Charles_Nungesser_et_sa_fianc%C3%A9e_-_Morane%2C_1923.jpg/236px-Charles_Nungesser_et_sa_fianc%C3%A9e_-_Morane%2C_1923.jpg",
+      "width": 236,
+      "height": 320
+    },
+    "extract": "Charles Nungesser war ein französischer Jagdflieger des Ersten Weltkriegs.",
+    "year": 1892,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Heinrich Ochsner",
+    "birthday": "1891-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Geburtshaus_Heinrich_Ochsner_in_Kenzingen.jpg/163px-Geburtshaus_Heinrich_Ochsner_in_Kenzingen.jpg",
+      "width": 163,
+      "height": 320
+    },
+    "extract": "Heinrich Ochsner war Philosoph und Verlagslektor.",
+    "year": 1891,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Gertrud Kurz",
+    "birthday": "1890-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gertrud_Kurz_%281965%29.jpg/240px-Gertrud_Kurz_%281965%29.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Gertrud Kurz, genannt die Flüchtlingsmutter oder Mutter Kurz gründete und leitete ein Schweizer Flüchtlingshilfswerk.",
+    "year": 1890,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Hattie Carnegie",
+    "birthday": "1889-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hattie_Carnegie_1955.JPG/258px-Hattie_Carnegie_1955.JPG",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Hattie Carnegie war eine österreichisch-amerikanische Schmuck- und Modedesignerin in den 1920er, 1930er, 1940er und 1950er Jahren.",
+    "year": 1889,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wladimir Andrejewitsch Faworski",
+    "birthday": "1886-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Favorsky1920e01.jpg/213px-Favorsky1920e01.jpg",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Wladimir Andrejewitsch Faworski war ein russischer Künstler und von 1923–26 Rektor der WChUTEMAS.",
+    "year": 1886,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Sydney Chaplin (Schauspieler, 1885)",
+    "birthday": "1885-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sydney_chaplin.jpg/207px-Sydney_chaplin.jpg",
+      "width": 207,
+      "height": 320
+    },
+    "extract": "Sydney John Chaplin war ein britischer Schauspieler und Komiker. Er ist heute hauptsächlich als älterer Bruder von Charlie Chaplin bekannt, war aber zu seiner Zeit ebenfalls ein beliebter Komiker.",
+    "year": 1885,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "James Lightbody",
+    "birthday": "1882-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Jim_Lightbody.jpg",
+      "width": 156,
+      "height": 187
+    },
+    "extract": "James Lightbody war ein US-amerikanischer Leichtathlet und dreifacher Olympiasieger bei drei Olympiateilnahmen.",
+    "year": 1882,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "José da Costa Nunes",
+    "birthday": "1880-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jos%C3%A9_da_Costa_Nunes_1946.jpg/266px-Jos%C3%A9_da_Costa_Nunes_1946.jpg",
+      "width": 266,
+      "height": 320
+    },
+    "extract": "José Kardinal da Costa Nunes war Patriarch von Ostindien und später Kurienkardinal der Römischen Kirche.",
+    "year": 1880,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Marie Juchacz",
+    "birthday": "1879-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b8/JuchaczMarie.jpg/253px-JuchaczMarie.jpg",
+      "width": 253,
+      "height": 320
+    },
+    "extract": "Marie Juchacz war eine deutsche Sozialreformerin, Sozialdemokratin und Frauenrechtlerin. Unter ihrer Leitung wurde am 13. Dezember 1919 die Arbeiterwohlfahrt gegründet. Nach der Einführung des passiven Wahlrechts für Frauen hielt sie am 19. Februar 1919 in der Weimarer Nationalversammlung als erste Frau eine Rede.",
+    "year": 1879,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Reza Schah Pahlavi",
+    "birthday": "1878-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Reza_Shah_Pahlavi_Official_Portrait_-_Colorized_2.jpg/228px-Reza_Shah_Pahlavi_Official_Portrait_-_Colorized_2.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Reza Schah Pahlavi, bis 5. Dezember 1925 Reza Chan, auch Reza Khan, war von 1925 bis 1941 Schah von Persien. Er begann seine militärische Laufbahn als einfacher Soldat in der persischen Kosakenbrigade und stieg bis zu deren Oberkommandierenden auf. Seine politische Laufbahn begann er als Verteidigungsminister im Kabinett von Seyyed Zia al Din Tabatabai. Später wurde er unter Ahmad Schah Premierminister und nach dessen Absetzung durch das Parlament Schah von Persien.",
+    "year": 1878,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Malcolm Whitman",
+    "birthday": "1877-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Malcolm_whitman.jpg/189px-Malcolm_whitman.jpg",
+      "width": 189,
+      "height": 320
+    },
+    "extract": "Malcolm Douglass „Mal“ Whitman war ein US-amerikanischer Tennisspieler und dreifacher Sieger der US-Meisterschaften von 1898 bis 1900.",
+    "year": 1877,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Kambara Ariake",
+    "birthday": "1876-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Kambara_Ariake.jpg/205px-Kambara_Ariake.jpg",
+      "width": 205,
+      "height": 320
+    },
+    "extract": "Kambara Ariake war ein japanischer Lyriker.",
+    "year": 1876,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Tiburcio Carías Andino",
+    "birthday": "1876-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TiburcioCarias.JPG/232px-TiburcioCarias.JPG",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Tiburcio Carías Andino war 1924 sowie von Februar 1933 bis Januar 1949 Präsident von Honduras.",
+    "year": 1876,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Henri Ghéon",
+    "birthday": "1875-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Henri_Gh%C3%A9on_by_Jean_Veber.jpg/190px-Henri_Gh%C3%A9on_by_Jean_Veber.jpg",
+      "width": 190,
+      "height": 320
+    },
+    "extract": "Henri Ghéon war ein französischer Schriftsteller.",
+    "year": 1875,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Constantin Argetoianu",
+    "birthday": "1871-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mr_Argetoiano%2C_ministre_des_Finances_de_Roumanie_1932%2C_Agence_Mondial.jpg/240px-Mr_Argetoiano%2C_ministre_des_Finances_de_Roumanie_1932%2C_Agence_Mondial.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Constantin Argetoianu war ein rumänischer Diplomat und Politiker, der 1939 Ministerpräsident Rumäniens war.",
+    "year": 1871,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "John H. Bieling",
+    "birthday": "1869-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/John_Bieling.jpg/250px-John_Bieling.jpg",
+      "width": 250,
+      "height": 320
+    },
+    "extract": "John H. Bieling war ein US-amerikanischer Sänger (Tenor), der wegen seiner klaren und feinen Intonation als The Canary bekannt war.",
+    "year": 1869,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Stanisław Wojciechowski",
+    "birthday": "1869-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Stanislaw_Wojciechowski_portrait.jpg/209px-Stanislaw_Wojciechowski_portrait.jpg",
+      "width": 209,
+      "height": 320
+    },
+    "extract": "Stanisław Wojciechowski war Präsident der Republik Polen zwischen 1922 und 1926. Er gehörte zu den Gründern der Polnischen Sozialistischen Partei, gilt als Vater des Genossenschaftswesens in Polen und wurde im Zuge der Machtübernahme durch Marschall Józef Piłsudski während des sogenannten „Maiputsches“ gestürzt. Danach stand er in Opposition zum autoritären Regime.",
+    "year": 1869,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Lida Gustava Heymann",
+    "birthday": "1868-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bundesarchiv_Bild_146-1987-143-05%2C_Lida_Gustava_Heymann.jpg/223px-Bundesarchiv_Bild_146-1987-143-05%2C_Lida_Gustava_Heymann.jpg",
+      "width": 223,
+      "height": 320
+    },
+    "extract": "Lida Gustava Heymann war eine deutsche Frauenrechtlerin. Mit ihrer Arbeits- und Lebensgefährtin Anita Augspurg war sie eine der prominentesten Vertreterinnen der radikal-bürgerlichen Frauenbewegung.",
+    "year": 1868,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Johan Halvorsen",
+    "birthday": "1864-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Johan_Halvorsen.jpg/201px-Johan_Halvorsen.jpg",
+      "width": 201,
+      "height": 320
+    },
+    "extract": "Johan Halvorsen war ein norwegischer Violinist, Komponist und Dirigent.",
+    "year": 1864,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Ishbel Maria Hamilton-Gordon",
+    "birthday": "1857-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Countess_of_Aberdeen_in_Queen%27s_U_robes_Topley.jpg/258px-Countess_of_Aberdeen_in_Queen%27s_U_robes_Topley.jpg",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Ishbel Maria Hamilton-Gordon, Marchioness of Aberdeen and Temair, GBE, geb. Majoribanks, war eine schottische Sozialreformerin und Frauenrechtlerin.",
+    "year": 1857,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Emil von Behring",
+    "birthday": "1854-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/E_A_Behring.jpg/240px-E_A_Behring.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Emil Adolf Behring, ab 1901 von Behring war ein deutscher Mediziner, Immunologe, Serologe und Unternehmer. Er war Begründer der passiven antitoxischen Schutzimpfung („Blutserumtherapie“) und erhielt 1901 den ersten Nobelpreis für Physiologie oder Medizin.",
+    "year": 1854,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Franz Schauerte",
+    "birthday": "1848-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Franz_Schauerte.jpg",
+      "width": 182,
+      "height": 252
+    },
+    "extract": "Franz Schauerte war ein deutscher römisch-katholischer Priester und Autor. Er wirkte als Propst in Magdeburg.",
+    "year": 1848,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Friedrich Krafft von Crailsheim",
+    "birthday": "1841-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Freiherr_Friedrich_Krafft_von_Crailsheim.jpg/248px-Freiherr_Friedrich_Krafft_von_Crailsheim.jpg",
+      "width": 248,
+      "height": 320
+    },
+    "extract": "Friedrich August Ernst Gustav Christoph Krafft Freiherr von Crailsheim, ab 1901 Graf von Crailsheim, war ein bayerischer Jurist und evangelischer parteiloser Politiker. Unter anderen war er Außenminister und Vorsitzender des Ministerrates.",
+    "year": 1841,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Karl Juljewitsch Dawidow",
+    "birthday": "1838-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Davidov-Karl.jpg",
+      "width": 168,
+      "height": 233
+    },
+    "extract": "Karl Juljewitsch Dawidow war ein russischer Komponist, Dirigent, Cellist und Musikpädagoge.",
+    "year": 1838,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Alice Fletcher",
+    "birthday": "1838-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Alice_Fletcher.jpg/229px-Alice_Fletcher.jpg",
+      "width": 229,
+      "height": 320
+    },
+    "extract": "Alice Cunningham Fletcher war eine US-amerikanische Ethnologin, die sich mit der Kultur der nordamerikanischen Indianer befasste.",
+    "year": 1838,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Eduard Strauß",
+    "birthday": "1835-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/EduardStraussFoto.jpg/212px-EduardStraussFoto.jpg",
+      "width": 212,
+      "height": 320
+    },
+    "extract": "Eduard Strauß war ein österreichischer Komponist und Kapellmeister.",
+    "year": 1835,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Harald Asplund",
+    "birthday": "1831-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Harald_Asplund.jpg/235px-Harald_Asplund.jpg",
+      "width": 235,
+      "height": 320
+    },
+    "extract": "Harald Asplund war ein schwedischer Ingenieur.",
+    "year": 1831,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Daniele Comboni",
+    "birthday": "1831-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Daniele_Comboni.jpg/209px-Daniele_Comboni.jpg",
+      "width": 209,
+      "height": 320
+    },
+    "extract": "Daniele Comboni war ein katholischer Bischof, Missionar und Ordensgründer. Er wurde 1996 seliggesprochen, die Heiligsprechung erfolgte im Oktober 2003.",
+    "year": 1831,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Victor Chéri",
+    "birthday": "1830-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Victor_Ch%C3%A9ri.jpg/224px-Victor_Ch%C3%A9ri.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Victor Chéri war ein französischer Komponist und Dirigent.",
+    "year": 1830,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Paul Heyse",
+    "birthday": "1830-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Paul_Heyse_-_Schriftsteller.jpg/210px-Paul_Heyse_-_Schriftsteller.jpg",
+      "width": 210,
+      "height": 320
+    },
+    "extract": "Paul Johann Ludwig Heyse, ab 1910 von Heyse war ein deutscher Schriftsteller, Dramatiker und Übersetzer. Neben vielen Gedichten schuf Heyse rund 180 Novellen, acht Romane und 68 Dramen. Heyses Biograf Erich Petzet rühmte die „Umfassenheit seiner Produktion“. Die Ausgabe der Werke, die Petzet 1924 besorgte, umfasst drei Reihen von je fünf Bänden, von denen jeder rund 700 Seiten zählt. Der einflussreiche Münchener „Dichterfürst“ Heyse pflegte zahlreiche Freundschaften und war auch als Gastgeber berühmt.",
+    "year": 1830,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Élisée Reclus",
+    "birthday": "1830-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/%C3%89lis%C3%A9e_Reclus%2C_by_Nadar%2C_retouched.jpg/238px-%C3%89lis%C3%A9e_Reclus%2C_by_Nadar%2C_retouched.jpg",
+      "width": 238,
+      "height": 320
+    },
+    "extract": "Jacques Élisée Reclus war ein französischer Geograph und Anarchist.",
+    "year": 1830,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Aníbal Pinto Garmendia",
+    "birthday": "1825-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/AnibalPintoGarmendia.jpg/232px-AnibalPintoGarmendia.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Aníbal Pinto Garmendia war von 1876 bis 1881 Präsident von Chile.",
+    "year": 1825,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jules Chevalier",
+    "birthday": "1824-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Abb%C3%A9_Jules_Chevalier.jpg/228px-Abb%C3%A9_Jules_Chevalier.jpg",
+      "width": 228,
+      "height": 320
+    },
+    "extract": "Jules Chevalier war ein französischer Priester und Autor. Jules Chevalier gründete 1854 den Orden der Herz-Jesu-Missionare.",
+    "year": 1824,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Josef Loschmidt",
+    "birthday": "1821-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Johann_Josef_Loschmidt.jpg/229px-Johann_Josef_Loschmidt.jpg",
+      "width": 229,
+      "height": 320
+    },
+    "extract": "Johann Josef Loschmidt war ein böhmisch-österreichischer Physiker und Chemiker.",
+    "year": 1821,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Franziska Möllinger",
+    "birthday": "1817-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Franziska_Moellinger_GA_II_46_1_bern.tif/lossy-page1-320px-Franziska_Moellinger_GA_II_46_1_bern.tif.jpg",
+      "width": 320,
+      "height": 254
+    },
+    "extract": "Louise Franziska Möllinger war eine Schweizer Daguerreotypistin aus der Rheinpfalz. Sie gilt als erste Frau, die in der Schweiz als Fotografin tätig war.",
+    "year": 1817,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wolfgang Müller von Königswinter",
+    "birthday": "1816-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Wolfgang_M%C3%BCller_von_K%C3%B6nigswinter_%281816-1873%29.jpg/258px-Wolfgang_M%C3%BCller_von_K%C3%B6nigswinter_%281816-1873%29.jpg",
+      "width": 258,
+      "height": 320
+    },
+    "extract": "Wolfgang Müller von Königswinter, eigentlich Peter Wilhelm Karl Müller, war ein deutscher Arzt, Politiker sowie Dichter patriotischer Lyrik, beliebter Volkslieder und Sagen.",
+    "year": 1816,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "James Hopkins Adams",
+    "birthday": "1812-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Governor_James_Hopkins_Adams_of_South_Carolina_bw.jpg/171px-Governor_James_Hopkins_Adams_of_South_Carolina_bw.jpg",
+      "width": 171,
+      "height": 320
+    },
+    "extract": "James Hopkins Adams war ein US-amerikanischer Politiker und von 1854 bis 1856 Gouverneur von South Carolina.",
+    "year": 1812,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jakob Becker (Maler)",
+    "birthday": "1810-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/JakobBecker1810.jpg/224px-JakobBecker1810.jpg",
+      "width": 224,
+      "height": 320
+    },
+    "extract": "Jakob Becker, auch Jakob Becker von Worms, war ein deutscher Maler, Radierer und Lithograf.",
+    "year": 1810,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "William Cannon (Politiker)",
+    "birthday": "1809-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/WilliamCannon.gif",
+      "width": 192,
+      "height": 255
+    },
+    "extract": "William Cannon war ein US-amerikanischer Politiker und von 1863 bis 1865 Gouverneur des Bundesstaates Delaware.",
+    "year": 1809,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Joseph Jenkins Roberts",
+    "birthday": "1809-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Joseph_Jenkins_Roberts.jpg/219px-Joseph_Jenkins_Roberts.jpg",
+      "width": 219,
+      "height": 320
+    },
+    "extract": "Joseph Jenkins Roberts war vom 3. Januar 1848 bis zum 7. Januar 1856 der erste sowie vom 1. Januar 1872 bis zum 7. Januar 1876 der siebte Staatspräsident von Liberia.",
+    "year": 1809,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Karl Joseph von Hefele",
+    "birthday": "1809-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/P_Sinner_-_Bischof_Karl_Joseph_Hefele_1869_%28GPh43%29.jpg/232px-P_Sinner_-_Bischof_Karl_Joseph_Hefele_1869_%28GPh43%29.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Karl Joseph Hefele, ab 1853 von Hefele, war ein römisch-katholischer Kirchenhistoriker und 3. Bischof des Bistums Rottenburg-Stuttgart.",
+    "year": 1809,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Amalie Baader",
+    "birthday": "1806-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/de/d/d2/Amalie_Baader.jpg",
+      "width": 226,
+      "height": 300
+    },
+    "extract": "Amalie Baader war eine deutsche Schriftstellerin und Mitbegründerin des St.-Vincentius-Vereins, des Vorläufers der heutigen St. Vincentius-Kliniken. Sie veröffentlichte auch unter dem Pseudonym H. Sales.",
+    "year": 1806,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Coenraad J. van Houten",
+    "birthday": "1801-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Coenraad_Johannes_van_Houten.jpg/290px-Coenraad_Johannes_van_Houten.jpg",
+      "width": 290,
+      "height": 320
+    },
+    "extract": "Coenraad Johannes van Houten war ein niederländischer Apotheker und Chemiker. Er gilt als Erfinder des Kakaopulvers, das er und sein Vater durch ein neues Verfahren zur Entölung der Kakaobohnen und Verbesserung der Wasserlöslichkeit entwickelten.",
+    "year": 1801,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Friedrich Christian Diez",
+    "birthday": "1794-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Friedrich_Christian_Diez.png/229px-Friedrich_Christian_Diez.png",
+      "width": 229,
+      "height": 320
+    },
+    "extract": "Friedrich Christian Diez war ein deutscher Romanist.",
+    "year": 1794,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Virginie Ancelot",
+    "birthday": "1792-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/WP_Virginie_Ancelot.jpg/240px-WP_Virginie_Ancelot.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Virginie Ancelot, eigentl. Marguerite-Louise Ancelot war eine französische Schriftstellerin und Malerin.",
+    "year": 1792,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Nicola Vaccai",
+    "birthday": "1790-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nicola_Vaccai_italian_song_teacher_%26_composer.jpg",
+      "width": 227,
+      "height": 235
+    },
+    "extract": "Nicola Vaccai war ein italienischer Sänger (Tenor), Komponist und Gesangspädagoge. Zu seinen Lebzeiten zählte er zu den einflussreichsten Komponisten des italienischen Belcanto. Heute ist er vor allem durch seine Praktische Schule des italienischen Gesangs bekannt.",
+    "year": 1790,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "William Lamb, 2. Viscount Melbourne",
+    "birthday": "1779-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/William_Lamb%2C_2nd_Viscount_Melbourne%2C_painted_by_John_Partridge.jpg/249px-William_Lamb%2C_2nd_Viscount_Melbourne%2C_painted_by_John_Partridge.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "extract": "William Lamb, 2. Viscount Melbourne war ein britischer Adliger und Politiker. Er gilt als Mentor Königin Victorias. Nach ihm wurde die Metropole Melbourne benannt.",
+    "year": 1779,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Lea Mendelssohn Bartholdy",
+    "birthday": "1777-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/1823_Hensel_Lea_Mendelssohn.jpg/267px-1823_Hensel_Lea_Mendelssohn.jpg",
+      "width": 267,
+      "height": 320
+    },
+    "extract": "Lea Mendelssohn Bartholdy, geborene Lea Salomon, verheiratet mit dem Bankier und Kulturförderer Abraham Mendelssohn Bartholdy, war Mutter der Komponistin Fanny Mendelssohn Hensel, des Komponisten Felix Mendelssohn Bartholdy, der Sängerin und Salonnière Rebecka Mendelssohn Dirichlet und des Bankiers und Cellisten Paul Mendelssohn Bartholdy. Als kenntnisreiche Pianistin bestimmte sie maßgeblich die Ausbildung ihrer vier musikalisch hochbegabten Kinder. Sie engagierte sich für neue Aufführungen der Musik Johann Sebastian Bachs und seiner Söhne und setzte sich ein für die Verbreitung der Musik Wolfgang Amadeus Mozarts, Joseph Haydns und Ludwig van Beethovens und förderte Musiker, die deren Werke spielten. Als Musik- und Kulturförderin war sie Mittelpunkt eines musikalischen Salons in Berlin, der sich seit 1819 aus dem häuslichen Musikleben der Familie Mendelssohn entwickelt hatte und ab 1831 durch die Aktivitäten Fanny Hensels noch einmal erheblich an Bedeutung gewann.",
+    "year": 1777,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Maria Anna Czartoryska",
+    "birthday": "1768-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Maria_z_Czartoryskich_Wirtemberska.PNG/220px-Maria_z_Czartoryskich_Wirtemberska.PNG",
+      "width": 220,
+      "height": 320
+    },
+    "extract": "Maria Anna Herzogin von Württemberg geb. Prinzessin Czartoryska war eine polnische Adlige und Schriftstellerin.",
+    "year": 1768,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Andrew Jackson",
+    "birthday": "1767-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Andrew_Jackson_Daguerrotype-crop.jpg/256px-Andrew_Jackson_Daguerrotype-crop.jpg",
+      "width": 256,
+      "height": 320
+    },
+    "extract": "Andrew Jackson war ein US-amerikanischer Politiker und von 1829 bis 1837 der siebte Präsident der Vereinigten Staaten. Ferner ist er gemeinsam mit Martin Van Buren der Gründer der Demokratischen Partei der USA.",
+    "year": 1767,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Thomas W. Thompson",
+    "birthday": "1766-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thomas_Weston_Thompson.jpg",
+      "width": 164,
+      "height": 225
+    },
+    "extract": "Thomas Weston Thompson war ein US-amerikanischer Politiker, der den Bundesstaat New Hampshire in beiden Kammern des US-Kongresses vertrat.",
+    "year": 1766,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "James Wilson (Globenhersteller)",
+    "birthday": "1763-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/James_Wilson_%28Globe_Maker%29.jpg/287px-James_Wilson_%28Globe_Maker%29.jpg",
+      "width": 287,
+      "height": 320
+    },
+    "extract": "James Wilson war der erste Hersteller von Globen in den Vereinigten Staaten.",
+    "year": 1763,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Cesare Beccaria",
+    "birthday": "1738-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cesare_Beccaria.jpg/240px-Cesare_Beccaria.jpg",
+      "width": 240,
+      "height": 320
+    },
+    "extract": "Cesare Beccaria war ein bedeutender italienischer Rechtsphilosoph und Strafrechtsreformer im Zeitalter der Aufklärung. Aufgrund seines Werkes „Dei delitti e delle pene“ gilt dieser Aufklärer zudem als Begründer der „Klassischen Schule der Kriminologie“.",
+    "year": 1738,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Stefano Ittar",
+    "birthday": "1724-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Catania_BW_2012-10-06_11-23-47.JPG/213px-Catania_BW_2012-10-06_11-23-47.JPG",
+      "width": 213,
+      "height": 320
+    },
+    "extract": "Stefano Ittar war ein polnischer Architekt. Er gilt als letzter bedeutender Vertreter des Spätbarocks in Catania, wandte sich dann aber in Malta dem Neoklassizismus zu.",
+    "year": 1724,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Philipp (Parma)",
+    "birthday": "1720-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ranc_-_Infante_Felipe_of_Spain%2C_future_Duke_of_Parma.jpg/233px-Ranc_-_Infante_Felipe_of_Spain%2C_future_Duke_of_Parma.jpg",
+      "width": 233,
+      "height": 320
+    },
+    "extract": "Philipp von Spanien, Herzog von Parma, war der dritte Sohn des Königs Philipp V. von Spanien und dessen zweiter Frau Elisabetta Farnese von Parma. Er war Infant von Spanien und seit 1738 Graf von Chinchón, ein Titel, den er im Jahre 1761 an seinen jüngeren Bruder Luis de Borbón y Farnesio übergab. Im Jahre 1748 wurde er zum Herzog von Parma sowie zum Herzog von Piacenza und Guastalla bestimmt.",
+    "year": 1720,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Nicolas-Louis de Lacaille",
+    "birthday": "1713-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nicolas_Louis_de_La_Caille._Line_engraving_by_Th%C3%A9r%C3%A8se_Devaux_Wellcome_L0006146.jpg/230px-Nicolas_Louis_de_La_Caille._Line_engraving_by_Th%C3%A9r%C3%A8se_Devaux_Wellcome_L0006146.jpg",
+      "width": 230,
+      "height": 320
+    },
+    "extract": "Nicolas-Louis de Lacaille, auch bekannt als Abbé de La Caille, war ein französischer Astronom, der 17 der 88 modernen Sternbilder benannte.",
+    "year": 1713,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Friedrich Sinner",
+    "birthday": "1713-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Handmann%2C_Friedrich_Sinner_1748.jpg/246px-Handmann%2C_Friedrich_Sinner_1748.jpg",
+      "width": 246,
+      "height": 320
+    },
+    "extract": "Friedrich von Sinner war ein Schweizer Jurist und Magistrat.",
+    "year": 1713,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Johann Christoph Müller",
+    "birthday": "1673-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mapa_%C4%8Cech_2.jpg/320px-Mapa_%C4%8Cech_2.jpg",
+      "width": 320,
+      "height": 194
+    },
+    "extract": "Johann Christoph Müller war ein deutscher Kartograf und Ingenieuroffizier in österreichischen Diensten.",
+    "year": 1673,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "George Bähr",
+    "birthday": "1666-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dresden_frauenkirche.jpg/217px-Dresden_frauenkirche.jpg",
+      "width": 217,
+      "height": 320
+    },
+    "extract": "George Bähr war ein deutscher Baumeister des Barocks. Sein Hauptwerk ist die Dresdner Frauenkirche.",
+    "year": 1666,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Olof Rudbeck der Jüngere",
+    "birthday": "1660-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Rudbeck_O_dy.jpg",
+      "width": 191,
+      "height": 243
+    },
+    "extract": "Olof Rudbeck der Jüngere war ein schwedischer Anatom und Botaniker. Sein offizielles botanisches Autorenkürzel lautet „O.O.Rudbeck“. Sein Sohn war Johan Olof Rudbeck (1711–1790), der ebenfalls Botaniker und auch Mediziner war.",
+    "year": 1660,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Shunzhi",
+    "birthday": "1638-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E6%B8%85%E4%B8%96%E7%A5%96%E6%9C%9D%E5%86%A0%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg/234px-%E6%B8%85%E4%B8%96%E7%A5%96%E6%9C%9D%E5%86%A0%E6%9C%8D%E5%83%8F%E8%BD%B4.jpg",
+      "width": 234,
+      "height": 320
+    },
+    "extract": "Shùnzhì war der Sohn des mandschurischen Fürsten Huang Taiji (Abahai) und wurde nach der Eroberung Chinas durch die Mandschu im Alter von sechs Jahren zum ersten Kaiser der neu begründeten Qing-Dynastie.",
+    "year": 1638,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Franciscus Sylvius",
+    "birthday": "1614-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Portret_van_Franciscus_de_le_Bo%C3%AB_Sylvius%2C_RP-P-OB-33.612.jpg/249px-Portret_van_Franciscus_de_le_Bo%C3%AB_Sylvius%2C_RP-P-OB-33.612.jpg",
+      "width": 249,
+      "height": 320
+    },
+    "extract": "Franciscus Sylvius, latinisiert aus Franz de le Boë, war ein hessisch-niederländischer Arzt, Anatom und Naturwissenschaftler flämischer Abstammung. Der als Kliniker und Iatrochemiker bedeutsame Mediziner gilt als Begründer der naturwissenschaftlich ausgerichteten Medizin und der Klinischen Chemie.",
+    "year": 1614,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jan Fyt",
+    "birthday": "1611-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Jan_Fyt_002.jpg/320px-Jan_Fyt_002.jpg",
+      "width": 320,
+      "height": 214
+    },
+    "extract": "Jan Fyt, oder Johannes Fyt oder Jan Fijt war ein flämischer Maler.",
+    "year": 1611,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Wilhelm August (Braunschweig-Harburg)",
+    "birthday": "1564-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Buno_Wilhelm_August_von_Braunschweig-L%C3%BCneburg-Harburg.JPG/248px-Buno_Wilhelm_August_von_Braunschweig-L%C3%BCneburg-Harburg.JPG",
+      "width": 248,
+      "height": 320
+    },
+    "extract": "Wilhelm August von Braunschweig-Lüneburg-Harburg war Inhaber der Herrschaft Harburg.",
+    "year": 1564,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Hedwig Jagiellonica (1513–1573)",
+    "birthday": "1513-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jadwiga_Jagiellonka.jpg/231px-Jadwiga_Jagiellonka.jpg",
+      "width": 231,
+      "height": 320
+    },
+    "extract": "Hedwig Jagiellonica war eine polnische Prinzessin aus der Jagiellonendynastie. Sie war ab 1535 Kurfürstin von Brandenburg.",
+    "year": 1513,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Anne de Montmorency",
+    "birthday": "1493-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Clouet-montmorencyanne.jpg/232px-Clouet-montmorencyanne.jpg",
+      "width": 232,
+      "height": 320
+    },
+    "extract": "Anne de Montmorency war erster Herzog von Montmorency und Pair von Frankreich. Er bekleidete die Ämter des Marschalls und Connétables von Frankreich und gilt als einer der bedeutenden französischen Feldherren des 16. Jahrhunderts.",
+    "year": 1493,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Pietro Accolti",
+    "birthday": "1455-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Card._Pietro_Accolti.jpg/242px-Card._Pietro_Accolti.jpg",
+      "width": 242,
+      "height": 320
+    },
+    "extract": "Pietro Accolti war ein italienischer Geistlicher und Kardinal der katholischen Kirche. Er war Mitglied der römischen Kurie und Bischof von Ancona. Pietro Accolti wird auch als Kardinal von Ancona bezeichnet; sein Name wird auch mit Petrus de Accoltis de Aretio wiedergegeben.",
+    "year": 1455,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Jakob I. (Baden)",
+    "birthday": "1407-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Jacob%2C_Margrave_of_Baden-Baden.jpg",
+      "width": 318,
+      "height": 305
+    },
+    "extract": "Markgraf Jakob I. von Baden regierte die Markgrafschaft Baden von 1431 bis 1453.",
+    "year": 1407,
+    "month": 3,
+    "day": 15
+  },
+  {
+    "name": "Guillaume Juvénal des Ursins",
+    "birthday": "1400-3-15",
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/0_Guillaume_Jouvenel_des_Ursins_-_Jean_Fouquet_-_INV_9619_-_Louvre.JPG/248px-0_Guillaume_Jouvenel_des_Ursins_-_Jean_Fouquet_-_INV_9619_-_Louvre.JPG",
+      "width": 248,
+      "height": 320
+    },
+    "extract": "Guillaume Juvénal des Ursins war Kanzler von Frankreich unter Karl VII. und Ludwig XI.",
+    "year": 1400,
+    "month": 3,
+    "day": 15
+  }
+]
