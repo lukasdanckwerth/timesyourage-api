@@ -8,31 +8,24 @@ const init = require("./database/database-init.js");
 const birthdayRequest = require("./operations/birthday-request.js");
 
 const app = express();
-const version = require("../package.json").version || "Unknown";
-const port = process.env.PORT || 80;
-const environment = process.env.NODE_ENV || "development";
-const API_KEY = "TimesYourAge";
+const port = process.env.PORT || 3000;
 
-// adding Helmet to enhance your API's security
+function info() {
+  return {
+    name: require("../package.json").name,
+    version: require("../package.json").version,
+    environment: process.env.NODE_ENV || "development",
+  };
+}
+
 app.use(helmet());
-app.use(logRequest());
+// app.use(logRequest());
 // app.use(apiKey("1234"));
 
-app.use("/", express.static("src/static"));
-
 app.get("/birthday/:date?", birthdayRequest);
-app.get("/date/:date?", birthdayRequest);
-app.get("/birthdays", function (req, res) {
-  res.json({
-    message: "TimesYourAge Server (" + version + ")",
-  });
+app.get("/", function (req, res) {
+  res.json(info());
   res.end();
 });
 
-app.listen(port, async function () {
-  console.log("\n==============================");
-  console.log("TimesYourAge Server v" + version);
-  console.log("port: " + port);
-  console.log("env: " + environment + "\n");
-  init();
-});
+app.listen(port, () => init());
