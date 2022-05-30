@@ -10,6 +10,10 @@ const days = [...Array(31).keys()].map((d) => d + 1);
 // const months = [1];
 // const days = [1];
 
+function print(...args) {
+  console.log("[grab]", ...args);
+}
+
 function createDirectory(name) {
   if (!fs.existsSync(name)) fs.mkdirSync(name, { recursive: true });
 }
@@ -56,36 +60,45 @@ async function grab(language) {
   if (!language) throw new Error("No language given.");
 
   const directoryPath = directoryName + "/" + language + "/";
-  console.log("grabbing into", directoryPath);
+  print("grabbing into", directoryPath);
   createDirectory(directoryPath);
 
   await wikipedia.setLang(language);
 
-  for (month of months) {
-    for (day of days) {
+  var skipped = 0;
+  for (var month of months) {
+    for (var day of days) {
       const filePath = directoryPath + `${month}-${day}.json`;
-      console.log(filePath);
+
+      if (fs.existsSync(filePath)) {
+        skipped += 1;
+        continue;
+      }
 
       const result = await birthsdaysForDate(month, day);
-      if (!result.births) continue;
+      if (!result.births) {
+        print("no result.births", language, month, day);
+        continue;
+      }
 
-      const birthsdaysNormalized = reformatBirthdays(
-        result.births,
-        month,
-        day,
-        language
-      );
-      const content = JSON.stringify(birthsdaysNormalized, null, 2);
+      const normalized = reformatBirthdays(result.births, month, day, language);
+      const content = JSON.stringify(normalized, null, 2);
 
       fs.writeFileSync(filePath, content);
+      print("wrote", filePath);
 
       await sleep(1000);
     }
   }
+
+  print("skipped", language, skipped);
 }
 
 async function run() {
-  for (language of languages) await grab(language);
+  print("languages", languages);
+  for (language of languages) {
+    await grab(language);
+  }
 }
 
 run();

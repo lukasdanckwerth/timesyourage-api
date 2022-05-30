@@ -21,7 +21,8 @@
   "homepage": "https://github.com/lukasdanckwerth/times-your-age-server#readme",
   "languages": [
     "en",
-    "de"
+    "de",
+    "pl"
   ],
   "dependencies": {
     "express": "^4.17.1",
