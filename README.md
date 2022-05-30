@@ -48,6 +48,7 @@ Returns a collection of birthdays.
 |-----|-----------|
 |`date`| Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
 |`language`| The language to return eg. `"de"`. If none is specified it will fallback to `"en"`. |
+|`limit`| The limit of birthdays to return. Defatults to `20`. |
 
 ## Heroku
 
