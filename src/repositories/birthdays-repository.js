@@ -1,7 +1,7 @@
 const database = require("../database/database.js");
 
 async function collection() {
-  return database.birthdaysCollection();
+  return database.collection("birthdays");
 }
 
 async function all() {
@@ -28,10 +28,6 @@ async function insertMany(birthdays) {
   return collection().then((c) => c.insertMany(birthdays));
 }
 
-async function remove(birthdayId) {
-  // return collection().then((c) => c.remove());
-}
-
 async function random(month, day, language) {
   const aggregate = [
     { $match: { month, day, language } },
@@ -48,4 +44,3 @@ exports.findOne = findOne;
 exports.random = random;
 exports.add = insertOne;
 exports.insertMany = insertMany;
-exports.remove = remove;

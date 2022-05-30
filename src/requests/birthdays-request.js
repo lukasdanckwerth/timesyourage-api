@@ -11,8 +11,6 @@ function birthdaysRequest(req, res) {
   const language = utils.makeSafeLanguage(req.query.lang || "en");
   const limit = safeNumber(req.query.limit || defaultLimit);
 
-  console.log("limit", limit);
-
   repository
     .find(date.month, date.day, language, limit)
     .then((birthdays) => {
