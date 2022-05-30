@@ -2,6 +2,7 @@
 
 - [Installation](#installation)
 - [Update Wikipedia data](#update-wikipedia-data)
+- [Routes](#routes)
 - [Heroku](#heroku)
 
 ## Installation
