@@ -1,13 +1,12 @@
 {
   "name": "times-your-age-server",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "scripts": {
-    "start": "node src/server.js",
     "serve": "node src/server.js",
     "serve:watch": "nodemon src/server.js",
-    "grab": "node scripts/grab-wikipedia.js",
-    "grab:watch": "nodemon scripts/grab-wikipedia.js",
+    "start": "node src/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,14 +19,15 @@
     "url": "https://github.com/lukasdanckwerth/times-your-age-server/issues"
   },
   "homepage": "https://github.com/lukasdanckwerth/times-your-age-server#readme",
+  "languages": [
+    "en",
+    "de"
+  ],
   "dependencies": {
     "express": "^4.17.1",
     "helmet": "^4.6.0",
     "mongodb": "^4.2.0",
-    "mongodb-memory-server": "^8.6.0",
-    "nocache": "^3.0.4",
-    "node-fetch": "^2.6.1",
-    "util": "^0.12.4"
+    "mongodb-memory-server": "^8.6.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.16",

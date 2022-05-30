@@ -1,68 +1,91 @@
 const wikipedia = require("wikipedia");
-const BirthdaysController = require("../src/controller/birthdays.controller.js");
 const fs = require("fs");
+const languages = require("../package.json").languages;
 
-let bc = new BirthdaysController.BirthdaysController();
-
+const directoryName = "data";
 const months = [...Array(12).keys()].map((d) => d + 1);
 const days = [...Array(31).keys()].map((d) => d + 1);
-// const months = [...Array(1).keys()].map((d) => d + 1);
-// const days = [...Array(1).keys()].map((d) => d + 1);
+
+// use for development
+// const months = [1];
+// const days = [1];
+
+function createDirectory(name) {
+  if (!fs.existsSync(name)) fs.mkdirSync(name, { recursive: true });
+}
 
 async function sleep(millies = 1000) {
   await new Promise((r) => setTimeout(r, millies));
 }
 
 async function birthsdaysForDate(month, day) {
-  return await wikipedia.onThisDay({
+  return wikipedia.onThisDay({
     type: "births",
     month: "" + month,
     day: "" + day,
   });
 }
 
-async function addBirthdays(birthdays, month, day) {
+function reformatBirthdays(birthdays, month, day, language) {
+  var birthdaysNew = [];
+
   for (birthday of birthdays) {
     const date = `${birthday.year}-${month}-${day}`;
     const page = birthday.pages[0];
-    const name = page.normalizedtitle;
+
+    if (!page || !page.thumbnail || !page.normalizedtitle) continue;
+
     const obj = {
       name: page.normalizedtitle,
       birthday: date,
-      thumbnail: page.thumbnail,
+      thumbnail: page.thumbnail.source,
       extract: page.extract,
+      year: +birthday.year,
+      month: +month,
+      day: +day,
+      language: language,
     };
 
-    let candidate = await bc.get(name, date);
-    if (candidate) {
-      continue;
-    }
+    birthdaysNew.push(obj);
+  }
 
-    await bc.create(obj);
+  return birthdaysNew;
+}
+
+async function grab(language) {
+  if (!language) throw new Error("No language given.");
+
+  const directoryPath = directoryName + "/" + language + "/";
+  console.log("grabbing into", directoryPath);
+  createDirectory(directoryPath);
+
+  await wikipedia.setLang(language);
+
+  for (month of months) {
+    for (day of days) {
+      const filePath = directoryPath + `${month}-${day}.json`;
+      console.log(filePath);
+
+      const result = await birthsdaysForDate(month, day);
+      if (!result.births) continue;
+
+      const birthsdaysNormalized = reformatBirthdays(
+        result.births,
+        month,
+        day,
+        language
+      );
+      const content = JSON.stringify(birthsdaysNormalized, null, 2);
+
+      fs.writeFileSync(filePath, content);
+
+      await sleep(1000);
+    }
   }
 }
 
 async function run() {
-  // const loadedContent = fs.readFileSync("test.json").toString();
-  // const parsedContent = JSON.parse(loadedContent);
-
-  // addBirthdays(parsedContent.births, "1", "1");
-
-  await wikipedia.setLang("de");
-
-  for (month of months) {
-    for (day of days) {
-      const filename = `${month}-${day}.json`;
-      console.log(filename);
-
-      const result = await birthsdaysForDate(month, day);
-      const content = JSON.stringify(result, null, 2);
-
-      fs.writeFileSync("wikidata-raw/" + filename, content);
-
-      sleep(3);
-    }
-  }
+  for (language of languages) await grab(language);
 }
 
 run();

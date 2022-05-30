@@ -104,4 +104,7 @@ dist
 .tern-port
 .idea
 
-data
+.DS_Store
+
+db-data
+data-raw

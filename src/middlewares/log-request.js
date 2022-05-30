@@ -8,9 +8,10 @@ function logRequest(req, res, next) {
     originalUrl: req.originalUrl,
     url: req.url,
     method: req.method,
-    statusCode: req.statusCode,
-    statusMessage: req.statusMessage,
+    // statusCode: req.statusCode,
+    // statusMessage: req.statusMessage,
     params: req.params,
+    query: req.query,
   };
 
   console.log("\n==================", info, "==================");

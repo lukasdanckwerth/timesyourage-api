@@ -2,29 +2,31 @@ const express = require("express");
 const helmet = require("helmet");
 const apiKey = require("./middlewares/api-key.js");
 const logRequest = require("./middlewares/log-request.js");
-const nocache = require("nocache");
 
 const init = require("./database/database-init.js");
-const birthdayRequest = require("./operations/birthday-request.js");
-const birthdaysRequest = require("./operations/birthdays-request.js");
+const birthdayRequest = require("./requests/birthday-request.js");
+const birthdaysRequest = require("./requests/birthdays-request.js");
+
+const package = require("../package.json");
 
 const app = express();
 const port = process.env.PORT || 3000;
+const environment = process.env.NODE_ENV || "development";
 
 function info() {
   return {
-    name: require("../package.json").name,
-    version: require("../package.json").version,
-    environment: process.env.NODE_ENV || "development",
+    name: package.name,
+    version: package.version,
+    environment: environment,
+    languages: package.languages,
   };
 }
 
 app.use(helmet());
-// app.use(logRequest());
-// app.use(apiKey("1234"));
+if (environment === "development") app.use(logRequest());
 
-app.get("/birthday/:date?", birthdayRequest);
-app.get("/birthdays:date?", birthdaysRequest);
+app.get("/birthday", birthdayRequest);
+app.get("/birthdays", birthdaysRequest);
 
 app.get("/", function (req, res) {
   res.json(info());

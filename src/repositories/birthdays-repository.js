@@ -10,16 +10,16 @@ async function all() {
     .then((cursor) => cursor.toArray());
 }
 
-async function get(name, birthday) {
-  return collection().then((c) => c.findOne({ name, birthday }));
+async function get(name, birthday, language) {
+  return collection().then((c) => c.findOne({ name, birthday, language }));
 }
 
-async function find(month, day) {
-  return collection().then((c) => c.find({ month, day }).toArray());
+async function find(month, day, language) {
+  return collection().then((c) => c.find({ month, day, language }).toArray());
 }
 
-async function findOne(month, day) {
-  return collection().then((c) => c.findOne({ month, day }));
+async function findOne(month, day, language) {
+  return collection().then((c) => c.findOne({ month, day, language }));
 }
 
 async function insertOne(birthday) {
@@ -34,8 +34,11 @@ async function remove(birthdayId) {
   // return collection().then((c) => c.remove());
 }
 
-async function random(month, day) {
-  const aggregate = [{ $match: { month, day } }, { $sample: { size: 1 } }];
+async function random(month, day, language) {
+  const aggregate = [
+    { $match: { month, day, language } },
+    { $sample: { size: 1 } },
+  ];
   return collection()
     .then((c) => c.aggregate(aggregate).toArray())
     .then((array) => array[0]);

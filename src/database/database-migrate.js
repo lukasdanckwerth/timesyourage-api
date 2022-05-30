@@ -7,10 +7,12 @@ async function migrate() {
   await connection.createCollection("birthdays");
   let birthdaysCollection = await connection.collection("birthdays");
 
-  await birthdaysCollection.createIndex({ name: 1, birthday: 1 });
+  await birthdaysCollection.createIndex({ name: 1, birthday: 1, language: 1 });
   await birthdaysCollection.createIndex({ year: 1 });
   await birthdaysCollection.createIndex({ month: 1 });
   await birthdaysCollection.createIndex({ day: 1 });
+  await birthdaysCollection.createIndex({ language: 1 });
+
   console.log("[migrate] end");
 }
 
