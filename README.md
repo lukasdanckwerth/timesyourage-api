@@ -40,7 +40,7 @@ Returns information about the server.
 
 Returns one random birthday.
 
-| Query      | Description                                                                                           |
+| Parameter  | Description                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 | `date`     | Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
 | `language` | The language to return eg. `"de"`. If none is specified it will fallback to `"en"`.                   |
@@ -49,7 +49,7 @@ Returns one random birthday.
 
 Returns a collection of birthdays.
 
-| Query      | Description                                                                                           |
+| Parameter  | Description                                                                                           |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 | `date`     | Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
 | `language` | The language to return eg. `"de"`. If none is specified it will fallback to `"en"`.                   |

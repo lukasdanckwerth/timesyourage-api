@@ -4,4 +4,4 @@
 FROM node:16-alpine as build-stage
 ENV NODE_ENV=development
 
-
+RUN env
