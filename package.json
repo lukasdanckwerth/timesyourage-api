@@ -1,5 +1,5 @@
 {
-  "name": "times-your-age-server",
+  "name": "timesyourage-api",
   "version": "1.0.0",
   "private": true,
   "description": "",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:lukasdanckwerth/times-your-age-server.git"
+    "url": "git+git@github.com:lukasdanckwerth/timesyourage-api.git"
   },
   "author": "Lukas Danckwerth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lukasdanckwerth/times-your-age-server/issues"
+    "url": "https://github.com/lukasdanckwerth/timesyourage-api/issues"
   },
-  "homepage": "https://github.com/lukasdanckwerth/times-your-age-server#readme",
+  "homepage": "https://github.com/lukasdanckwerth/timesyourage-api#readme",
   "languages": [
     "en",
     "de"

@@ -10,7 +10,7 @@ const birthdaysRequest = require("./requests/birthdays-request.js");
 const package = require("../package.json");
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 80;
 const environment = process.env.NODE_ENV || "development";
 
 function info() {
