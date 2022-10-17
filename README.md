@@ -1,9 +1,13 @@
-# TimesYourAge Server
+# TimesYourAge Server [![Docker Build](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml) [![Docker Build](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml)
 
-- [Installation](#installation)
-- [Update Wikipedia data](#update-wikipedia-data)
-- [Routes](#routes)
-- [Heroku](#heroku)
+- [TimesYourAge Server  ](#timesyourage-server--)
+  - [Installation](#installation)
+  - [Update Wikipedia data](#update-wikipedia-data)
+  - [Routes](#routes)
+    - [`/`](#)
+    - [`/birthday`](#birthday)
+    - [`/birthdays`](#birthdays)
+  - [Heroku](#heroku)
 
 ## Installation
 
@@ -36,24 +40,25 @@ Returns information about the server.
 
 Returns one random birthday.
 
-|Query|Description|
-|-----|-----------|
-|`date`| Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
-|`language`| The language to return eg. `"de"`. If none is specified it will fallback to `"en"`. |
+| Query      | Description                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| `date`     | Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
+| `language` | The language to return eg. `"de"`. If none is specified it will fallback to `"en"`.                   |
 
 ### `/birthdays`
 
 Returns a collection of birthdays.
 
-|Query|Description|
-|-----|-----------|
-|`date`| Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
-|`language`| The language to return eg. `"de"`. If none is specified it will fallback to `"en"`. |
-|`limit`| The limit of birthdays to return. Defatults to `20`. |
+| Query      | Description                                                                                           |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| `date`     | Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
+| `language` | The language to return eg. `"de"`. If none is specified it will fallback to `"en"`.                   |
+| `limit`    | The limit of birthdays to return. Defatults to `20`.                                                  |
 
 ## Heroku
 
 This app is available through Heroku under the following URLs:
+
 - [`times-your-age.herokuapp.com`](https://times-your-age.herokuapp.com)
 - [`times-your-age.herokuapp.com/birthday`](https://times-your-age.herokuapp.com/birthday)
 - [`times-your-age.herokuapp.com/birthdays`](https://times-your-age.herokuapp.com/birthdays)
