@@ -1,4 +1,4 @@
-# TimesYourAge Server [![Docker Build](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml) [![Docker Build](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml)
+# TimesYourAge Server [![Docker Build](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-build.yml) [![Docker Publish](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/lukasdanckwerth/timesyourage-api/actions/workflows/docker-publish.yml)
 
 - [TimesYourAge Server  ](#timesyourage-server--)
   - [Installation](#installation)
