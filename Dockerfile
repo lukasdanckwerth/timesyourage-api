@@ -2,7 +2,7 @@
 # https://docs.docker.com/develop/develop-images/multistage-build/
 
 # base image
-FROM node:16-alpine as build-stage
+FROM node:18 as build-stage
 
 # set node environment
 ENV NODE_ENV=development
@@ -18,7 +18,7 @@ RUN yarn install --production=false
 
 # ===----------------------------------------------------------------------===
 # build the actual running image
-FROM node:16-alpine as production-stage
+FROM node:18 as production-stage
 
 # set node environment
 ENV NODE_ENV=production
@@ -38,8 +38,11 @@ COPY ./src ./src
 RUN yarn install --production --frozen-lockfile
 RUN rm -rf yarn.lock
 
+RUN env
+RUN ls -la
+
 # expose default path
 EXPOSE $PORT
 
 # start the app
-CMD [ "node", "start" ]
+CMD [ "yarn", "start" ]

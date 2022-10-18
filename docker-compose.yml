@@ -1,0 +1,21 @@
+# docker-compose for development
+version: "3"
+services:
+  timesyourage-api:
+    build: .
+    container_name: timesyourage-api
+    environment:
+      - PORT=${PORT}
+    labels:
+      - traefik.enable=true
+      - traefik.http.routers.timesyourage-api.rule=Host(`${TRAEFIK_HOST}`, `www.${TRAEFIK_HOST}`)
+      - traefik.http.routers.timesyourage-api.entrypoints=web,websecure
+      - traefik.http.routers.timesyourage-api.tls=true
+      - traefik.http.routers.timesyourage-api.tls.certresolver=websecure
+      - traefik.http.services.timesyourage-api.loadbalancer.server.port=80
+    networks:
+      - traefik
+
+networks:
+  traefik:
+    external: true
