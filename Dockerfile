@@ -45,4 +45,4 @@ RUN ls -la
 EXPOSE $PORT
 
 # start the app
-CMD [ "node", "start" ]
+CMD [ "node", "src/server.js" ]
