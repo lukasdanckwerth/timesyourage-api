@@ -45,4 +45,4 @@ RUN ls -la
 EXPOSE $PORT
 
 # start the app
-CMD [ "yarn", "start" ]
+CMD [ "node", "start" ]
