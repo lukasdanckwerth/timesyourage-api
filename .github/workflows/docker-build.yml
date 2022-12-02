@@ -1,5 +1,9 @@
 name: Docker Build
 
+concurrency:
+  group: docker-build-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
     branches: ["main"]
@@ -13,4 +17,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Build the Docker image
-        run: docker build . --file Dockerfile --tag wordclouds:$(date +%s)
+        run: docker build . --file Dockerfile --tag timesyourage-api:$(date +%s)

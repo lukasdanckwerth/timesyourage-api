@@ -41,6 +41,7 @@ RUN yarn install --production --frozen-lockfile
 RUN rm -rf yarn.lock
 
 RUN chown -R node /app/node_modules
+RUN chmod -R 444 /app/data
 RUN env
 RUN ls -la
 
