@@ -2,7 +2,7 @@
 # https://docs.docker.com/develop/develop-images/multistage-build/
 
 # base image
-FROM node:19 as build-stage
+FROM node:18 as build-stage
 
 # set node environment
 ENV NODE_ENV=development
@@ -21,7 +21,7 @@ RUN yarn install --production=false
 # ===----------------------------------------------------------------------===
 # build the actual running image
 # NOTE: do not use a alpine image cause there is no mongodb build existing
-FROM node:19 as production-stage
+FROM node:18 as production-stage
 
 # set node environment
 ENV NODE_ENV=production
