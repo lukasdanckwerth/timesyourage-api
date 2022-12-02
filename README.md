@@ -7,7 +7,6 @@
     - [`/`](#)
     - [`/birthday`](#birthday)
     - [`/birthdays`](#birthdays)
-  - [Heroku](#heroku)
 
 ## Installation
 
@@ -54,11 +53,3 @@ Returns a collection of birthdays.
 | `date`     | Date in the format `YYYY-MM-DD`. If none is specified it will fallback to current date of the server. |
 | `language` | The language to return eg. `"de"`. If none is specified it will fallback to `"en"`.                   |
 | `limit`    | The limit of birthdays to return. Defatults to `20`.                                                  |
-
-## Heroku
-
-This app is available through Heroku under the following URLs:
-
-- [`times-your-age.herokuapp.com`](https://times-your-age.herokuapp.com)
-- [`times-your-age.herokuapp.com/birthday`](https://times-your-age.herokuapp.com/birthday)
-- [`times-your-age.herokuapp.com/birthdays`](https://times-your-age.herokuapp.com/birthdays)

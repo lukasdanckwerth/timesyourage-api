@@ -2,7 +2,7 @@
 # https://docs.docker.com/develop/develop-images/multistage-build/
 
 # base image
-FROM node:18 as build-stage
+FROM node:19 as build-stage
 
 # set node environment
 ENV NODE_ENV=development
@@ -16,9 +16,11 @@ COPY . .
 # install dependencies
 RUN yarn install --production=false
 
+# RUN node scripts/grab-wikipedia.js
+
 # ===----------------------------------------------------------------------===
 # build the actual running image
-FROM node:18 as production-stage
+FROM node:19-alpine as production-stage
 
 # set node environment
 ENV NODE_ENV=production
