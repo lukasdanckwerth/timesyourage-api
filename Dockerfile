@@ -20,7 +20,8 @@ RUN yarn install --production=false
 
 # ===----------------------------------------------------------------------===
 # build the actual running image
-FROM node:19-alpine as production-stage
+# NOTE: do not use a alpine image cause there is no mongodb build existing
+FROM node:19 as production-stage
 
 # set node environment
 ENV NODE_ENV=production
