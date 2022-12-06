@@ -16,7 +16,7 @@ COPY . .
 # install dependencies
 RUN yarn install --production=false
 
-RUN node scripts/grab-wikipedia.js
+RUN node scripts/grab-wikipedia.js --override
 
 # ===----------------------------------------------------------------------===
 # build the actual running image
