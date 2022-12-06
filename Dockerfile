@@ -16,11 +16,11 @@ COPY . .
 # install dependencies
 RUN yarn install --production=false
 
-# RUN node scripts/grab-wikipedia.js
+RUN node scripts/grab-wikipedia.js
 
 # ===----------------------------------------------------------------------===
 # build the actual running image
-# NOTE: do not use a alpine image cause there is no mongodb build existing
+# NOTE: do not use an alpine image cause there is no mongodb build existing
 FROM node:18 as production-stage
 
 # set node environment

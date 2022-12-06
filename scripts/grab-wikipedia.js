@@ -2,7 +2,8 @@ const wikipedia = require("wikipedia");
 const fs = require("fs");
 const languages = require("../package.json").languages;
 
-const directoryName = "data";
+const outputDirectory = "data";
+const override = process.argv.find((arg) => arg === "--override") != undefined;
 const months = [...Array(12).keys()].map((d) => d + 1);
 const days = [...Array(31).keys()].map((d) => d + 1);
 
@@ -11,7 +12,7 @@ const days = [...Array(31).keys()].map((d) => d + 1);
 // const days = [1];
 
 function print(...args) {
-  console.log("[grab]", ...args);
+  console.log("[grab] ", new Date().toISOString(), "", ...args);
 }
 
 function createDirectory(name) {
@@ -33,7 +34,7 @@ async function birthsdaysForDate(month, day) {
 function reformatBirthdays(birthdays, month, day, language) {
   var birthdaysNew = [];
 
-  for (birthday of birthdays) {
+  for (let birthday of birthdays) {
     const date = `${birthday.year}-${month}-${day}`;
     const page = birthday.pages[0];
 
@@ -43,6 +44,7 @@ function reformatBirthdays(birthdays, month, day, language) {
       name: page.normalizedtitle,
       birthday: date,
       thumbnail: page.thumbnail.source,
+      wikipedia: page.content_urls.mobile.page,
       extract: page.extract,
       year: +birthday.year,
       month: +month,
@@ -59,7 +61,7 @@ function reformatBirthdays(birthdays, month, day, language) {
 async function grab(language) {
   if (!language) throw new Error("No language given.");
 
-  const directoryPath = directoryName + "/" + language + "/";
+  const directoryPath = outputDirectory + "/" + language + "/";
   print("grabbing into", directoryPath);
   createDirectory(directoryPath);
 
@@ -70,14 +72,14 @@ async function grab(language) {
     for (var day of days) {
       const filePath = directoryPath + `${month}-${day}.json`;
 
-      if (fs.existsSync(filePath)) {
+      if (fs.existsSync(filePath) && !override) {
         skipped += 1;
         continue;
       }
 
       const result = await birthsdaysForDate(month, day);
       if (!result.births) {
-        print("no result.births", language, month, day);
+        print("no results", language, month, day);
         continue;
       }
 
@@ -87,7 +89,7 @@ async function grab(language) {
       fs.writeFileSync(filePath, content);
       print("wrote", filePath);
 
-      await sleep(1000);
+      await sleep(500);
     }
   }
 
@@ -96,7 +98,9 @@ async function grab(language) {
 
 async function run() {
   print("languages", languages);
-  for (language of languages) {
+  print("override", override);
+
+  for (let language of languages) {
     await grab(language);
   }
 }
